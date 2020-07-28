@@ -1,0 +1,213 @@
+@import url('common.css');
+
+.m_img {
+    position: relative;
+    height: 200px;
+    background-image: url(../img/enter/main.jpg);
+}
+
+.m_img h1 {
+    bottom: 0;
+    position: absolute;
+    font-size: 60px;
+    color: #10456b;
+    font-family: 'SangSangRock';
+    padding: 0;
+    width: 203px;
+}
+
+.map {
+    margin-top: 10px;
+margin-left:86.9%;
+}
+
+.map a {
+    text-align: right;
+    font-size: 15px;
+    margin: 10px 10px 0 0;
+}
+
+.map a:after {
+    content: '>';
+    display: inline-block;
+    margin: 0 3px;
+}
+.map a:last-child:after
+{display: none;
+}
+.turn {
+    margin: 15px;
+}
+
+.turn a {
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+/*=============본문*/
+.w1280 {}
+
+.w1280 .enter_all {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.w1280 .enter_all .sort {
+    margin-right:85px;
+    border: 1px solid #000;
+    width: 215px;
+    height: 460px;
+    box-sizing: border-box;
+
+}
+
+.w1280 .enter_all .sort .enter_price {
+    padding: 20px;
+}
+
+.w1280 .enter_all .sort .enter_price p {
+    width: 170px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 40px 0 10px 10px;
+    border-bottom: 1px solid #000;
+}
+
+.w1280 .enter_all .sort .enter_price label {
+    display: block;
+    font-size: 20px;
+    padding-top: 15px;
+
+}
+
+.w1280 .enter_all .sort .enter_price label input {}
+
+.w1280 .enter_all .sort .enter_pp {
+    padding: 20px;
+}
+
+.w1280 .enter_all .sort .enter_pp p {
+    width: 170px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px 0 10px 10px;
+    border-bottom: 1px solid #000;
+}
+
+.w1280 .enter_all .sort .enter_pp label {
+    padding-top: 10px;
+    display: block;
+    font-size: 20px;
+}
+
+.w1280 .enter_all .sort .enter_pp label input {}
+
+
+
+
+.w1280 .enter_all .enter_list {}
+
+.w1280 .enter_all .enter_list ul {}
+
+.w1280 .enter_all .enter_list ul li {
+    margin-right:22px;
+    margin-bottom: 50px;
+    display: inline-block;
+    width: 305px;
+    height: 362px;
+    border: 1px solid #000;
+}
+
+.w1280 .enter_all .enter_list ul li:nth-of-type(3n){
+    margin-right: 0;
+}
+
+
+.w1280 .enter_all .enter_list ul li .enter_i {}
+
+.w1280 .enter_all .enter_list ul li .enter_i p {
+    box-sizing: border-box;
+    position: relative;
+    width: 305px;
+    height: 242px;
+    background: url(../img/enter/enter_i_1.jpg) no-repeat;
+}
+
+.w1280 .enter_all .enter_list ul li:nth-of-type(2) .enter_i p{
+    background: url(../img/enter/enter_i_2.jpg) no-repeat;}
+.w1280 .enter_all .enter_list ul li:nth-of-type(3) .enter_i p{
+    background: url(../img/enter/enter_i_3.jpg) no-repeat;
+}
+.w1280 .enter_all .enter_list ul li:nth-of-type(4) .enter_i p{
+    background: url(../img/enter/enter_i_4.jpg) no-repeat;
+}
+.w1280 .enter_all .enter_list ul li:nth-of-type(5) .enter_i p{
+    background: url(../img/enter/enter_i_5.jpg) no-repeat;
+}
+.w1280 .enter_all .enter_list ul li:nth-of-type(6) .enter_i p{
+    background: url(../img/enter/enter_i_6.jpg) no-repeat;
+}
+.w1280 .enter_all .enter_list ul li:nth-of-type(7) .enter_i p{
+    background: url(../img/enter/enter_i_7.jpg) no-repeat;
+}
+.w1280 .enter_all .enter_list ul li:nth-of-type(8) .enter_i p{
+    background: url(../img/enter/enter_i_8.jpg) no-repeat;
+}
+.w1280 .enter_all .enter_list ul li:nth-of-type(9) .enter_i p{
+    background: url(../img/enter/enter_i_9.jpg) no-repeat;
+}
+
+
+
+.w1280 .enter_all .enter_list ul li .enter_i p a {
+    margin: 0;
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    background: url(../img/common/sub_none.png) center no-repeat;
+    background-color: rgba(255, 255, 255, 0.6);
+    position: absolute;
+    right: 3%;
+    bottom: 3%;
+    transition: 0.1s;
+}
+
+.w1280 .enter_all .enter_list ul li .enter_i p a:hover {
+    background-image: url(../img/common/sub.png);
+}
+
+
+.w1280 .enter_all .enter_list ul li .enter_l {
+    width: 305px;
+    height: 120px;
+    position: relative;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+
+.w1280 .enter_all .enter_list ul li .enter_l strong {
+    font-size: 25px;
+    font-weight: bold;
+    display: block;
+
+
+}
+
+.w1280 .enter_all .enter_list ul li .enter_l p {
+    font-size: 16px;
+    padding: 10px 0;
+    white-space: pre-line;
+
+}
+
+
+.w1280 .enter_all .enter_list ul li .enter_l a {
+    text-decoration: underline;
+    font-size: 15px;
+    bottom: 10px;
+    right: 10px;
+    position: absolute;
+}

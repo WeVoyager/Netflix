@@ -1,0 +1,307 @@
+@import url(common.css);
+
+main { width: 1280px;
+    margin: 0 auto;}
+
+.d_01 {
+  }
+
+/*상단의 왼쪽*/
+.d_01 .detail_01_1 {
+     border: 1px solid #666666;
+}
+
+.d_01 .detail_01_1:after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.d_01 .detail_01_1 .wrap {
+    width: 25%;
+/*    border-right: 1px solid #666666;*/
+    float: left;
+}
+
+.d_01 .detail_01_1 .wrap div {
+    width: 100%;
+}
+
+.d_01 .detail_01_1 .wrap div h1 {
+    text-align: center;
+    font-size: 35px;
+    padding-top: 35px;
+    font-family: 'NEXON Lv1 Gothic OTF';
+}
+
+.d_01 .detail_01_1 .wrap div .image {
+    width: 250px;
+    height: 250px;
+    border-radius: 3%;
+    margin: 30px auto;
+    background-image: url('../img/detail_01/bg.jpg');
+    background-position: ;
+    background-repeat: no-repeat;
+}
+
+.d_01 .detail_01_1 .wrap div ul {}
+
+.d_01 .detail_01_1 .wrap div ul li {
+    width: 250px;
+    margin-left: 35px;
+}
+
+.d_01 .detail_01_1 .wrap div ul li a {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #000;
+}
+
+.d_01 .detail_01_1 .wrap div ul li a .profile {
+    width: 50px;
+}
+
+.d_01 .detail_01_1 .wrap div ul li a .profile img {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.d_01 .detail_01_1 .wrap div ul li a .profile p {
+    font-size: 14px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.d_01 .detail_01_1 .wrap div ul li .s_review {
+    padding-left: 25px;
+}
+
+.d_01 .detail_01_1 .wrap div ul li .s_review p {
+    padding-left: 30px;
+    background-image: url('../img/common/quote.png');
+    background-size: 20px;
+    background-position: left top;
+    background-repeat: no-repeat;
+    white-space: pre-line;
+}
+
+
+
+
+/*상단의 오른쪽의 윗*/
+.d_01 .detail_01_2 {
+    width: 75%;
+    float: right;
+    padding: 30px;
+}
+
+.d_01 .detail_01_2 .album {}
+
+.d_01 .detail_01_2 .album .photo {
+    padding: 5px;
+
+}
+
+.d_01 .detail_01_2 .album .photo img {
+    border-radius: 3%;
+    width: 100%;
+}
+
+.d_01 .detail_01_2 .album .photo .photo_1 {}
+
+.d_01 .detail_01_2 .album .photo .photo_1 img {}
+
+.d_01 .detail_01_2 .album .photo .photo_1 .photo_1_1 {
+    padding-top: 10px;
+}
+
+.d_01 .detail_01_2 .album .photo .photo_1 .photo_1_1 img {
+    width: 95%;
+}
+
+/*상단 오른쪽의 밑*/
+
+
+.d_01 .detail_01_2 .pick {
+  margin:0;
+    height: 250px;
+}
+
+.d_01 .detail_01_2 .pick a h2 {
+    font-weight: bold;
+    font-size: 20px;
+    width:150px; height:20px;
+    margin-top: 50px;
+}
+
+.d_01 .detail_01_2 .pick figcaption {
+    display: inline-block;
+    width: 135px;
+    height: 170px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 3%;
+    margin:10px 5px;
+}
+
+.d_01 .detail_01_2 .pick figcaption img {
+}
+
+.d_01 .detail_01_2 .pick figcaption a {
+    
+    position:absolute;
+    width: 100%;
+    height: 170px;
+    left: 0; top: 150px;
+    background: rgba(255,255,255,0.5);
+    transition: .5s;
+}
+
+.d_01 .detail_01_2 .pick figcaption a:hover {
+    top:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.d_01 .detail_01_2 .pick figcaption a p{
+    font-size: 14px;
+    color: #000; margin:0;
+    font-weight: bold;
+    text-align: center;
+    white-space:pre-wrap;
+    text-overflow:ellipsis;
+
+}
+
+
+
+/*============하단==============================*/
+
+.d_02{
+    margin-bottom:100px;
+}
+.d_02 ul{
+    padding: 0;
+}
+.d_02 ul > a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:20px;
+    
+}
+.d_02 ul a h2{
+    font-size:24px;
+    padding-left:40px;
+    background-image: url(../img/detail_01/acco.png);
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: 30px;
+}
+.d_02 ul a p{}
+
+.d_02 ul li{
+    margin-right: 14px;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 305px;
+    height:345px;
+    border:1px solid #000;
+   }
+.d_02 ul li:last-child{
+    margin-right: 0;
+}
+
+.d_02 ul li .i_box{
+    position:relative;
+    left:0; bottom:0; 
+    background-image: url(../img/detail_01/ha.jpg);
+    height:225px;
+    background-repeat: no-repeat;
+    position:relative;
+}
+/*숙박*/
+.d_02 ul li:nth-of-type(2) .i_box{
+    background-image: url(../img/detail_01/kent2.jpg);
+}
+.d_02 ul li:nth-of-type(3) .i_box{
+    background-image: url(../img/detail_01/pet.jpg);
+}
+.d_02 ul li:nth-of-type(4) .i_box{
+    background-image: url(../img/detail_01/guest.jpg);
+}
+/*즐길거리*/
+.d_02 ul:nth-of-type(2) li:nth-of-type(1) .i_box{
+      background-image: url(../img/detail_01/chung.jpg);
+}
+.d_02 ul:nth-of-type(2) li:nth-of-type(2) .i_box{
+    background-image: url(../img/detail_01/tower.jpg);
+}
+.d_02 ul:nth-of-type(2) li:nth-of-type(3) .i_box{
+    background-image: url(../img/detail_01/market.jpg);
+}
+.d_02 ul:nth-of-type(2) li:nth-of-type(4) .i_box{
+    background-image: url(../img/detail_01/hae.jpg);
+}
+/*음식점*/
+.d_02 ul:nth-of-type(3) li:nth-of-type(1) .i_box{
+      background-image: url(../img/detail_01/gogi.jpg);
+}
+.d_02 ul:nth-of-type(3) li:nth-of-type(2) .i_box{
+      background-image: url(../img/detail_01/red.jpg);
+}
+.d_02 ul:nth-of-type(3) li:nth-of-type(3) .i_box{
+      background-image: url(../img/detail_01/sa.jpg);
+}
+.d_02 ul:nth-of-type(3) li:nth-of-type(4) .i_box{
+      background-image: url(../img/detail_01/mu.jpg);
+}
+
+
+
+.d_02 ul li .i_box a{
+    margin:0;
+    border-radius: 100%;
+    width:30px; height:30px;
+    background: url(../img/common/sub_none.png) center no-repeat;
+    background-color: rgba(255,255,255,0.6);
+    position:absolute;
+    right:3%; bottom:3%;
+    transition:0.1s;
+   }
+.d_02 ul li .i_box a:hover{
+    background-image: url(../img/common/sub.png);
+}
+
+
+.d_02 ul li .l_box{
+    margin: 10px;
+}
+
+
+.d_02 ul li .l_box a{
+    display: block;
+    color: #000;
+}
+.d_02 ul li .l_box a strong{
+    display:block;
+    font-size:20px;
+}
+
+.d_02 ul li .l_box a sgv{
+    
+}
+
+.d_02 ul li .l_box a p{
+    white-space: pre-line;
+    font-size: 16px;
+    padding-top:5px;
+}
+
+
+
+

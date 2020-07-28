@@ -1,0 +1,184 @@
+@import url('common.css');
+
+.m_img {
+    position: relative;
+    height: 200px;
+    background-image: url(../img/tour/t_main.jpg);
+}
+
+.m_img h1 {
+    bottom: 0;
+    position: absolute;
+    font-size: 60px;
+    color: #10456b;
+    font-family: 'SangSangRock';
+    padding: 0;
+    width: 203px;
+}
+
+.map {
+    margin-top: 10px;
+margin-left:87%;
+}
+
+.map a {
+    text-align: right;
+    font-size: 15px;
+    margin: 10px 10px 0 0;
+}
+
+.map a:after {
+    content: '>';
+    display: inline-block;
+    margin: 0 3px;
+}
+.map a:last-child:after
+{display: none;
+}
+
+
+
+.turn {
+    margin: 15px;
+}
+
+.turn a {
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+
+/*=============본문*/
+.w1280 {}
+
+
+.w1280 .list {}
+
+.w1280 .list ul {}
+
+.w1280 .list ul li {
+    display: inline-block;
+    margin-right: 14px;
+    margin-bottom: 50px;
+    width: 305px;
+    height: 400px;
+    box-sizing: border-box;
+    border: 1px solid #000;
+    overflow: hidden;
+}
+
+.w1280 .list ul li:nth-of-type(4n) {
+    margin-right: 0;
+}
+
+.w1280 .list ul li .i_tour {}
+
+.w1280 .list ul li .i_tour p span {
+    display: inline-block;
+    padding-top: 5px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: rgba(225, 225, 225, 0.6);
+    width: 95px;
+    height: 25px;
+}
+
+.w1280 .list ul li .i_tour p {
+    box-sizing: border-box;
+    position: relative;
+    width: 305px;
+    height: 247px;
+    background: url(../img/tour/nam.jpg) no-repeat;
+}
+
+.w1280 .list ul li:nth-of-type(2) .i_tour p {
+    background-image: url(../img/tour/dol.jpg);
+}
+
+.w1280 .list ul li:nth-of-type(3) .i_tour p {
+    background-image: url(../img/tour/i_3.jpg);
+}
+
+.w1280 .list ul li:nth-of-type(4) .i_tour p {
+    background-image: url(../img/tour/i_4.jpg);
+}
+
+.w1280 .list ul li:nth-of-type(5) .i_tour p {
+    background-image: url(../img/tour/i_5.jpg);
+}
+
+.w1280 .list ul li:nth-of-type(6) .i_tour p {
+    background-image: url(../img/tour/i_6.jpg);
+}
+
+.w1280 .list ul li:nth-of-type(7) .i_tour p {
+    background-image: url(../img/tour/i_7.jpg);
+}
+
+.w1280 .list ul li:nth-of-type(8) .i_tour p {
+    background-image: url(../img/tour/i_8.jpg);
+}
+
+
+.w1280 .list ul li:nth-of-type(9) .i_tour p {
+    background-image: url(../img/tour/i_9.jpg);
+}
+
+.w1280 .list ul li:nth-of-type(10) .i_tour p {
+    background-image: url(../img/tour/i_10.jpg);
+}
+
+.w1280 .list ul li:nth-of-type(11) .i_tour p {
+    background-image: url(../img/tour/i_11.jpg);
+}
+
+.w1280 .list ul li:nth-of-type(12) .i_tour p {
+    background-image: url(../img/tour/i_12.jpg);
+}
+
+
+
+
+.w1280 .list ul li .i_tour a {
+    margin: 0;
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    background: url(../img/common/sub_none.png) center no-repeat;
+    background-color: rgba(255, 255, 255, 0.6);
+    position: absolute;
+    right: 3%;
+    bottom: 3%;
+    transition: 0.1s;
+}
+
+.w1280 .list ul li .i_tour a:hover {
+    background-image: url(../img/common/sub.png);
+}
+
+.w1280 .list ul li .l_tour {
+    width: 305px;
+    height: 152px;
+    padding: 20px;
+    margin: 0;
+    position: relative;
+}
+
+.w1280 .list ul li .l_tour a {}
+
+
+.w1280 .list ul li .l_tour a strong {
+    font-size: 16px;
+    font-weight: lighter;
+    white-space: pre-line;
+    line-height: 1.3;
+}
+
+.w1280 .list ul li .l_tour a p {
+    text-decoration: underline;
+    font-size: 15px;
+    bottom: 10px;
+    right: 10px;
+    position: absolute;
+}

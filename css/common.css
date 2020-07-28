@@ -1,0 +1,195 @@
+@font-face { font-family: 'NEXON Lv1 Gothic OTF'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: 'NEXON Lv1 Gothic OTF Light'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF Light.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: 'SangSangRock'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/SangSangRockOTF.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+html,
+body{
+    margin: 0;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: 'NEXON Lv1 Gothic OTF Light';
+}
+
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+ul,
+li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6,p,a,li,ul,code,span
+{
+    margin: 0;
+}
+
+footer{
+    line-height: 2;
+}
+
+
+/*====width_size======*/
+
+.w1280{
+    width: 1280px;
+    margin: 0 auto;
+}
+
+/*============header==============*/
+
+header{
+    margin: 20px 0;
+}
+
+.align {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.align div{
+    
+}
+
+.align div a{
+    display: inline-block;
+    font-size: 0;
+    vertical-align: middle;
+}
+.align div input[type="search"]{
+    border: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 40px;
+    background: url(../img/common/search.png) 10px center no-repeat;
+    background-color: #e1f3ff;
+    font: bold 16px 'NEXON Lv1 Gothic OTF Light';
+    margin-left: 50px;
+    outline: none;
+}
+.align div input::placeholder{
+    color: #7fa2ba;
+}
+.align nav{
+    display: flex;
+    justify-content: space-between;
+}
+.align nav a{
+    padding: 0;
+    display: inline-block;
+}
+.align nav a:after{
+    content:'|';
+    display: inline-block;
+    padding: 0 8px;
+}
+
+.align nav a:nth-of-type(3):after{
+    display: none;
+}
+
+
+/*============footer==============*/
+
+footer {
+    background: #406a89;
+}
+
+.f {
+    padding: 20px 320px;
+}
+
+.f .letter {
+    position: relative;
+}
+
+.f .letter p {
+    color: #fff;
+    font-size: 12px;
+    white-space: pre-line;
+
+}
+
+.f .letter .sns {
+    display: inline-block;
+    position: absolute;
+    right: 0%;
+    top: 50%;
+
+}
+.f .letter .sns a {}
+.f .letter .sns a img {
+padding-left:30px;}
+
+
+@media (min-width: 768px) and (max-width: 960px) {
+    header{
+        margin: 20px 0;
+    }
+    
+    .align {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 95%;
+        margin: 0 auto;
+    }
+    
+    .align div a{
+        display: inline-block;
+        font-size: 0;
+        vertical-align: middle;
+    }
+    .align div input[type="search"]{
+        border: none;
+        width: 100px;
+        height: 40px;
+        border-radius: 10px;
+        padding-left: 40px;
+        background: url(../img/common/search.png) 10px center no-repeat;
+        background-color: #e1f3ff;
+        font: bold 16px 'NEXON Lv1 Gothic OTF Light';
+        margin-left: 50px;
+        outline: none;
+    }
+    .align div input::placeholder{
+        color: #7fa2ba;
+    }
+    .align nav{
+        display: flex;
+        justify-content: space-between;
+    }
+    .align nav a{
+        padding: 0;
+        display: inline-block;
+    }
+    .align nav a:after{
+        content:'|';
+        display: inline-block;
+        padding: 0 8px;
+    }
+    
+    .align nav a:nth-of-type(3):after{
+        display: none;
+    }
+}
+
+
+@media (min-width: 960px) and (max-width: 1280px){
+    .align{
+        width: 100%;
+        margin: 0;
+    }
+}
