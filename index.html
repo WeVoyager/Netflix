@@ -3,259 +3,392 @@
 
 <head>
     <meta charset="utf-8">
-    <title>KOTRIP</title>
-
-    <link href="css/index.css" rel="stylesheet" type="text/css">
-
+    <title>Netflix</title>
+    <link href="css/Netflix_main.css" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/common/favicon-32x32.png">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
 </head>
 
 <body>
 
     <header>
-        <article class="align">
-            <div>
-                <a href="#"><img src="img/common/logo.png" alt=""></a>
-                <input type="search" placeholder="검색" onfocus="this.placeholder=''" onblur="this.placeholder='검색'">
-            </div>
-
+        <div>
+            <a href="index.html"><img src="img/common/logo.png" alt="Netflix"></a>
+            <p class="click-event"><span>로그인이 필요한 서비스입니다.</span></p>
             <nav>
-                <a href="#">로그인</a>
-                <a href="#">회원가입</a>
-                <a href="#">FAQ</a>
+                <a href="index.html">홈</a>
+                <a href="#">TV프로그램</a>
+                <a href="#">영화</a>
+                <a href="new_content.html">최신 콘텐츠</a>
+                <a href="sub_content.html">내가 찜한 콘텐츠</a>
+                <span class="point"></span>
             </nav>
-        </article>
+
+            <p class="menu">
+                <span class="user-menu">
+                    <a href="login.html">로그인</a>
+                    <a href="sign-up.html">회원가입</a>
+                </span>
+
+                <a class="burger-menu">
+                    <span class="menu-bg"></span>
+                    <span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </span>
+                </a>
+            </p>
+        </div>
     </header>
 
     <main>
-        <article class="banner">
-            <div class="w1280">
-                <h1><small>한국여행에 대한 모든정보</small>
-                    한국여행의 새로운 시작</h1>
+        <!---------------------슬라이드---------------------->
+        <article class="slide">
+            <div>
+                <div>
+                    <ul>
+                        <li>
+                            <iframe src="https://www.youtube.com/embed/x-YJTJsVQ_0" frameborder="0"></iframe>
+                            <div class="function-box">
+                                <div class="set-box">
+                                    <span>
+                                        <a href="#"><img src="img/common/play.png">재생</a>
+                                        <span></span>
+                                        <span></span>
+                                    </span>
+                                    <button><img src="img/common/like_plus.png">내가 찜한 콘텐츠</button>
+                                </div>
 
-                <p>
-                    <a>어디로 떠나세요?</a>
-                    <a>언제 떠나세요?</a>
-                    <a href="#"></a>
+                                <div class="info">
+                                    <strong>킹덤</strong>
+                                    <p>병든 왕을 둘러싸고 흉흉한 소문이 떠돈다. 어둠에
+                                        뒤덮인 조선, 기이한 역병에 신음하는 산하. 정체 모를
+                                        악에 맞서 백성을 구원할 희망은 오직 세자뿐이다. </p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <iframe src="https://www.youtube.com/embed/RM3riRyU08k" frameborder="0"></iframe>
+                            <div class="function-box">
+                                <div class="set-box">
+                                    <span>
+                                        <a href="#"><img src="img/common/play.png">재생</a>
+                                        <span></span>
+                                        <span></span>
+                                    </span>
+                                    <button><img src="img/common/like_plus.png">내가 찜한 콘텐츠</button>
+                                </div>
+
+                                <div class="info">
+                                    <strong>슬기로운 의사생활</strong>
+                                    <p>탄생과 죽음이 공존하는, 인생의 축소판이라고 불리는
+                                        병원에서특별한 하루하루를 살아가는 사람들의 이야
+                                        기를 그린 드라마 </p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <iframe src="https://youtube.com/embed/tfHbcvg6EdA" frameborder="0"></iframe>
+                            <div class="function-box">
+                                <div class="set-box">
+                                    <span>
+                                        <a href="#"><img src="img/common/play.png">재생</a>
+                                        <span></span>
+                                        <span></span>
+                                    </span>
+                                    <button><img src="img/common/like_plus.png">내가 찜한 콘텐츠</button>
+                                </div>
+
+                                <div class="info">
+                                    <strong>사이코지만 괜찮아</strong>
+                                    <p>사랑 따위, 못 느끼면 어때. 태어날 때부터 온기가없는 동화 작가.
+                                        그녀가 사랑을 외면하는 정신 병동 보호사와 마주친다. 이상하지만
+                                        꽤 괜찮은, 힐링 로맨틱 코미디</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <a class="slide_prev"></a>
+                    <a class="slide_next"></a>
+                </div>
+
+                <p class="ig">
+                    <span class="active"><span></span></span>
+                    <span><span></span></span>
+                    <span><span></span></span>
+                    <span><span></span></span>
+                    <span><span></span></span>
+
+                    <span class="btn">
+                        <a class="btn-pause"><img src="img/common/pause_gary.png"></a>
+                        <a class="btn-play"><img src="img/common/play_gary.png"></a>
+                    </span>
                 </p>
             </div>
         </article>
 
-        <article class="recommand">
-            <div class="w1280">
-                <h2>추천여행지</h2>
-                <ul>
-                    <li>
-                        <div>
-                            <span>전라북도</span>
 
-                            <p><strong>전주</strong>
-                                전주는 진정한 미식가들의 천국으로, 유네스코에서 '음식 창의 도시'로 선정되었을 만큼 요리 음식으로 사랑을 받는 도시입니다.
-                            </p>
-
-                            <a href="#">
-                                자세히 보기
-                            </a>
-                        </div>
-                    </li>
-
-                    <li>
-                        <div>
-                            <span>경상북도</span>
-
-                            <p><strong>경주</strong>
-                                경주는 남산, 월성, 대릉원, 황룡사, 산성 등 5곳의 경주역사유적지구, 그리고 경주 양동마을이 유네스코 세계문화유산으로 지정되었습니다.
-                            </p>
-
-                            <a href="#">
-                                자세히 보기
-                            </a>
-                        </div>
-                    </li>
-
-                    <li>
-                        <div>
-                            <span>경상남도</span>
-
-                            <p><strong>부산</strong>
-                                부산은 대한민국에서 두 번째로 큰 도시입니다. 예술에 남다른 관심을 가진 여행객이라면 부산의 여러 박물관과 역사적 건축물을 관람할 수 있습니다.
-                            </p>
-
-                            <a href="#">
-                                자세히 보기
-                            </a>
-                        </div>
-                    </li>
-
-                    <li>
-                        <div>
-                            <span>제주도</span>
-
-                            <p><strong>제주</strong>
-                                제주도는 섬이라는 독특한 지리환경과 옛탐라국의 역사가 깃든 특이한 민속문화로 하여 다른 곳에서는 볼 수 없는 고유한 관광성을 자랑합니다.
-                            </p>
-
-                            <a href="#">
-                                자세히 보기
-                            </a>
-                        </div>
-                    </li>
-                </ul>
-                <span>
-                    <a></a>
-                    <a></a>
-                    <a></a>
-                    <a></a>
-                </span>
-            </div>
-        </article>
-
-        <article class="recommand recommand2">
-            <div class="w1280">
-                <h2>KOTRIP'S PICK</h2>
-                <ul>
-                    <li>
-                        <div>
-                            <span>패키지</span>
-
-                            <p><strong>[내나라여행]</strong>
-                                남해안 일주 4일
-                                (여수/남해/부산)
-                                여행일자 4일 최소인원 12명
-                            </p>
-
-                            <a href="#">
-                                자세히 보기
-                            </a>
-                        </div>
-                    </li>
-
-                    <li>
-                        <div>
-                            <span>패키지</span>
-
-                            <p><strong>[내나라여행]</strong>
-                                2020 한국의 멋,
-                                내나라제주 2박 3일
-                                여행일자 3일 최소인원 8명
-                            </p>
-
-                            <a href="#">
-                                자세히 보기
-                            </a>
-                        </div>
-                    </li>
-
-                    <li>
-                        <div>
-                            <span>패키지</span>
-
-                            <p><strong>[내나라여행]</strong>
-                                한려수도 3일
-                                (거제연박)
-                                여행일자 3일 최소인원 12명
-                            </p>
-
-                            <a href="#">
-                                자세히 보기
-                            </a>
-                        </div>
-                    </li>
-
-                    <li>
-                        <div>
-                            <span>패키지</span>
-
-                            <p><strong>[내나라여행]</strong>
-                                [패밀리]전북대표
-                                (남원/전주) 1박 2일
-                                여행일자 2일 최소인원 12명
-                            </p>
-
-                            <a href="#">
-                                자세히 보기
-                            </a>
-                        </div>
-                    </li>
-                </ul>
-                <span>
-                    <a></a>
-                    <a></a>
-                    <a></a>
-                    <a></a>
-                </span>
-            </div>
-        </article>
-
-
-        <article class="festival">
-            <div class="w1280">
-                <h2>지역축제</h2>
-                <div class="content">
+        <!---------------------TOP10-프로그램------------------->
+        <article class="top-10">
+            <div>
+                <h2>한국 TOP 10 TV프로그램</h2>
+                <div>
                     <ul>
-                        <li class="active">
-                            <p><strong>보령머드축제</strong>
-                                당신의 상상력으로 만드는 머드축제!</p>
+                        <li>
+                            <img src="img/main/top10_01.jpg" alt="사이코지만 괜찮아">
                         </li>
 
                         <li>
-                            <p><strong>에버랜드 섬머워터펀</strong>
-                                에버랜드에서 쿨하게 여름나기!</p>
+                            <img src="img/main/top10_02.jpg" alt="비밀의 숲">
                         </li>
 
                         <li>
-                            <p><strong>여우樂 페스티벌</strong>
-                                실력파 앙상블의 연주로 믿고보는 무대</p>
+                            <img src="img/main/top10_03.jpg" alt="슬기로운 의사생활">
                         </li>
 
                         <li>
-                            <p><strong>라벤더축제</strong>
-                                라벤더를 활용한 다양한 무료 체험</p>
-                        </li>
-
-                        <li>
-                            <p><strong>평창대관령음악제</strong>
-                                음악을 사랑하는 모든 이들을 위한 축제</p>
+                            <img src="img/main/top10_04.jpg" alt="응답하라 1988">
                         </li>
                     </ul>
 
+                    <span class="top-10_list">
+                        <span class="active"></span>
+                        <span></span>
+                        <span></span>
+                    </span>
+
+                    <a class="top-10_prev"></a>
+                    <a class="top-10_next"></a>
+                </div>
+
+                <div class="content-open">
                     <ul>
-                        <li>
-                            <div>
-                                <span>즐길거리</span>
-                                <strong>보령머드축제</strong>
-                                <p>2020.07.17 ~ 2020.07.26
-                                    충청남도 보령시</p>
-                                <a href="#">자세히 보기</a>
-                            </div>
-                        </li>
+
                     </ul>
                 </div>
+            </div>
+        </article>
+
+
+
+        <!---------------------TV프로그램------------------->
+        <article class="tv-program">
+            <div>
+                <div class="tv-title">
+                    <h2>TV프로그램</h2>
+                    <div class="genre">
+                        <span>장르<img src="img/common/select_option_02.png"></span>
+                        <div>
+                            <ul>
+                                <li>한국 드라마</li>
+                                <li>미국 드라마</li>
+                                <li>영국 드라마</li>
+                                <li>아시아 드라마</li>
+                                <li>버라이어티 / 예능</li>
+                                <li>액션</li>
+                            </ul>
+
+                            <ul>
+                                <li>드라마</li>
+                                <li>로맨스</li>
+                                <li>코미디</li>
+                                <li>스릴러</li>
+                                <li>호러</li>
+                                <li>SF / 판타지</li>
+                            </ul>
+
+                            <ul>
+                                <li>키즈</li>
+                                <li>청춘 / 하이틴</li>
+                                <li>애니메이션</li>
+                                <li>다큐시리즈</li>
+                                <li>자연 과학</li>
+                                <li>역사</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <span class="option">
+                        <span>TV프로그램</span>
+                        <span>영화</span>
+                    </span>
+                </div>
+
+                <!---------------------백상예술대상 수상작------------------->
+                <article class="award">
+                    <h3>백상예술대상 수상작</h3>
+                    <div>
+                        <ul>
+                            <li>
+                                <img src="img/main/award_01.jpg" alt="슬기로운 감빵생활">
+                            </li>
+
+                            <li>
+                                <img src="img/main/award_02.jpg" alt="시그널">
+                            </li>
+
+                            <li>
+                                <img src="img/main/award_03.jpg" alt="미생">
+                            </li>
+
+                            <li>
+                                <img src="img/main/award_04.jpg" alt="나의 아저씨">
+                            </li>
+                        </ul>
+
+                        <span class="tv_list">
+                            <span class="active"></span>
+                            <span></span>
+                            <span></span>
+                        </span>
+
+                        <a class="tv_prev"></a>
+                        <a class="tv_next"></a>
+                    </div>
+
+                    <div class="content-open">
+                        <ul>
+
+                        </ul>
+                    </div>
+                </article>
+
+
+                <!---------------------지금 뜨는 콘텐츠------------------->
+                <article class="hot">
+                    <h3>지금 뜨는 콘텐츠</h3>
+                    <div>
+                        <ul>
+                            <li>
+                                <img src="img/main/hot_01.jpg" alt="킹덤">
+                            </li>
+
+                            <li>
+                                <img src="img/main/hot_02.jpg" alt="멜로가 체질">
+                            </li>
+
+                            <li>
+                                <img src="img/main/hot_03.jpg" alt="부부의 세계">
+                            </li>
+
+                            <li>
+                                <img src="img/main/hot_04.jpg" alt="사랑의 불시착">
+                            </li>
+                        </ul>
+
+                        <span class="tv_list">
+                            <span class="active"></span>
+                            <span></span>
+                            <span></span>
+                        </span>
+
+                        <a class="tv_prev"></a>
+                        <a class="tv_next"></a>
+                    </div>
+
+                    <div class="content-open">
+                        <ul>
+
+                        </ul>
+                    </div>
+                </article>
+
+                <!---------------------드라마 & 버라이어티------------------->
+                <article class="drama">
+                    <h3>드라마 & 버라이어티</h3>
+                    <div>
+                        <ul>
+                            <li>
+                                <img src="img/main/drama_01.jpg" alt="미스터 션샤인">
+                            </li>
+
+                            <li>
+                                <img src="img/main/drama_02.jpg" alt="스카이캐슬">
+                            </li>
+
+                            <li>
+                                <img src="img/main/drama_03.jpg" alt="동백꽃 필 무렵">
+                            </li>
+
+                            <li>
+                                <img src="img/main/drama_04.jpg" alt="쌍갑포차">
+                            </li>
+                        </ul>
+
+                        <span class="tv_list">
+                            <span class="active"></span>
+                            <span></span>
+                            <span></span>
+                        </span>
+
+                        <a class="tv_prev"></a>
+                        <a class="tv_next"></a>
+                    </div>
+
+                    <div class="content-open">
+                        <ul>
+
+                        </ul>
+                    </div>
+                </article>
+
+                <!---------------------Netflix 오리지널------------------->
+                <article class="netflix-ori">
+                    <h3>Netflix 오리지널</h3>
+                    <div>
+                        <ul>
+                            <li>
+                                <img src="img/main/netflix-orignal_01.jpg" alt="인간수업">
+                            </li>
+
+                            <li>
+                                <img src="img/main/netflix-orignal_02.jpg" alt="킹덤">
+                            </li>
+
+                            <li>
+                                <img src="img/main/netflix-orignal_03.jpg" alt="좋아하면 울리는">
+                            </li>
+
+                            <li>
+                                <img src="img/main/netflix-orignal_04.jpg" alt="나홀로 그대">
+                            </li>
+                        </ul>
+
+                        <span class="tv_list">
+                            <span class="active"></span>
+                            <span></span>
+                            <span></span>
+                        </span>
+
+                        <a class="tv_prev"></a>
+                        <a class="tv_next"></a>
+                    </div>
+
+                    <div class="content-open">
+                        <ul>
+
+                        </ul>
+                    </div>
+                </article>
             </div>
         </article>
     </main>
 
     <footer>
-        <div class="f">
-            <div class="letter">
-                <p>(주)KOTRIP | 대표 : 박성준, 곽현하 주소 : (03161) 서울특별시 종로구 인사동 5길 41
-                    사업자등록번호 : 102-81-39440 | 사업자정보확인 | 통신판매업신고번호 : 종로01-1806호 | 관광사업자 등록번호 : 제1993-000006호
-
-                    개인정보 보호책임자 : 박성준 | 영업보증보험 : 22억 1천만원 | 가입팩스: 02-734-0392 | 이메일 : wiop05114@gmail.com
-
-                    ※ 부득이한 사정에 의해 여행일정이 변경되는 경우 사전 동의를 받습니다.
-                    ※ KOTRIP은 개별 단품 및 일부 여행상품에 대하여 통신판매중개자로서 통신판매의 당사자가 아니며 해당상품의 거래정보 및 거래등에 대해 책임을 지지 않습니다.
-
-                    COPYRIGHTⓒ KOTRIP SERVICE INC. ALL RIGHTS RESERVED
-                </p>
-                <div class="sns">
-                    <a href="#"><img src="img/common/facebook.png"></a>
-                    <a href="#"><img src="img/common/twitter.png"></a>
-                    <a href="#"><img src="img/common/insta.png"></a>
-                </div>
-            </div>
-
+        <div class="inner">
+            <span>
+                <a href="#"><img src="img/common/facebook.png"></a>
+                <a href="#"><img src="img/common/instagram.png"></a>
+                <a href="#"><img src="img/common/twitter.png"></a>
+                <a href="#"><img src="img/common/youtube.png"></a>
+            </span>
+            <p>대표 : 레지널드 숀 톰프슨 | 이메일 주소 : korea@netflix.com
+                주소: 대한민국 서울특별시 종로구 우정국로 26, 센트럴폴리스 A동 20층 우편번호 03161
+                클라우드 호스팅 : Amazon Web Service Inc.
+            </p>
         </div>
     </footer>
 

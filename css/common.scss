@@ -1,0 +1,211 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400&display=swap');
+
+// font-family: 'Noto Sans KR', sans-serif;
+// font-weight: Thin 100, Light 300, Regular 400
+
+%m-0 {
+    margin: 0;
+}
+
+li{
+    cursor: pointer;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+button{
+    background: none;
+    color: #fff;
+    border: none;
+}
+
+html {
+    @extend %m-0;
+    font-size: 10px;
+    background: #000;
+    color: #fff;
+    font: 10px Noto Sans KR, sans-serif;
+    scroll-behavior: smooth;
+}
+
+button,input{
+    font: 10px Noto Sans KR, sans-serif;
+}
+
+body,ul,li,a,p,h1,h2,h3,h4,h5,h6 {
+    @extend %m-0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+}
+
+@mixin after ($a, $b, $c) {
+    &:after {
+        content: $a;
+        display: $b;
+        clear: $c;
+    }
+}
+
+%v-middle {
+    vertical-align: middle;
+}
+
+
+/*----------헤더----------*/
+header {
+    border-bottom: 1px solid #555;
+    position: sticky;
+    @include after('', block, both);
+
+    div {
+        position: relative;
+        padding: 2rem 0;
+        a {
+            @extend %v-middle;
+            line-height: 2.5;
+        }
+
+        width: 1200px;
+        margin: 0 auto;
+
+        nav {
+            display: inline-block;
+            font-size: 2rem;
+            padding-left: 4rem;
+
+            a {
+                display: inline-block;
+                margin-right: 4rem;
+            }
+
+            //네비게이션 메뉴 이벤트
+            span{
+                position: absolute;
+                display: block;
+                height: 3px;
+                background: #e50914;
+                left: 0; bottom: 0;
+            }
+        }
+
+        P {
+            float: right;
+        }
+    }
+}
+
+.click-event{
+    position: absolute;
+    top: 40%; left: 14%;
+    overflow: hidden;
+    font-size: 1.4rem;
+
+    span{
+        position: relative;
+        left: -150%;
+        transition: 1s;
+        display: none;
+        visibility: hidden;
+        opacity: 0;
+    }
+}
+
+.menu {
+    @extend %v-middle;
+
+    .user-menu {
+        font-size: 1.4em;
+
+        a {
+            display: inline-block;
+            margin-right: 2rem;
+            color: #aaa;
+            line-height: 3;
+            transition: .3s;
+
+            &:hover{
+                color: #fff;
+            }
+        }
+        :nth-of-type(2){
+            margin-right: 4rem;
+        }
+    }
+
+    //버거메뉴
+    .burger-menu {
+        display: inline-block;
+        width: 48px;
+        height: 48px;
+        border: 1px solid #aaa;
+        position: relative;
+        overflow: hidden;
+        cursor:pointer;
+        @extend %v-middle;
+
+        //버거메뉴 속 막대
+        span{
+            position: absolute;
+            display: block;
+            width: 50%; height: 30%;
+            left: 50%; top: 50%;
+            transform: translate(-50%, -50%);
+            span {
+                position: absolute;
+                display: block;
+                width: 20px;
+                height: 2px;
+                background: #aaa;
+                // transition: .5s;
+            }
+            :nth-of-type(1){top: 0;}
+            :nth-of-type(3){top: 100%;}
+        }
+
+        //메뉴 호버 시 백그라운드
+        .menu-bg{
+            display: block;
+            position: absolute;
+            width: 1px; height: calc(100% + 2px);
+            background: #e50914;
+            left: 0;
+            transform-origin: left;
+            transition: .3s;
+        }
+    }
+    :hover .menu-bg{
+        width: 200%;
+    }
+
+    :hover span{
+        span {background: #fff;}
+    }
+}
+
+/*----------풋터----------*/
+footer{
+    background: #151515;
+}
+.inner{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 3rem 0 3rem 18rem;
+    background: url("../img/common/logo_footer.png") left 3rem no-repeat;
+
+    span{
+        display: block;
+        margin-bottom: 2rem;
+        a{display: inline-block; margin-right: 2rem}
+    }
+
+    p{
+        white-space: pre-line;
+        font-size: 1.2rem;
+        color: #555;
+    }
+}

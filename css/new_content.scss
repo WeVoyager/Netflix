@@ -1,0 +1,121 @@
+@import url("common.css");
+
+/*----------TV프로그램----------*/
+.tv-program>div {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 40px 0 70px 0;
+}
+
+
+/*----------TV프로그램 제목----------*/
+.tv-title {
+    border-bottom: 1px solid #666;
+    padding-bottom: 2rem;
+    h2 {
+        display: inline-block;
+        font-size: 2.8rem;
+        margin-right: 3rem;
+    }
+
+    >span {
+        font-size: 1.6rem;
+        cursor: pointer;
+
+        span:last-child {
+            margin-left: 20px;
+            color: #555;
+        }
+    }
+}
+
+/*----------프로그램 목록----------*/
+.tv-program div article h3{
+    font-size: 2rem;
+    margin: 4rem 0 2rem 0;
+}
+.tv-program div article div{
+    position: relative;
+
+    ul {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+
+        li {
+            font-size: 0;
+            width: 23.3%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+}
+
+/*----------프로그램 리스트----------*/
+.tv_list {
+    position: absolute;
+    right: 0;
+    top: -7%;
+    visibility: hidden;
+    opacity: 0;
+    transition: .5s;
+
+    span {
+        display: inline-block;
+        width: 20px;
+        height: 2px;
+        background: #666;
+
+        &.active {
+            background: #fff;
+        }
+    }
+}
+
+/*----------프로그램 슬라이드 버튼----------*/
+.tv_prev,
+.tv_next {
+    display: block;
+    width: 60px;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    visibility: hidden;
+    opacity: 0;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.tv_next {
+    right: 0;
+    background: url("../img/common/content_next.png") center center no-repeat;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.tv_prev {
+    left: 0;
+    background: url("../img/common/content_prev.png") center center no-repeat;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.tv-program article div:hover {
+
+    .tv_list,
+    .tv_prev,
+    .tv_next {
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+.tv_prev:hover,
+.tv_next:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.netflix-ori{
+    .tv_prev,
+    .tv_next{height: 360px;}
+}

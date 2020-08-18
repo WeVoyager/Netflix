@@ -1,195 +1,217 @@
-@font-face { font-family: 'NEXON Lv1 Gothic OTF'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff'); font-weight: normal; font-style: normal; }
-
-@font-face { font-family: 'NEXON Lv1 Gothic OTF Light'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF Light.woff') format('woff'); font-weight: normal; font-style: normal; }
-
-@font-face { font-family: 'SangSangRock'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/SangSangRockOTF.woff') format('woff'); font-weight: normal; font-style: normal; }
-
-html,
-body{
-    margin: 0;
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400&display=swap");
+html, body, ul, li, a, p, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
 }
 
-*{
-    box-sizing: border-box;
-    font-family: 'NEXON Lv1 Gothic OTF Light';
-}
-
-
-a {
-    text-decoration: none;
-    color: #000;
-}
-
-ul,
 li {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+  cursor: pointer;
 }
 
-h1,h2,h3,h4,h5,h6,p,a,li,ul,code,span
-{
-    margin: 0;
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
-footer{
-    line-height: 2;
+button {
+  background: none;
+  color: #fff;
+  border: none;
 }
 
-
-/*====width_size======*/
-
-.w1280{
-    width: 1280px;
-    margin: 0 auto;
+html {
+  font-size: 10px;
+  background: #000;
+  color: #fff;
+  font: 10px Noto Sans KR, sans-serif;
+  scroll-behavior: smooth;
 }
 
-/*============header==============*/
-
-header{
-    margin: 20px 0;
+button, input {
+  font: 10px Noto Sans KR, sans-serif;
 }
 
-.align {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 1280px;
-    margin: 0 auto;
+body, ul, li, a, p, h1, h2, h3, h4, h5, h6 {
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  color: #fff;
 }
 
-.align div{
-    
+header div a, .menu, .menu .burger-menu {
+  vertical-align: middle;
 }
 
-.align div a{
-    display: inline-block;
-    font-size: 0;
-    vertical-align: middle;
-}
-.align div input[type="search"]{
-    border: none;
-    width: 100px;
-    height: 40px;
-    border-radius: 10px;
-    padding-left: 40px;
-    background: url(../img/common/search.png) 10px center no-repeat;
-    background-color: #e1f3ff;
-    font: bold 16px 'NEXON Lv1 Gothic OTF Light';
-    margin-left: 50px;
-    outline: none;
-}
-.align div input::placeholder{
-    color: #7fa2ba;
-}
-.align nav{
-    display: flex;
-    justify-content: space-between;
-}
-.align nav a{
-    padding: 0;
-    display: inline-block;
-}
-.align nav a:after{
-    content:'|';
-    display: inline-block;
-    padding: 0 8px;
+/*----------헤더----------*/
+header {
+  border-bottom: 1px solid #555;
+  position: -webkit-sticky;
+  position: sticky;
 }
 
-.align nav a:nth-of-type(3):after{
-    display: none;
+header:after {
+  content: "";
+  display: block;
+  clear: both;
 }
 
+header div {
+  position: relative;
+  padding: 2rem 0;
+  width: 1200px;
+  margin: 0 auto;
+}
 
-/*============footer==============*/
+header div a {
+  line-height: 2.5;
+}
 
+header div nav {
+  display: inline-block;
+  font-size: 2rem;
+  padding-left: 4rem;
+}
+
+header div nav a {
+  display: inline-block;
+  margin-right: 4rem;
+}
+
+header div nav span {
+  position: absolute;
+  display: block;
+  height: 3px;
+  background: #e50914;
+  left: 0;
+  bottom: 0;
+}
+
+header div P {
+  float: right;
+}
+
+.click-event {
+  position: absolute;
+  top: 40%;
+  left: 14%;
+  overflow: hidden;
+  font-size: 1.4rem;
+}
+
+.click-event span {
+  position: relative;
+  left: -150%;
+  -webkit-transition: 1s;
+  transition: 1s;
+  display: none;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.menu .user-menu {
+  font-size: 1.4em;
+}
+
+.menu .user-menu a {
+  display: inline-block;
+  margin-right: 2rem;
+  color: #aaa;
+  line-height: 3;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.menu .user-menu a:hover {
+  color: #fff;
+}
+
+.menu .user-menu :nth-of-type(2) {
+  margin-right: 4rem;
+}
+
+.menu .burger-menu {
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+  border: 1px solid #aaa;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.menu .burger-menu span {
+  position: absolute;
+  display: block;
+  width: 50%;
+  height: 30%;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.menu .burger-menu span span {
+  position: absolute;
+  display: block;
+  width: 20px;
+  height: 2px;
+  background: #aaa;
+}
+
+.menu .burger-menu span :nth-of-type(1) {
+  top: 0;
+}
+
+.menu .burger-menu span :nth-of-type(3) {
+  top: 100%;
+}
+
+.menu .burger-menu .menu-bg {
+  display: block;
+  position: absolute;
+  width: 1px;
+  height: calc(100% + 2px);
+  background: #e50914;
+  left: 0;
+  -webkit-transform-origin: left;
+          transform-origin: left;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.menu :hover .menu-bg {
+  width: 200%;
+}
+
+.menu :hover span span {
+  background: #fff;
+}
+
+/*----------풋터----------*/
 footer {
-    background: #406a89;
+  background: #151515;
 }
 
-.f {
-    padding: 20px 320px;
+.inner {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 0 3rem 18rem;
+  background: url("../img/common/logo_footer.png") left 3rem no-repeat;
 }
 
-.f .letter {
-    position: relative;
+.inner span {
+  display: block;
+  margin-bottom: 2rem;
 }
 
-.f .letter p {
-    color: #fff;
-    font-size: 12px;
-    white-space: pre-line;
-
+.inner span a {
+  display: inline-block;
+  margin-right: 2rem;
 }
 
-.f .letter .sns {
-    display: inline-block;
-    position: absolute;
-    right: 0%;
-    top: 50%;
-
+.inner p {
+  white-space: pre-line;
+  font-size: 1.2rem;
+  color: #555;
 }
-.f .letter .sns a {}
-.f .letter .sns a img {
-padding-left:30px;}
-
-
-@media (min-width: 768px) and (max-width: 960px) {
-    header{
-        margin: 20px 0;
-    }
-    
-    .align {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        width: 95%;
-        margin: 0 auto;
-    }
-    
-    .align div a{
-        display: inline-block;
-        font-size: 0;
-        vertical-align: middle;
-    }
-    .align div input[type="search"]{
-        border: none;
-        width: 100px;
-        height: 40px;
-        border-radius: 10px;
-        padding-left: 40px;
-        background: url(../img/common/search.png) 10px center no-repeat;
-        background-color: #e1f3ff;
-        font: bold 16px 'NEXON Lv1 Gothic OTF Light';
-        margin-left: 50px;
-        outline: none;
-    }
-    .align div input::placeholder{
-        color: #7fa2ba;
-    }
-    .align nav{
-        display: flex;
-        justify-content: space-between;
-    }
-    .align nav a{
-        padding: 0;
-        display: inline-block;
-    }
-    .align nav a:after{
-        content:'|';
-        display: inline-block;
-        padding: 0 8px;
-    }
-    
-    .align nav a:nth-of-type(3):after{
-        display: none;
-    }
-}
-
-
-@media (min-width: 960px) and (max-width: 1280px){
-    .align{
-        width: 100%;
-        margin: 0;
-    }
-}
+/*# sourceMappingURL=common.css.map */

@@ -1,0 +1,218 @@
+@import url("common.css");
+
+html{
+    overflow: hidden;
+}
+
+.login>div {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 4rem 0 18rem 0;
+
+    &::after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    h2 {
+        font-size: 2.8rem;
+        padding-bottom: 2rem;
+    }
+}
+
+.write-section {
+    width: 800px;
+    border-top: 1px solid #aaa;
+    position: relative;
+    padding-top: 10rem;
+    float: left;
+
+    a {
+        float: left;
+    }
+
+    div {
+        float: right;
+        display: flex;
+        flex-direction: column;
+
+        input[type=text] {
+            width: 350px;
+            height: 50px;
+            border: none;
+            padding-left: 2rem;
+            font-size: 1.4rem;
+            outline: none;
+
+            &:first-child {
+                border-bottom: 1px solid #aaa;
+            }
+        }
+
+        input[type=submit] {
+            background: #be0a0a;
+            border: none;
+            outline: none;
+            height: 50px;
+            font-size: 1.4rem;
+            color: #fff;
+            margin-bottom: 3rem;
+            cursor: pointer;
+        }
+    }
+    
+    &::before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: -1px;
+        width: 75px;
+        height: 1px;
+        background: #be0a0a;
+    }
+}
+
+.save-id{
+    display: flex;
+    align-items: center;
+    padding: 1.5rem 0;
+    font-size: 1.4rem;
+    color: #aaa;
+    
+    input[id=id_save]{
+        display: none;
+    }
+
+    input[id=id_save] + label{
+        display: inline-block;
+        width: 15px; height: 15px;
+        border: 1px solid #aaa;
+        margin-right: 1rem;
+        overflow: hidden;
+        transition: .5s;
+    }
+
+    input[id=id_save]:checked + label{
+        background: url("/img/login/id-save.png") #666 center center no-repeat;
+        background-size: 1rem 1rem;
+    }
+}
+
+.login-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.4rem;
+    font-weight: 300;
+    width: 100%;
+    
+    a{
+        display: flex;
+        align-items: center;
+        transition: .3s;
+
+        &::after{
+            content: '|';
+            display: block;
+            font-size: 1.2rem;
+            color: #666;
+            margin-left: 20px;
+        }
+
+        &:last-child::after{
+            display: none;
+        }
+
+        &:hover{
+            color: #aaa;
+        }
+
+        img{
+            width: 15px;
+            margin-right : 0.5rem;
+        }
+    }
+    
+}
+
+.ads-section {
+    float: right;
+    position: relative;
+}
+
+.ig {
+    position: absolute;
+    right: 5%; top: -10%;
+
+    span {
+        display: inline-block;
+        width: 8px;
+        height: 8px;
+        background: #666;
+        margin-left: 1rem;
+        position: relative;
+        transition: .5s;
+
+        &.active {
+            background: #fff;
+
+            span {
+                background: #c2151c;
+            }
+        }
+
+        &:first-child {
+            margin: 0;
+        }
+
+        span {
+            display: block;
+            position: absolute;
+            width: 0;
+            height: 100%;
+            background: #980f15;
+            transition: .5s;
+        }
+    }
+}
+
+.change-ads{
+    width: 300px;
+    overflow: hidden;
+
+    //오른쪽 배너광고 움직임효과
+    /*  
+        ul{
+            transform: translateX(-100%)
+        }
+    */
+
+    ul{
+        display: flex;
+        color: #fff;
+        transition: .5s;
+    }
+}
+
+.ig .btn {
+    display: inline-block;
+    background: none;
+
+    .btn-play,
+    .btn-pause {
+        display: inline-block;
+        width: 24px;
+        height: 24px;
+
+        img {
+            width: 100%;
+            height: 100%;
+            vertical-align: middle;
+        }
+    }
+}
+
+.ig .btn .btn-play {
+    display: none;
+}

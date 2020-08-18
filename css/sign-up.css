@@ -1,0 +1,317 @@
+@import url("common.css");
+.sign-up > div {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 4rem 0 18rem 0;
+}
+
+.sign-up > div::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.sign-up > div h2 {
+  font-size: 2.8rem;
+  padding-bottom: 2rem;
+}
+
+.sign-up > div h2 span {
+  display: inline-block;
+  margin-left: 2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: #bbb;
+}
+
+.write-section {
+  width: 800px;
+  border-top: 1px solid #aaa;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-top: 4rem;
+  float: left;
+}
+
+.write-section input[type=text] {
+  width: 350px;
+  height: 50px;
+  border: 1px solid #ccc;
+  padding-left: 2rem;
+  font-size: 1.4rem;
+  outline: none;
+}
+
+.write-section input[type=submit] {
+  background: #be0a0a;
+  border: none;
+  outline: none;
+  width: 350px;
+  height: 50px;
+  font-size: 1.4rem;
+  color: #fff;
+  margin-bottom: 3rem;
+  cursor: pointer;
+}
+
+.write-section::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: -1px;
+  left: 0;
+  width: 100px;
+  height: 1px;
+  background: #be0a0a;
+}
+
+.write-section::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.step-change {
+  width: 350px;
+  height: 400px;
+  overflow: hidden;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.step {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.step li {
+  width: 350px;
+}
+
+.step li p span {
+  display: inline-block;
+  font-size: 1.4rem;
+  white-space: pre-line;
+}
+
+.step li p strong {
+  display: block;
+}
+
+.one p span:last-child {
+  font-size: 1.6rem;
+  line-height: 1.3;
+  margin-bottom: 2rem;
+}
+
+.one p strong {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+}
+
+.two input[type=text] {
+  display: none;
+}
+
+.two .save-id {
+  display: none;
+}
+
+.two p .benefit {
+  display: block;
+  margin-bottom: 3rem;
+  padding-left: 3rem;
+  font-size: 1.6rem;
+  background: url("../img/sign-up/check.png") left center no-repeat;
+}
+
+.two p strong {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+}
+
+.three > p .benefit {
+  display: block;
+  margin-bottom: 1.5rem;
+  padding-left: 3rem;
+  font-size: 1.6rem;
+  background: url("../img/sign-up/check.png") left center no-repeat;
+}
+
+.three > p strong {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+}
+
+.three div {
+  width: 100%;
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: .5rem;
+  margin-bottom: 2rem;
+}
+
+.three div::after {
+  content: '';
+  display: block;
+  clear: left;
+}
+
+.three div p:nth-of-type(1) {
+  color: #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.three div p:nth-of-type(1) span strong {
+  font-size: 1.6rem;
+}
+
+.three div p:nth-of-type(1) input[type=radio] {
+  margin-right: 1rem;
+}
+
+.three div p:nth-of-type(2), .three div p:nth-of-type(3) {
+  color: #999;
+  float: left;
+  width: 50%;
+}
+
+.three div p:nth-of-type(2) span, .three div p:nth-of-type(3) span {
+  display: block;
+}
+
+.save-id {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 1.5rem 0;
+  font-size: 1.4rem;
+  color: #aaa;
+}
+
+.save-id input[id=id_save] {
+  display: none;
+}
+
+.save-id input[id=id_save] + label {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border: 1px solid #aaa;
+  margin-right: 1rem;
+  overflow: hidden;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.save-id input[id=id_save]:checked + label {
+  background: url("/img/login/id-save.png") #666 center center no-repeat;
+  background-size: 1rem 1rem;
+}
+
+.ads-section {
+  float: right;
+  position: relative;
+}
+
+.ig {
+  position: absolute;
+  right: 5%;
+  top: -10%;
+}
+
+.ig span {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background: #666;
+  margin-left: 1rem;
+  position: relative;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.ig span.active {
+  background: #fff;
+}
+
+.ig span.active span {
+  background: #c2151c;
+}
+
+.ig span:first-child {
+  margin: 0;
+}
+
+.ig span span {
+  display: block;
+  position: absolute;
+  width: 0;
+  height: 100%;
+  background: #980f15;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.change-ads {
+  width: 300px;
+  overflow: hidden;
+  /*  
+        ul{
+            transform: translateX(-100%)
+        }
+    */
+}
+
+.change-ads ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #fff;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.ig .btn {
+  display: inline-block;
+  background: none;
+}
+
+.ig .btn .btn-play,
+.ig .btn .btn-pause {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+}
+
+.ig .btn .btn-play img,
+.ig .btn .btn-pause img {
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.ig .btn .btn-play {
+  display: none;
+}
+/*# sourceMappingURL=sign-up.css.map */

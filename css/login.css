@@ -1,0 +1,244 @@
+@import url("common.css");
+html {
+  overflow: hidden;
+}
+
+.login > div {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 4rem 0 18rem 0;
+}
+
+.login > div::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.login > div h2 {
+  font-size: 2.8rem;
+  padding-bottom: 2rem;
+}
+
+.write-section {
+  width: 800px;
+  border-top: 1px solid #aaa;
+  position: relative;
+  padding-top: 10rem;
+  float: left;
+}
+
+.write-section a {
+  float: left;
+}
+
+.write-section div {
+  float: right;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.write-section div input[type=text] {
+  width: 350px;
+  height: 50px;
+  border: none;
+  padding-left: 2rem;
+  font-size: 1.4rem;
+  outline: none;
+}
+
+.write-section div input[type=text]:first-child {
+  border-bottom: 1px solid #aaa;
+}
+
+.write-section div input[type=submit] {
+  background: #be0a0a;
+  border: none;
+  outline: none;
+  height: 50px;
+  font-size: 1.4rem;
+  color: #fff;
+  margin-bottom: 3rem;
+  cursor: pointer;
+}
+
+.write-section::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: -1px;
+  width: 75px;
+  height: 1px;
+  background: #be0a0a;
+}
+
+.save-id {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 1.5rem 0;
+  font-size: 1.4rem;
+  color: #aaa;
+}
+
+.save-id input[id=id_save] {
+  display: none;
+}
+
+.save-id input[id=id_save] + label {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border: 1px solid #aaa;
+  margin-right: 1rem;
+  overflow: hidden;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.save-id input[id=id_save]:checked + label {
+  background: url("/img/login/id-save.png") #666 center center no-repeat;
+  background-size: 1rem 1rem;
+}
+
+.login-menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 1.4rem;
+  font-weight: 300;
+  width: 100%;
+}
+
+.login-menu a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.login-menu a::after {
+  content: '|';
+  display: block;
+  font-size: 1.2rem;
+  color: #666;
+  margin-left: 20px;
+}
+
+.login-menu a:last-child::after {
+  display: none;
+}
+
+.login-menu a:hover {
+  color: #aaa;
+}
+
+.login-menu a img {
+  width: 15px;
+  margin-right: 0.5rem;
+}
+
+.ads-section {
+  float: right;
+  position: relative;
+}
+
+.ig {
+  position: absolute;
+  right: 5%;
+  top: -10%;
+}
+
+.ig span {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background: #666;
+  margin-left: 1rem;
+  position: relative;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.ig span.active {
+  background: #fff;
+}
+
+.ig span.active span {
+  background: #c2151c;
+}
+
+.ig span:first-child {
+  margin: 0;
+}
+
+.ig span span {
+  display: block;
+  position: absolute;
+  width: 0;
+  height: 100%;
+  background: #980f15;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.change-ads {
+  width: 300px;
+  overflow: hidden;
+  /*  
+        ul{
+            transform: translateX(-100%)
+        }
+    */
+}
+
+.change-ads ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #fff;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.ig .btn {
+  display: inline-block;
+  background: none;
+}
+
+.ig .btn .btn-play,
+.ig .btn .btn-pause {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+}
+
+.ig .btn .btn-play img,
+.ig .btn .btn-pause img {
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.ig .btn .btn-play {
+  display: none;
+}
+/*# sourceMappingURL=login.css.map */

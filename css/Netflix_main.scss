@@ -1,0 +1,498 @@
+@import url("common.css");
+
+/*----------슬라이드 콘텐츠----------*/
+.slide {
+    width: 100%;
+    border-bottom: 1px solid #222;
+}
+
+.slide>div {
+    padding: 2rem 0 10rem 0;
+}
+
+.slide>div div {
+    padding: 0 1rem;
+    position: relative;
+
+    ul {
+        width: 100%;
+        height: 480px;
+        display: flex;
+        justify-content: space-between;
+
+        li {
+            width: 32.5%;
+            height: 100%;
+            position: relative;
+
+            iframe {
+                width: 100%;
+                height: 100%;
+                display: none;
+            }
+
+            .function-box {
+                width: 100%;
+                height: 30%;
+                bottom: 0;
+                position: absolute;
+                background: rgba(0, 0, 0, 0.7);
+                padding: 2rem 3rem;
+                display: flex;
+                justify-content: space-between;
+            }
+        }
+    }
+}
+
+/*----------슬라이드 콘텐츠_배경이미지----------*/
+@for $s_bg from 1 to 5 {
+    .slide>div ul li:nth-of-type(#{$s_bg}) {
+        background: url("../img/main/silde_0#{$s_bg}.jpg") center center no-repeat;
+    }
+}
+
+/*----------슬라이드 콘텐츠_내용----------*/
+.function-box {
+
+    //재생,내가찜한콘텐츠,추천 기능
+    .set-box {
+        width: 40%;
+
+        >span {
+            display: inline-block;
+            width: 100%;
+            margin-bottom: 1rem;
+
+            //재생버튼
+            a {
+                display: inline-block;
+                width: 50%;
+                color: #000;
+                background-color: #fff;
+                border-radius: 0.5rem;
+                font-size: 2rem;
+                padding: 0.8rem 0;
+                text-align: center;
+                vertical-align: middle;
+                transition: .5s;
+
+                &:hover{background: #ccc;}
+
+                img {
+                    margin-right: 1rem;
+                }
+            }
+
+            //추천 기능
+            span {
+                display: inline-block;
+                border: 1px solid #fff;
+                padding: 1.8rem;
+                vertical-align: middle;
+                border-radius: 100%;
+                transition: .5s;
+                cursor: pointer;
+
+                &:hover{transform: scale(1.1)}
+
+                &:nth-of-type(1) {
+                    margin: 0 0.5rem;
+                    background: url("../img/common/thumbs_up.png") center center no-repeat;
+                    background-size: 50%;
+                }
+
+                &:nth-of-type(2) {
+                    background: url("../img/common/thumbs_down.png") center center no-repeat;
+                    background-size: 50%;
+                }
+            }
+        }
+
+        //내가 찜한 콘텐츠
+        button {
+            width: 100%;
+            padding: 0.8rem 0;
+            background: #666;
+            border-radius: 0.5rem;
+            font-size: 2rem;
+            cursor: pointer;
+            transition: .5s;
+
+            &:hover{background: #444}
+
+            img {
+                width: 1.5rem;
+                height: 1.5rem;
+                margin-right: 1rem
+            }
+        }
+    }
+
+    //제목, 줄거리
+    .info {
+        width: 60%;
+
+        strong {
+            display: block;
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            font-weight: 400;
+        }
+
+        p {
+            font-size: 1.4rem;
+            font-weight: 300;
+        }
+    }
+}
+
+/*----------슬라이드 전환 인디게이터----------*/
+
+.ig {
+    text-align: center;
+    padding-top: 3rem;
+
+    span {
+        display: inline-block;
+        width: 8px;
+        height: 8px;
+        background: #666;
+        margin-left: 1.6rem;
+        position: relative;
+        transition: .5s;
+
+        &.active {
+            width: 80px;
+            background: #3a0306;
+
+            span {
+                background: #c2151c;
+            }
+        }
+
+        &:first-child {
+            margin: 0;
+        }
+
+        span {
+            display: block;
+            position: absolute;
+            width: 0;
+            height: 100%;
+            background: #980f15;
+            transition: .5s;
+        }
+    }
+}
+
+.ig .btn {
+    display: inline-block;
+    background: none;
+
+    .btn-play,
+    .btn-pause {
+        display: inline-block;
+        width: 24px;
+        height: 24px;
+
+        img {
+            width: 100%;
+            height: 100%;
+            vertical-align: middle;
+        }
+    }
+}
+
+.ig .btn .btn-play {
+    display: none;
+}
+
+/*----------슬라이드 전환 버튼----------*/
+//슬라이드 버튼
+.slide_prev,
+.slide_next {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: .5s;
+    cursor: pointer;
+
+    &:hover {
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+}
+
+.slide_prev {
+    background: url("../img/common/slide_left.png") center center no-repeat;
+    background-color: rgba(80, 80, 80, 0.5);
+    left: 0;
+}
+
+.slide_next {
+    background: url("../img/common/slide_right.png") center center no-repeat;
+    background-color: rgba(80, 80, 80, 0.5);
+    right: 0;
+}
+
+/*----------TOP10_프로그램----------*/
+.top-10>div {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 4rem 0;
+    border-bottom: 2px solid #555;
+
+    h2 {
+        font-size: 2.8rem;
+        margin-bottom: 2rem;
+    }
+}
+
+.top-10>div div {
+    position: relative;
+
+    ul {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+
+        li {
+            font-size: 0;
+            width: 23.3%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+}
+
+/*----------TOP10_프로그램 리스트----------*/
+.top-10_list {
+    position: absolute;
+    right: 0;
+    top: -7%;
+    visibility: hidden;
+    opacity: 0;
+    transition: .5s;
+
+    span {
+        display: inline-block;
+        width: 20px;
+        height: 2px;
+        background: #666;
+
+        &.active {
+            background: #fff;
+        }
+    }
+}
+
+
+/*----------TOP10_프로그램 슬라이드 버튼----------*/
+.top-10_prev,
+.top-10_next {
+    display: block;
+    width: 60px;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    visibility: hidden;
+    opacity: 0;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.top-10_next {
+    right: 0;
+    background: url("../img/common/content_next.png") center center no-repeat;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.top-10_prev {
+    left: 0;
+    background: url("../img/common/content_prev.png") center center no-repeat;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.top-10>div div:hover {
+
+    .top-10_list,
+    .top-10_prev,
+    .top-10_next {
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+.top-10_prev:hover,
+.top-10_next:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+/*----------TV프로그램----------*/
+.tv-program>div {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 70px 0;
+}
+
+
+/*----------TV프로그램 제목----------*/
+.tv-title {
+    h2 {
+        display: inline-block;
+        font-size: 2.8rem;
+        margin-right: 2rem;
+    }
+
+    >span {
+        font-size: 1.6rem;
+        margin-left: 3rem;
+        cursor: pointer;
+
+        span:last-child {
+            margin-left: 20px;
+            color: #555;
+        }
+    }
+}
+
+
+/*----------장르 버튼----------*/
+.genre {
+    display: inline-block;
+    position: relative;
+
+    span {
+        display: flex;
+        align-items: center;
+        border: 1px solid #fff;
+        padding: 0.8rem 1.5rem;
+        font-size: 1.4rem;
+
+        img {
+            margin-left: 2rem;
+            width: 1.2rem;
+            height: 0.7rem;
+        }
+    }
+}
+
+.genre>div {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.4rem;
+    width: 350%;
+    background: rgba(80, 80, 80, 0.8);
+    visibility: hidden;
+    opacity: 0;
+    transition: .5s;
+
+    ul {
+        li {
+            padding: 0.5rem;
+
+            &:hover {
+                text-decoration: underline;
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+/*----------프로그램 목록----------*/
+.tv-program div article h3{
+    font-size: 2rem;
+    margin: 4rem 0 2rem 0;
+}
+.tv-program div article div{
+    position: relative;
+
+    ul {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+
+        li {
+            font-size: 0;
+            width: 23.3%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+}
+
+/*----------TOP10_프로그램 리스트----------*/
+.tv_list {
+    position: absolute;
+    right: 0;
+    top: -7%;
+    visibility: hidden;
+    opacity: 0;
+    transition: .5s;
+
+    span {
+        display: inline-block;
+        width: 20px;
+        height: 2px;
+        background: #666;
+
+        &.active {
+            background: #fff;
+        }
+    }
+}
+
+/*----------TOP10_프로그램 슬라이드 버튼----------*/
+.tv_prev,
+.tv_next {
+    display: block;
+    width: 60px;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    visibility: hidden;
+    opacity: 0;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.tv_next {
+    right: 0;
+    background: url("../img/common/content_next.png") center center no-repeat;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.tv_prev {
+    left: 0;
+    background: url("../img/common/content_prev.png") center center no-repeat;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.tv-program article div:hover {
+
+    .tv_list,
+    .tv_prev,
+    .tv_next {
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+.tv_prev:hover,
+.tv_next:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.netflix-ori{
+    .tv_prev,
+    .tv_next{height: 360px;}
+}
