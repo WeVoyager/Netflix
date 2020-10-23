@@ -1,12 +1,8 @@
 @import url("common.css");
-html {
-  overflow: hidden;
-}
-
 .login > div {
   width: 1200px;
   margin: 0 auto;
-  padding: 4rem 0 18rem 0;
+  padding: 4rem 0 22rem 0;
 }
 
 .login > div::after {
@@ -43,7 +39,7 @@ html {
           flex-direction: column;
 }
 
-.write-section div input[type=text] {
+.write-section div input[type=text], .write-section div input[type=password] {
   width: 350px;
   height: 50px;
   border: none;
@@ -52,7 +48,7 @@ html {
   outline: none;
 }
 
-.write-section div input[type=text]:first-child {
+.write-section div input[type=text]:first-child, .write-section div input[type=password]:first-child {
   border-bottom: 1px solid #aaa;
 }
 
@@ -163,46 +159,42 @@ html {
 
 .ig {
   position: absolute;
-  right: 5%;
+  right: 0;
   top: -10%;
-}
+  /* span {
+        display: inline-block;
+        width: 8px;
+        height: 8px;
+        background: #666;
+        margin-left: 1rem;
+        position: relative;
+        transition: .5s;
 
-.ig span {
-  display: inline-block;
-  width: 8px;
-  height: 8px;
-  background: #666;
-  margin-left: 1rem;
-  position: relative;
-  -webkit-transition: .5s;
-  transition: .5s;
-}
+        &.active {
+            background: #fff;
 
-.ig span.active {
-  background: #fff;
-}
+            span {
+                background: #c2151c;
+            }
+        }
 
-.ig span.active span {
-  background: #c2151c;
-}
+        &:first-child {
+            margin: 0;
+        }
 
-.ig span:first-child {
-  margin: 0;
-}
-
-.ig span span {
-  display: block;
-  position: absolute;
-  width: 0;
-  height: 100%;
-  background: #980f15;
-  -webkit-transition: .5s;
-  transition: .5s;
+        span {
+            display: block;
+            position: absolute;
+            width: 0;
+            height: 100%;
+            background: #980f15;
+            transition: .5s;
+        }
+    } */
 }
 
 .change-ads {
   width: 300px;
-  overflow: hidden;
   /*  
         ul{
             transform: translateX(-100%)
@@ -210,17 +202,10 @@ html {
     */
 }
 
-.change-ads ul {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  color: #fff;
-  -webkit-transition: .5s;
-  transition: .5s;
-}
-
 .ig .btn {
   display: inline-block;
+  margin-left: 1rem;
+  vertical-align: -.5rem;
   background: none;
 }
 
@@ -235,7 +220,6 @@ html {
 .ig .btn .btn-pause img {
   width: 100%;
   height: 100%;
-  vertical-align: middle;
 }
 
 .ig .btn .btn-play {

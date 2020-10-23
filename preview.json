@@ -1,0 +1,2294 @@
+{
+    "element": [{
+            "title": "사이코지만 괜찮아",
+            "imgUrl": "img/main/top10_01.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABbNWBDil2AuIY53GMZdV_DSe8Tz6u19CPJWNXcrJQRI6jCebC6MmNOPTlQ_UmiKGrGGafrscQClJxnSZcLYLvkQcHncY.webp?r=2a2",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABS7NfJ-cE24MxuBkeyECKLjnTyEZIrNDtgGHKBzJBA9YtGWSidfVexwXBeVjfPnaDLV3ww1pKsczNHY5t9euk4_0Y2VFza_WtHg.webp?r=33f",
+            "bgVideo": "video/IONTBO.mp4",
+            "genre": ["로맨스","코미디"],
+            "characters": ["서예지","김수현","오정세","박규영"],
+            "story": "사랑 따위, 못 느끼면 어때. 태어날 때부터 온기가없는 동화 작가. 그녀가 사랑을 외면하는 정신 병동 보호사와 마주친다. 이상하지만 꽤 괜찮은, 힐링 로맨틱 코미디",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                    "num": 1,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR1y9A5m2_PnrDZ6QNCD7JH6loiBZT4WA1vFLny7w9nEqqwbFZu7-0BUOwpYWzpXUBp0Ph1691DQGCcpE76RpULhlAn84O95SB2vTFRzwYwurNll.webp?r=ace",
+                    "title": "악몽을 먹고 자란 소년",
+                    "runningTime": 74,
+                    "episodeStory": "소년은 오늘도 악몽에서 깨어났어요. 형이 좋아하는 동화 작가 문영이 강태가 일하는 병원에 낭독회를 하러 온다. 그리고 그녀가 다짜고짜 묻는다. 혹시, 운명을 믿어요?"
+                },
+                {   
+                    "num": 2,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdsAFP2Vm-eybHnyG7Bp1iOlm_ea4oEAGoO1YXhHqblOLuUWczEH5hqxWdBwaHT_NvQLDj0o4n75smGg4hDPIl7iUUTwObQQeF2lzRe26KPKrBDZ.webp?r=8f0",
+                    "title": "빨간구두 아가씨",
+                    "runningTime": 73,
+                    "episodeStory": "내가 알던 누구랑 같은 눈빛을 가지고 있어. 문영을 보며 과거의 기억을 떠올리는 강태. 그가 신경 쓰이는 문영은 상태를 출판 기념 사인회에 초대한다. 아주 계획적으로."
+                },
+                {   
+                    "num": 3,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABS8c21K9XfeK0OPPo3Kb03z0GYe45vZ5kvv7y2FK6iLpipAremWTDOF1m2x0tIGfBnRDqFri2-pHpJu26Wc-pDmB9gcnjjJIvujIaae2dCuM5U6y.webp?r=103",
+                    "title": "잠자는 숲 속의 마녀",
+                    "runningTime": 75,
+                    "episodeStory": "자꾸 탐이 나, 예뻐서. 막무가내로 들이미는 문영. 이번엔 병원에서 문예 수업을 맡는다. 그녀를 피해 다니던 강태는 탈원한 환자를 쫓다가 문영과 대치한다. 정면으로."
+                },
+                {   
+                    "num": 4,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfZvC8-iryG_FMrD3N9teGU4UFZQdXo8Y8fxjLt613E27ub_xGY5A-UwIfPbSUzEGCSQT6KeM66pBbXxq_CM5vLZ2HtIWGtfuVVlf-yPEt6wzYRd.webp?r=2f5",
+                    "title": "좀비아이",
+                    "runningTime": 69,
+                    "episodeStory": "너는 지켜주고 챙겨주고 그러면 돼. 그 말에서 벗어나고 싶었던 걸까. 문영의 도발에 마음이 약해지는 강태. 하지만 잠시 잊고 있었다. 그녀가 남들과 다른 사람이라는 걸."
+                },
+                {   
+                    "num": 5,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTGxYd48mXgKYJZTWsbyF31SAwjzEal5yLG5KVTiUadXcZnDH0NIa6AhBbpjo8YAiRNLhSDWWIOQ7dB1Yi515XYhciEkQNdaThER6FubhJf_5Akr.webp?r=47d",
+                    "title": "저주받은 성의 라푼젤",
+                    "runningTime": 72,
+                    "episodeStory": "싫어, 여기서 잘 거야. 문영을 집에 데려왔다가 후회하는 강태. 왜 자꾸 까먹는 걸까. 주리는 반갑지 않은 손님의 등장에 화를 참지 못하고, 문영은 그의 경고를 무시한다."
+                },
+                {   
+                    "num": 6,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABS8tWxKUYgVTbthDrxekEBXQk0yVvUDEzp560INH5kv6-mDuLFFvnBrWFqVLMYO0zTQcg8R42sVE4KV-WgytDX8rxmoL3YWiwbhTfCUni39FGTuO.webp?r=fe3",
+                    "title": "푸른 수염의 비밀",
+                    "runningTime": 70,
+                    "episodeStory": "내가 말했지? 넌 도망 못 간다고. 상태의 선택은 강태를 충격에 빠트린다. 그래도 어쩔 것인가. 형을 막을 수는 없다. 문영은 병원 환자 때문에 마음이 덜컥 내려앉는다."
+                },
+                {   
+                    "num": 7,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfby1Z8bs7b6TdTcXra1Y1xeKdLa7XISIdN6TGrh_-s9Zlja8CMQ527c6j4mYwYx95NVX2pHcBMVjj7DdeUoi6Qsu1xaJnoS6v3H1xjVCslSWpkU.webp?r=0ea",
+                    "title": "봄날의 개",
+                    "runningTime": 71,
+                    "episodeStory": "마음은 거짓말쟁이라 아파도 조용하지요. 그녀에게 엄마는 어떤 존재일까. 남몰래 흐느끼는 문영이 안쓰러운 강태. 오늘 하루는 땡땡이치고 놀자. 마음이 시키는 대로."
+                },
+                {   
+                    "num": 8,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQRrs4sx5xJ_cH51t_ApjUHhhGBqJ2scHqV6NkE7e84s9G-KxcAyxprwWVMthfthrHz4ZVpB7_yIurLtJc3doQqfMNZIni4rEDhCTA5_JpE0jaq9.webp?r=1f5",
+                    "title": "미녀와 야수",
+                    "runningTime": 76,
+                    "episodeStory": "형이랑 싸우지 말고 사이좋게 있어. 이게 그렇게 어려운 부탁이었나. 상태와 문영의 사이가 단단히 틀어진다. 강태는 자기도 모르게 폭발한다. 안전핀이 고장 난 걸까?"
+                },
+                {   
+                    "num": 9,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcBlJGU5z26RKDN5gR5sCbzCPpHljdZEA2sMOw3bN1T86sTC-9ttynqDROohJFo0GB7izPqua_e8p8UK0Ozmk7biKEvew24YevYzvByCKZsEGI4Z.webp?r=f44",
+                    "title": "임금님 귀는 당나귀 귀",
+                    "runningTime": 74,
+                    "episodeStory": "내가 왜 이럴까. 놀러 가고 싶다. 평생 꿈꾸던 하루, 마침내 일탈을 시도하는 강태. 문영과 함께 산으로 간 그는 난감한 상황에 놓인다. 이대로 돌아갈 것인가, 말 것인가."
+                },
+                {   
+                    "num": 10,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbTjeztjtn036jC97pP7RV0Aw5EzsvecQZafa5Ggz0HAKBCFRlGgAkMO4akBeM2AqkRdhbJOkMgtRL9UDhyx4ZWFIrJs52ItTUfOqDEIiU5rWwpQ.webp?r=742",
+                    "title": "양치기 소녀",
+                    "runningTime": 81,
+                    "episodeStory": "마음의 문을 닫아버린 상태는 이불을 뒤집어쓰고 버틴다. 꿈에서 깨어난 강태는 그녀에게 가시 돋친 말을 내뱉는다. 혼자 있게 된 문영은 생각지도 못한 감정을 깨닫는다."
+                },
+                {   
+                    "num": 11,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABb25lT_80zsajSHx1VlzSJ8TANjaY-Wf7LC9-hCq_cxU29D3PRLp7Q3lG-ByjlXvIO6PH92YGxokes9ROlwi_3uHPyx_h9SdMCJYmTI4GV3iQ1w2.webp?r=c29",
+                    "title": "미운 오리새끼",
+                    "runningTime": 85,
+                    "episodeStory": "생일 축하해 주러 왔지. 병원에서 탈출한 환자가 문영 앞에 나타난다. 상태의 마음을 돌리고 싶은 강태는 조심스럽게 질문을 던진다. 형도 어른이지? 고길동 같은 어른."
+                },
+                {   
+                    "num": 12,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRbO4qNwHI-bvdb3Lnoa9JP1Sss9dyznCj0nhdx-40ZccAP7jd12a9BxlXqj4NLCb7HLhHyD_J5l4VN7as6AZ4HGtKInWXWqREFVMBwObuvHkU9M.webp?r=38c",
+                    "title": "로미오와 줄리엣",
+                    "runningTime": 73,
+                    "episodeStory": "자아를 잃어버린 소년, 감정이 없는 깡통 공주, 박스 속에 갇혀 사는 아저씨. 셋의 이야기는 어떤 결말이 어울릴까. 나비의 악몽에서 벗어나고 싶은 상태는 용기를 낸다."
+                },
+                {   
+                    "num": 13,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaRupx_SE__Vm5q6KeniuhvhSnU-xFywF3vJPFSlH2wLWgKcL209k5i7hCymnXIft9GcJVxlaxHummMNBtYcRlbpHb-V6eCkKIThYu2KgHm3lhJz.webp?r=9bd",
+                    "title": "장화홍련의 아빠",
+                    "runningTime": 82,
+                    "episodeStory": "누구든 건들면 절대로 가만 안 둬. 강태에게 새로운 목표가 생긴다. 나비를 쫓아내고 싶은 상태는 그림을 연습하고, 문영은 아버지가 위독하다는 소식을 듣지만 외면한다."
+                },
+                {   
+                    "num": 14,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABadargTL8JvYd5IJoHyDibepVNty6FEtf5kHtCIquX2OLnluTmTczwu0eisXkVPgK4aDtwoK20vGIjsOkBSvXuC3lh9IEps9oVgaj4WrFwHA2IYy.webp?r=b36",
+                    "title": "손, 아귀",
+                    "runningTime": 77,
+                    "episodeStory": "모두 그녀의 손아귀에서 놀아난 것인가. 상태의 벽화에 손을 댄 사람이 누구인지 알게 된 강태와 충격적인 진실을 마주하게 된 문영. 두 사람은 서로 다른 생각에 빠진다."
+                },
+                {   
+                    "num": 15,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbnnwobMdYhCqqpsrzrOyzKaNfY3ZPXNv5adUwGxDil-8u6cXBEFTvRmzBRnrOkayIk16W9yvoLuD3UOlpF1S7Tz868QsJaIoJxTcfdHL9wB5IUp.webp?r=ebc",
+                    "title": "의좋은 형제들",
+                    "runningTime": 78,
+                    "episodeStory": "저주받은 성으로 달려간 강태. 그는 문영과 형을 지켜낼 수 있을까. 자신이 불행을 몰고 온다고 믿는 문영은 두 형제에게 나가달라고 부탁한다. 아무도 말을 듣지 않지만."
+                },
+                {   
+                    "num": 16,
+                    "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbGp_p3WzKLmtX6r0Spj1Ymfv9ilEjenPH8pbmmEWTXXCaNGpasSuMPyZIgSQGqUlXLnxT5cY3vnR5Wu9tGUbhdaRgGUUfEx8ukmlVWFT8fgoyWj.webp?r=72d",
+                    "title": "진짜 진짜 얼굴을 찾아서",
+                    "runningTime": 80,
+                    "episodeStory": "진짜 진짜 행복한 문강태. 진짜 진짜 작가가 되고 싶은 문상태. 다시 따뜻해진 문영은 새 동화를 마무리하기로 한다. 빼앗긴 얼굴을 되찾았으니 모두에게 보여주리라."
+                }
+            ]
+        },
+        {
+            "title": "비밀의 숲",
+            "imgUrl": "img/main/top10_02.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSfMe7H_M1VIzJVBXU7In3wSk2WLttLQyz3u6cuu2aJKak_23wi5gstZl9X1_hp2NEadM9vKMicibzgUuugdESfdGR9f.webp?r=6c4",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABRKo0wJcxXx187Uf0eQblmoHuy6orBH9qPtut2Ep-Xh_2QPkkRajjcFGWqI6FPbtQMN9q2xW96v-p2kOHCFMsfk8Gh4i10az-4k.webp?r=026",
+            "bgVideo": "video/비밀의 숲.mp4",
+            "genre": ["한국 드라마","스릴러"],
+            "characters": ["조승우","배두나","이준혁","유재명","신혜선"],
+            "story": "공감 능력을 잃은 검사가 살인 사건을 파헤친다. 검사는 열혈 여형사의 도움을 받으며, 수사를 방해하는 부패한 정치 상황에 맞선다.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaxxxRDpfb4ajELwUVbD4S3PgKGNpDkpCdMwBCaQlZ1X6not7sr6W3E2_5VNCI2Wx-VfT8pfg1FD_17fhXi-lB9tzM84u1H0jB6wtIwNKEzUPyRA.webp?r=363",
+                "title": "1화",
+                "runningTime": 76,
+                "episodeStory": "제보자의 시신을 발견한 검사 황시목. 그는 동물 같은 감각으로 용의자를 검거하지만 이내 깨닫는다. 이 살인 사건은 비밀의 숲에 있는 나무 한 그루에 불과하다는 사실을."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSieXsCkkH9_bP8dSGsTbn5pZTw6O7i807ayf8uFUsRlOfb7kvj3GfZoasc3ybiYhrGbT1BkKrjtois46UrwpIFv3PDsSCMJhsNBSSRVbH-4flHm.webp?r=92f",
+                "title": "2화",
+                "runningTime": 69,
+                "episodeStory": "한여진이 새로운 증거를 찾자 시목은 궁지에 몰린다. 진범은 음모에 가려 있고, 그 음모를 밝히기도 전에 옷을 벗어야 하는 상황. 모든 것을 건 시목의 베팅이 시작된다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQNoVj5OJcA5vBDtBHxCN0I_XPg9S18WjCNT5bkPLucDpaezcY2bb7qGqoq0jod21PeawEtT7f3dnEn6cFHypGLGuNGwFp3zU9qiv0FkPoDwO_BZ.webp?r=4c6",
+                "title": "3화",
+                "runningTime": 76,
+                "episodeStory": "수사에서 배제될 위기에 처하자 시목은 승부수를 던진다. TV 생방송에 출연해 두 달 안에 진범을 잡겠노라 공언한 것. 재수사에 돌입한 시목은 뜻밖의 단서를 발견한다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWJR1dXwa83O2M4jQQsAL7AZ-X1ZqMQpJRUU6Xnctk6i-yjvPh0baZyG-Cz9b9oSRyi4TF0L2iFwlpM5K_k2AMXTXfw943e3rcJjmSXd-eC6QwRE.webp?r=1f3",
+                "title": "4화",
+                "runningTime": 68,
+                "episodeStory": "수사를 진행할수록 시목의 비밀도 하나둘 세상에 드러난다. 그러나 여전히 수사를 고집하는 시목. 자신의 부하도 상사도 모두 수사선에 오르면서 그는 점점 고립된다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTdlaNxFLoDTiDLdm6Z_RPayzy_o2SXsE-LnW7eHejSeCU31DBOdxxCO6D8ciyQn_tOtEjD7x1dT687fskx484scCW0u76gqmhu2BWO1IEvTW-uY.webp?r=769",
+                "title": "5화",
+                "runningTime": 63,
+                "episodeStory": "시목이 가는 곳마다 살인이 벌어진다. 무대처럼 공들여 연출된 살인 현장은 무엇을 의미하는 걸까? 확실한 건 하나뿐이다. 살인과 관련된 모든 것이 시목을 향하고 있다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRZ6nJCuq0vitQjXZ37dyVtKLTug16SWThDMa7GycCnXNYoY2XX116QF3WKlezjHGaroBq1w4bxRPNsjBHbVJNbPBaOczHG1aNslk7lsZNJTSR3Z.webp?r=533",
+                "title": "6화",
+                "runningTime": 63,
+                "episodeStory": "모든 이가 자신만의 용의자를 쫓지만, 누구에게도 증거는 없다. 시목이 창준을 노리며 유일한 증거물을 추적하는 사이, 창준은 시목의 손이 닿지 않는 위치에 올라선다."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABToIFrtu7Zd44QJ8e4b83BXvwg0WhqyGu_bT71TgstnRa6mRXSdZHG9ppNuBSTehuqwgg-lwgMW4b6p64w8e9VLGqHvL7yvvxOXP3tLK0CRA_K1G.webp?r=36b",
+                "title": "7화",
+                "runningTime": 71,
+                "episodeStory": "동재가 가진 가영의 핸드폰을 찾아라! 시목과 여진의 수사가 동재를 정조준하자, 동재는 핸드폰을 없애려 한다. 그것이 시목과 여진의 덫인 줄도 모르고."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSBcmWm8lqUJtL-y4wvxmlrRb2nmb1-sUyRdxNsHB-8RnEXtFRMlwKJoaH-f4O2EtoDq6bkXejp1CuiNXaSOMNX0DyGTOLhZPQL6Tfz01gUCkIq1.webp?r=7e3",
+                "title": "8화",
+                "runningTime": 67,
+                "episodeStory": "드디어 범인이 모습을 드러낸다. 범인의 제보로 스폰서 파문에 휩싸인 서부 지검. 곤란해진 검사장은 시목에게 칼자루를 쥐여준다. 그의 칼날은 과연 누구를 겨누게 될까?"
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeMMwvvUqaakaloTKJUzXHBamp-KhTuATEzqJK6KUH6ZqvaPLhdg-fohSXOyD2VVyjsMYkEyuDde1xBNz_90_KjJYvs-J24euwicgVW-NooJFTa4.webp?r=e27",
+                "title": "9화",
+                "runningTime": 65,
+                "episodeStory": "특임 검사 시목을 향한 검찰 조직의 저항이 빗발치는 가운데, 시목은 특임팀을 꾸린다. 친구일지 적일지 모르는 이들에 둘러싸인 수사의 예봉은 서동재를 향한다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVOlv0Ww1HvdNVlnpCGUQa8iJ9hK6xlrhJrkWJVj6Gu-z6vRGpEXYwHEqwGsr7WduVp8uPeDi8MWd8tH_iSKcBKks-mDAXL5_FKNnX9vLPdJxPcz.webp?r=127",
+                "title": "10화",
+                "runningTime": 67,
+                "episodeStory": "비밀의 숲의 봉인이 풀릴까? 가영이 깨어나자 서부지검이 요동친다. 여진은 가영의 입을 막으려 한 용의자를 쫓고, 시목은 모든 사건의 뿌리인 3년 전 사건을 정조준한다."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYlElCVyGfjqX7tNiv8MJTQsqXBlPuNToEpmfnIG32xDW2rpDEA32AblRIEBdygFlYtBXLjyMeR3fZ8AYXvjF12tCcYOQkgNd32pEEGQuwCG9-U4.webp?r=b54",
+                "title": "11화",
+                "runningTime": 68,
+                "episodeStory": "시목과 여진은 가영을 죽이려 한 혐의로 창준의 아내를 압박하지만, 이내 다른 용의자가 나타난다. 권력을 거머쥔 창준은 점점 시목이 닿을 수 없는 곳으로 올라선다."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSXf4_FHLMWR2TyxBbLAe-CsQRN8kQH4hlnqa3Wh3I4PRQ4e4dZtLoM2zmGQCZ5rbHbCiQGLH2igr6X7Be3D_fd9rcUz5ieHfKbiFGi_a7bP1wb4.webp?r=ae7",
+                "title": "12화",
+                "runningTime": 66,
+                "episodeStory": "왜 범인은 가영을 살리려 했나? 새로운 수수께끼에 수사는 난관에 봉착한다. 설상가상 특임팀은 해체 위기에 처하는데, 우연히 ‘07’의 정체가 드러난다."
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZoaByY84A3CyKn1Hsn59yllN9D2269NgwstqW0iLFqcY9Oq4oj1pxCaldKoOpNTJsm7XfhVGO3eZdyZkxPziTuSgdLHtpXvCylWhhOAIEK4Mam8.webp?r=4df",
+                "title": "13화",
+                "runningTime": 67,
+                "episodeStory": "이제 남은 시간은 열흘, 시목의 수사가 진행될수록 용의자는 점점 더 늘어난다. 더불어 시목에 대한 위협도 거세지는데, 예기치 않은 곳에서 희생자가 발생한다."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQn8Sbr-4V9nD-V282Lb7-2FXVN4RFDEQ4XP5Qn1A-kWC1aHGmPLoEIadqNnYon93ZiWPr3ks1XB_g3JITENkHYmb2aWXaJQXgF9n9afEmyvl2bc.webp?r=c0b",
+                "title": "14화",
+                "runningTime": 66,
+                "episodeStory": "죽은 자는 말이 없지만, 단서를 남긴다! 예기치 않은 살인의 충격에 휘청이던 시목은 피살자가 남긴 흔적을 재구성하던 중 드디어 범인의 정체를 밝혀낸다."
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUmvjaQ5mgRUsmrH8yXhFAKQk-fkGTD3HWL4zcTrnfRccWSGzgczVxJ2Yppa15sxw1TZ-hh1RbSmjliDhbI3sg9wNOwj0QLisG_2U683HCj8ngSN.webp?r=f57",
+                "title": "15화",
+                "runningTime": 76,
+                "episodeStory": "범인은 잡혔지만 풀리지 않는 의문은 더욱 커진다. 시목이 이 모든 범행의 배후를 간파하는 순간, 비밀의 숲에 도사린 음모가 전모를 드러낸다."
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRVdZW7gyNvxLfQ1QF8Vg6HFX5jJaWqI03BZ6GNK7080dB0FWgxCOTGrHytj-Qv1cJNdOF-hM40rzEw3OhnU3sd-xZH4AwPogOpbnfl4cqbYkmPZ.webp?r=e61",
+                "title": "16화",
+                "runningTime": 86,
+                "episodeStory": "진범이 밝혀졌지만, 수사는 끝나지 않았다. 진범이 남긴 단서를 손에 쥔 시목. 그는 이제껏 누구도 건드릴 수 없었던 거대한 악을 향해 돌진한다."
+            }
+        ]
+        },
+        {
+            "title": "슬기로운 의사생활",
+            "imgUrl": "img/main/top10_03.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbAeOVNsYbwG9MWbHZu9Y0yhk_8qeraYHJ_CqBt2nHy2efSOTAspAuRNf_jEKhYQ-AyrrGxjevBIWxrVpLnUum0M9S_F.webp?r=f01",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABX9oQoisSnq2mHfGOxLYeLfIZCqdYkBIamhmMy-3om2GP-2MWYvbTRJMA9tMDJonw3YYyl3gWdidNXk-GOYs11EoYEnzhW4I9Sg.webp?r=fd9",
+            "bgVideo": "video/슬기로운 의사생활.mp4",
+            "genre": ["한국 드라마","코미디"],
+            "characters": ["조정석","유연석","정경호","김대명","전미도"],
+            "story": "탄생과 죽음이 공존하는, 인생의 축소판이라고 불리는 병원에서특별한 하루하루를 살아가는 사람들의 이야기를 그린 드라마",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQAocJ1BC_Oag00Y_BHCCo-Gs-ykAuSgxJkSGA1mPm05pzXp063WlRJQCQ4l6JYjVe21qMzcqcAGhhIdkjWJppNWWjVY9TR3WYY0ulyD5w_TVNpn.webp?r=be8",
+                "title": "1화",
+                "runningTime": 82,
+                "episodeStory": "99학번 의예과 동갑내기 친구들, 이젠 내 환자 보기에도 24시간이 부족한 40대 의사가 되었다. 각자 방식으로 살아가던 다섯 명의 친구들에게 한 통의 전화가 걸려오는데!"
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQnD5v3PCMcPM7n2TDyIJ-zv1GdtZTAaBdvw6xbUIz98gaxODOlPaVUT4h_aXA0ZV1h0uOerBVORAag76pS4h-UNF0ZzDr79KkkSpb4hvjOBnES3.webp?r=56e",
+                "title": "2화",
+                "runningTime": 82,
+                "episodeStory": "20년 만에 한 병원에서 만나게 된 친구들. 오늘도 각자 한 사람의 의사로서 최선을 다한다. 한편, 송화는 환자 차트에서 왜인지 낯설지 않은 이름을 발견하는데..."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABW9RVjbpGWzGnqBl3jAiSIgEygiBXN5JTRbQbN_PvC4otYap1Ebh5iyybge1QVYkegJkrYiNQ8TCJMHplxAVu_zCw2Ff-RmrIRrsG7oYR31rezmk.webp?r=ae4",
+                "title": "3화",
+                "runningTime": 88,
+                "episodeStory": "환자에게 다정한 듯 엄격한, 때론 무심하지만 배려 넘치는 교수 5인방. 실습생들 눈엔 슈퍼히어로가 따로 없다. 한편, 익준에겐 반가운 사람이 찾아오는데..."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQDC3OncVtuTXT5w9_NOAnoweKnhhLoGX7z-2jhl9Dprk67epqLIAXrODmQWkG5PxplssCuiB0Ser65glkVjoz7bPQtPLKA4PO0PGdruo_SQQtU2.webp?r=abb",
+                "title": "4화",
+                "runningTime": 79,
+                "episodeStory": "뚱~한 표정을 하고 겨우 몇 마디 하는 석형 때문에 민하는 오늘도 답답하기만 하고. 홍도와 윤복은 병원 밖에서 송화의 비밀스러운 취미 생활을 알게 되는데..."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABen18i5L-1orFQWhlZZVpb-s9yrK6wwp8aQYxzegUo8luPB7FI8Qs_XLo3gnjbWH77oWQIzg2YaOs_63phiOO7ENQzBuQTkbjLFVVmY48_6WnA9X.webp?r=3bd",
+                "title": "5화",
+                "runningTime": 72,
+                "episodeStory": "겨울은 유독 본인에게만 차가운 정원에게 칭찬 한마디를 기대해보지만, 쉽지 않다. 흉부외과에는 새로운 교수가 부임해오고... 오늘도 재학의 24시간은 모자라다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZu7VUZNAjSlnsS-ydmml0UWTGUIxaxkLIUSxb064Dd12QULPKxuDsum6qkQ_2jTj6NatOM_9OhXzcQD2rmzYo5UzJJmaEYkI7mybG-VYQr04QOO.webp?r=303",
+                "title": "6화",
+                "runningTime": 81,
+                "episodeStory": "대시에 어떤 대답도 없는 익순 때문에 종일 휴대폰만 들여다보는 준완. 한편, 정원이 오래 지켜봐 온 환자 상태가 악화되고, 보호자에게 어려운 소식을 전하는데."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTzFib33ZjT95oA-acM9w27oKaSwX4OokcJYSu2CXI4IKHY_tj9CPhW44qyUmNXQhqmIpWmQ_ZQBLeUCRve2qdk7EaEXiXQvyn0ZCbFCi36GYYN5.webp?r=6ed",
+                "title": "7화",
+                "runningTime": 84,
+                "episodeStory": "수술을 앞두고 벌어진 긴급 상황, 정원은 힘든 결단을 내린다. 준완 또한 맘처럼 되지 않는 수술에 극도로 예민해지고, 어두운 표정으로 보호자 앞에 서는데!"
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVEGWQmL8G6jxziq3s8NC84UH2FIMm3V3E-AhQ3mE4JL7dfpcmkIEFsLHGJFwHUC5ZX8fMM7D6M-5goqpLHq3Fekc-8M5tuvHTfcMSyp6o9OIzwV.webp?r=0a3",
+                "title": "8화",
+                "runningTime": 88,
+                "episodeStory": "전세 사기로 심란한 재학은 도무지 일이 손에 잡히질 않고, 자신도 모르는 사이 크나큰 실수를 저지른다. 한편 민하는 밀려드는 일에 점점 지쳐가는데..."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaFRjyDsQK2lyVuXU6zRb5nan_fU1V_UK9bDe5CKc60UA6e40IL5MVzlyecLbkS5gtOWANTsr18ArdtkVUU8oO4MlNBCGJ7Fmhniv4a_e4GIcNY9.webp?r=610",
+                "title": "9화",
+                "runningTime": 76,
+                "episodeStory": "응급 콜에 다급하게 달려온 송화는 예상치 못한 환자의 모습에 깜짝 놀라고, 익준은 자신을 찾아온 보호자의 얼굴에서 불길한 기운을 감지한다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfx0M2vgOLxonCx4UZWSh79MR5i2wg7Bg8QDWSlox3pML4XqOBAF_YKepfjUchhi60qmMznIz6j_NEnzRXijShaS8s0A3-WVV1_XeCy_zAz8fvBf.webp?r=c7b",
+                "title": "10화",
+                "runningTime": 91,
+                "episodeStory": "준완에게 고민 상담을 청한 재학은 그의 따끔한 충고에 본인의 의사생활을 다시 한번 돌아보게 된다. 한편, 익준은 그동안 예상치 못했던 비밀을 눈치채는데..."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWYHukFGX1eNRa9vKQA_Hmi2tXTNZ5iYWWpn-Vvmz-tpTyKj9OZkSK5f6sZE1QAHjo8a3Mumhfak6_PfCH_R8IZa08ts5Iaah3BULeuBsMlXcbgB.webp?r=58b",
+                "title": "11화",
+                "runningTime": 87,
+                "episodeStory": "간절한 마음으로 익준을 찾아온 환자, 그러나 이유를 알 수 없는 말로 익준을 당황하게 하고... 이제는 행복만을 기대한 석형에게, 불안한 전화벨이 울린다."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZZnu_a1w4yqQY5AW3lSdGTknT8xnBEaP46TLYKknn8jNavCtjv7iX_A3m9xcwJme78nyo2jYLsTzK0PGAKFrcIYE3sqQdEMPNXvp8ulpocaZKUa.webp?r=97d",
+                "title": "12화",
+                "runningTime": 113,
+                "episodeStory": "병원에서는 한 사람의 의사로, 일상에서는 마흔을 지나는 한 사람으로, 자신만의 인생 숙제를 앞둔 99학번 5인방. 이들은 앞으로 어떤 선택을 하게 될까...?"
+            }
+        ]
+        },
+        {
+            "title": "응답하라 1988",
+            "imgUrl": "img/main/top10_04.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUuHaJQ-Fa2kAeUrcBib2CCPyZcbGcO3EkSSMrPUioQ2NvtbQBLEWWHRFvm0lvIt1cgY4MiOSunEaZVYtPvAA5h9c6j-.webp?r=ef0",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQ2eJ_bovQ9GoMLB1tFUspBWdFTbTl9q6S5rjzsxVLl8xUuD8xT-63m_aN1GosZIJas6ABsMQfGOfN9gl710mC3pVhR66ILnUAs.webp?r=b43",
+            "bgVideo": "video/응답하라 1988.mp4",
+            "genre": ["한국 드라마","로맨스","코미디"],
+            "characters": ["이헤리","박보검","류준열","고경표","이동휘","성동일"],
+            "story": "1988년, 쌍문동 골목길. 즐거움과 아픔을 함께 나누던 다섯 친구가 있다. 동네에서 함께 자라 서로의 인생을 함께한 청춘들. 이들을 중심으로 다섯 가족의 따뜻한 이야기가 펼쳐진다.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY8BS9KLYKahA-esz9t0xNgIk_KRZ_oqx4iyv7S9N1ksvIwMrS3dbhX5AJzUTXP-GM-LHIrxnLWSMu5oNab2aiLas3a2wAZ391emdhXYPgsbwkvg.webp?r=11c",
+                "title": "제1화",
+                "runningTime": 88,
+                "episodeStory": "1988년 서울 쌍문동 봉황당 골목. 저녁마다 정이 오고 가다 보면 어느새 상다리가 부러지는 곳이다. 88 올림픽 피켓 걸로 뽑힌 덕선. 밤낮으로 피켓을 들고 연습에 열심이다."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABazuYcK1nR3FmYI1mmP5jjObIQAbcTxDeyH6hpshOEUW6Fs8Nwap_VvWxOYjmM6xoPOb8RcQN1djaYXUiI2xp8RTl8AUMlvDX5RtgHzAkRNCnJzY.webp?r=ed3",
+                "title": "제2화",
+                "runningTime": 89,
+                "episodeStory": "할머니의 양 옆자리를 차지하고 누워서도 보라와 덕선은 끊임없이 티격태격. 한편 택은 대국에서 승리를 거머쥐고 돌아온다. 하지만 언제나 좋은 일만 이어지지는 않는 법."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRHTTq8KUyLTVyS_q7lWByWWZfaToHedi1CIKxImf9qDnsv6f3-9fcF5HLAxeTEwqi6cRr1exwcWfM12b1FAdpOdrtH7J9gwJwWCyY8lPzZloU-B.webp?r=08a",
+                "title": "제3화",
+                "runningTime": 86,
+                "episodeStory": "선우가 나를 좋아한다고? 두근두근 첫사랑을 시작한 덕선. 그 와중에 수학여행 장기자랑 상품에 눈독을 들인다. 춤으로 승부를 보려 하지만, 태생이 몸치인 건 어떡하나."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRtvb7Q8yt-JjsJ10C8sOINRJuiIyUVyh2rlwQGAb3IiMgNb44IjCUyrqDDo5jIfx7dTES_5AbNn9Rw_tt0Fvbfyz2iCcIQu3_aeywfV_XwvlLrN.webp?r=d31",
+                "title": "제4화",
+                "runningTime": 76,
+                "episodeStory": "대학에 가겠다고 선언한 덕선. 비싼 과외는 꿈도 못 꾸고, 바둑도 포기다. 남은 선택은 딱 하나. 보라에게 공부를 배우는 건 죽어도 싫지만, 선우가 낀다면 얘기가 다르지!"
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa1b0aVaQ9p2x17mmcjWAkpTp5QxkF-ekFXvxpkpcwhPyB1Srt7wAhCUHEf9WP4PsZ11N0BMoa1oRhGRAH9p1I7TYbaVmwUrairGn_MfstZrE29E.webp?r=e05",
+                "title": "제5화",
+                "runningTime": 90,
+                "episodeStory": "공부하랬더니 데모에 참여하는 보라 때문에 동일은 속이 탄다. 똑똑한 큰딸이 잘못될까 봐 걱정이 태산인데. 선영은 모진 말만 늘어놓는 시어머니에게 소리를 지르고 만다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRTlPqsAnGoT_a1k3rhtxUjdLtTmiNLUS2yeuomwOnNLPPlr7HKO-8x4kMlmfmvXZDmjIW3ONNYteM9lTUq76XGLmWbXgE-OtPx843oSrnwgDXYs.webp?r=1eb",
+                "title": "제6화",
+                "runningTime": 81,
+                "episodeStory": "중국에서 열리는 바둑 국가대항전. 한국 기사로서 혼자 5연승을 해야 한다는 부담감에 택의 어깨가 무겁다. 덕선은 라디오 방송에 엽서를 쓰며 선우를 향한 마음을 키워간다."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU-VfPaozbZXfnNtdqJuc5t7OHzZETlrExxW7EBcNRJxgf7P0wv77wUf5IOIRwjPEUKKK3otZ_8mxwtg_j07kxOdiJ_YaKh94jQX2kTtEvTbq8vP.webp?r=133",
+                "title": "제7화",
+                "runningTime": 94,
+                "episodeStory": "크리스마스이브까지 일주일. 정봉이 마니또 게임을 하자며 동생들을 불러모은다. 덕선은 결과가 마음에 들지 않아 짜증을 내지만, 그런 덕선에게도 지켜보는 사람이 있었으니."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd_sgFl0-hMjN5IbqJo_xUFc6NzjiEs_2ZQa4kV3NrTgnxe1MXFmvq3qASuF1CKrXXH2hIBleAbGfiMIXM999ufOoXBd9CqNvQ5u1YiEBU0WLRPM.webp?r=7a0",
+                "title": "제8화",
+                "runningTime": 90,
+                "episodeStory": "정봉에게 위기가 두 개나 겹쳤다. 입시 합격자 발표와 심장 수술. 전자든 후자든 잘못되면 큰일 나는 상황이다. 한편 보라는 잔뜩 긴장한 친구에게서 충격적인 얘기를 듣는다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdLkXlaVhJGDMP0N64XnBPeNMPzpV-ITT7Hq8wTugJ_Tg7fksFaY5HWo-5hz-0jLAOrE6EYgvk3I7lJWDi4-PP7XNkgl4xMfocDdP-7vKb99QVlS.webp?r=978",
+                "title": "제9화",
+                "runningTime": 97,
+                "episodeStory": "덕선이 좋아하는 이문세의 콘서트. 함께 가자고 친구들을 부추기지만 결국 정환과 둘이서만 가게 된다. 보라는 선우가 내민 콘서트 티켓을 매몰차게 거절하며 선을 긋는다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXfTPgPg6lrtWSSOFkd02-1YRb935U0XPxEtjRp1a7VM49nGHmn3gI_G-leBWQhtjeU5WAXA0LteNCNzUBKDqiv54NDD5K24NjO155rZS4QhwjLS.webp?r=4e5",
+                "title": "제10화",
+                "runningTime": 84,
+                "episodeStory": "동룡의 생일날 아침, 식탁에 놓인 것은 미역국이 아닌 돈 삼만 원이었다. 정환이 덕선을 좋아한다고 주장하는 덕선의 친구들. 소개팅을 한다는 말로 떠보라며 바람을 넣는다."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd1JClpVwOoUPYww4ZPmXMmbFQe7X37H9QNT8cnqzZg-ZvVU9m_309tv6kMs8smhDpHMk41EqR0DqtiLg8uR-yMw8FlbuawoQh1ZqNfNPiwrYBGf.webp?r=f66",
+                "title": "제11화",
+                "runningTime": 104,
+                "episodeStory": "우리 덕선이가 이름 때문에 대학을 못 간다고? 오늘부터 수연이다, 수연이! 택의 고백에 안 그래도 심란한 정환. 수연네 가족이 집에 잠시 얹혀살게 되자 더 골치가 아프다."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaPgpe1SbT0SGD4y6p0HpV4VR9QJgplbFXcTxkAOIezbRkfofn0Te4srrWEXGudWaFoWTOjnFPPM5VPE4lBEmJ0cF-poVCCVkH2Estl7DvdGAeaK.webp?r=5ba",
+                "title": "제12화",
+                "runningTime": 95,
+                "episodeStory": "연애하느라 정신이 팔린 선우 덕분에, 선영의 비밀 아르바이트는 오늘도 이상 무. 개학 날 아침, 일찍 나와 정환을 기다리는 수연. 어? 날 두고 먼저 등교했다니 무슨 소리야?"
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaozwK9etl7wexoYtUyi6FsR4Kc0lJcVLjO-EM6bdY_mefrTBkS_rkJkeE7AE5BRRbYcZoJnrkkgUqeowS5gFnydMMxRhPNRm3fCQnIx91rDxAub.webp?r=632",
+                "title": "제13화",
+                "runningTime": 100,
+                "episodeStory": "수연의 은근한 애정 공세에도 정환은 영 반응이 없다. 한편 점점 가까워지는 무성과 선영. 일화와 미란은 넌지시 재혼을 권하고, 선우는 보라에게 복잡한 심경을 털어놓는다."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbNiIg8T9dFIP5IRMT4jImzm8KiTez3nxQs3Noi_-omHhfUM2ZhIkzpc6NZhvNa0FLR92ANe1d41u3YDn0ppS9EgYO3ngMDJrj9zX_txw0T-e1ga.webp?r=cc5",
+                "title": "제14화",
+                "runningTime": 98,
+                "episodeStory": "보증을 서 줬던 친구가 돈을 모두 갚아 월급 차압이 끝난 동일. 일화는 눈물을 흘리고, 수연과 노을은 두둑한 용돈에 신이 났다. 동일은 보라에게 꿈을 돌려주기로 한다."
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU-HUwoE3G1Gx_6xlPRXSoLS3apozeleqvIJljw0EFmiP4fe6mw1cqNzb_361R7w1X94cHnUg5PXQQALrDDy4zFMfBo-UoihtO4sQuAJoSXhtIaf.webp?r=efa",
+                "title": "제15화",
+                "runningTime": 99,
+                "episodeStory": "덕선이는 결국 수연이가 될 수 없는 걸까? 현실의 벽은 냉혹하기만 하다. 선우는 무성과 캐치볼을 하며 가까워지려 노력하고, 동룡은 부모님 몰래 짜릿한 취미 생활을 즐긴다."
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX15KQhkdCpNcYU4tbnIfbJdpclqpxGJpxOBY3ZkDl2T2zljKIWVVT_lHdXsWhddLWDicekQ5zAmHcRpSqoYgPYDIFEgvGqE7zMor-nJ5YtNPDML.webp?r=ec4",
+                "title": "제16화",
+                "runningTime": 101,
+                "episodeStory": "예상치 못한 택의 과감한 한 수. 사랑과 우정 사이에서 갈등하는 정환은 표정이 어둡다. 도봉구에 다시 찾아온 《전국노래자랑》. 미란과 동룡이 야심 차게 도전장을 던진다."
+            },
+            {   
+                "num": 17,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcmHRsdKDAE8cHXhhqnpFe2ReDs084RQj6mdniXD5qmzxkPyPX3LNRB0I4tYaJ_0O6jUppBTvJpLliQPxrb2cAmTie9mt9Rdaj-7icRppfnS89Pu.webp?r=540",
+                "title": "제17화",
+                "runningTime": 110,
+                "episodeStory": "아무에게도 말할 수 없는 아픔은 그에게도 있었다. 고민 끝에 위험한 민간요법을 쓴 동룡. 결국 부작용으로 생난리를 치지만, 덕분에 덕선은 택의 새로운 면을 보게 되었으니."
+            },
+            {   
+                "num": 18,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfnBLkOKl9G1QfHajodv0T6Bu1w1BlpceVEI4DdRBQXGoqq0H6rq84aeYKgF7wBaZJCe34DCvQu2145HYAtmkR_ZqPDSh_1SbHllhucVu5MTGLV0.webp?r=18c",
+                "title": "제18화",
+                "runningTime": 102,
+                "episodeStory": "1994년, 다시 모인 골목 친구들. 보라는 1%의 확률에 모든 걸 건다. 덕선은 소개팅 상대에게 바람을 맞지만, 그녀를 향해 두 남자가 달려가기 시작한다. 인생은, 타이밍이다."
+            },
+            {   
+                "num": 19,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABf9fCAKFPWXSMgT6ta5rDiOuMi1q9Vam1-MDmUug9bIEH6unLKSdNTTIu_5ygvS7cyZM6T_cZ5vy1KBHt9ynKYpEI1aAgAlXJwBCt84M1fUAzVLW.webp?r=454",
+                "title": "제19화",
+                "runningTime": 112,
+                "episodeStory": "북경에서 열릴 대국을 앞둔 택. 정환을 찾아가 그동안의 회포를 푼다. 덕선은 북경으로 비행하는 김에 택을 보러 가고, 정봉과 정환은 미란을 위한 깜짝 선물을 준비한다."
+            },
+            {   
+                "num": 20,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABc_VQpkd2AtJjc0gQ7R-DeqhIv16aMbk9ZzVSasN112D1HPuH2UlcpSCcvG7BYiPcTAX30vJSJW0VpVTCOENDU4TIpT4eZzj17MKy_mYoPm4uf44.webp?r=b88",
+                "title": "제20화",
+                "runningTime": 112,
+                "episodeStory": "입을 맞추는 모습을 딱 들킨 선우와 보라. 머리를 싸매고 누운 엄마들을 설득하려면 갈 길이 멀다. 하필 덕선까지 열애설이 나다니! 하지만 자식 이기는 부모가 어디 있던가."
+            }
+        ]
+        },
+        {
+            "title": "슬기로운 감빵생활",
+            "imgUrl": "img/main/award_01.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABQnowakte1lRUqbULHZHyLn3cY4VcLjODL-IQUZUL-TbrLxzwLRinRFXsg_uk-h3FRjOJHuMhXZtP1rJnzzbN6Oi2oTl.webp?r=a4f",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABakZ6voC_410c2ZsFzN0ZtlOVBHB7wtmPwbt0DEKcWKIbpxmBCyRDgGTKEobfBQVF42-q04W4RKqtH6EOHv6oM2Jn5NafAHimY4.webp?r=1e8",
+            "bgVideo": "video/슬기로운 감빵생활.mp4",
+            "genre": ["한국 드라마"],
+            "characters": ["박해수","정경호"],
+            "story": "메이저리그 대신 감옥으로 직행한 슈퍼스타. 판이 바뀌고 룰이 바뀐 막다른 골목, 감빵에서 살아남을 방법은 단 한가지. 그저 배워라! 하나에서 열까지",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTb9knTrVjoW3zdYeH4-sQZvo-2mXsiyH19lH-OsOi0npmjnJIYMaILeyHpTzaWwI_f4cSfg-FRAOdKYebxV7vaHF9U-qA32dI08HL7EsCrXZB3Z.webp?r=529",
+                "title": "1화",
+                "runningTime": 92,
+                "episodeStory": "뜻하지 않은 사고로 구치소에 들어간 제혁. 모두 야구 스타의 등장에 열광하지만, 특별대우는 없다. 별난 수감자들 사이에 던져진 그에게 전하는 당부. 아무도 믿지 마라."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT11UNrkG0WvqXwmO5vsf1kfR0Y-zJV3TLFMhjpxuznVL9prvTLnLoeciGjEpZrnJNszqLs0y5uR5ey4u3d_SJJ0gxRe2lMP8PETSVW0wQUa1_P1.webp?r=39c",
+                "title": "2화",
+                "runningTime": 87,
+                "episodeStory": "일주일만 참자. 승소가 예견된 2심 재판을 앞두고, 한 건달이 끊임없이 제혁을 도발한다. 급기야 시작된 협박! 제혁은 위기를 넘어 감빵을 탈출할 수 있을까?"
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaTAB1eof4NkEwDPZ3Nt21gE8ss-xx3vDX7miubAz-63dVvrxOtP2tQ3R1h-KMWRRYF0eMtUV_pW5QU_kuGccFxAuUR5aRURzXCwbjfrJkT10cq1.webp?r=7bc",
+                "title": "3화",
+                "runningTime": 86,
+                "episodeStory": "본격 감빵 생활의 시작! 제혁이 교도소로 이감되자마자, 악명 높은 감빵 식구들은 모종의 음모를 꾸민다. 드디어 찾아온 디데이. 이들은 바깥세상과 조우할 수 있을까?"
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXfWm3Ztli1uR8VcIiKEACxqcgVH9pcMWqal1Y_d0hnGLgE9CB2WXVnKlSTPjweYr3I8gVvfuRMfMB-mBTuFlN0V-75vkY4i0qaTt4b1e1XCv8HY.webp?r=00e",
+                "title": "4화",
+                "runningTime": 102,
+                "episodeStory": "교도소 노래자랑 1등 상품이 귀휴? 수감자들은 가왕 도전에 나선다. 특히 목숨을 거는 감빵 식구는 고박사. 한편 왼팔에 이상을 느끼는 제혁, 살길은 외부 진료뿐!"
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX2jacAhYqzoYpFtfeAeqjxLKPm0cFfV3_4W9coA3MLaiXbaER2VcsJ_NDXnvrTCzlqghoUbGeZvHk33Oy4nGfbyF30RcdIqBiv8p-fySRsH8pnl.webp?r=b48",
+                "title": "5화",
+                "runningTime": 95,
+                "episodeStory": "'저 야구 그만둡니다.' 감빵에 울려 퍼진 은퇴 선언. 모두의 만류도 제혁의 뜻을 꺾지 못한다. 한편, 장기수의 오른팔, 장발장이 외부 노역에 나선다. 무사히 돌아오길."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRBVaAIgcOK7jXuxJW4vqm66ZzttI1WD3XAuAhaGdipyyN0hInQ_0SCWcMBC3UqF8AfrOMCIgT8zUkKNhUoJOxUOtGly0aE2iCmjBSpBKJmT0guv.webp?r=914",
+                "title": "6화",
+                "runningTime": 96,
+                "episodeStory": "악마 유대위 등장에 얼어붙는 감빵. 하지만 기 싸움은 체육대회 뒤로 미루자. 제혁은 대회에 나서고, 감빵 식구들은 제혁 복귀 작전을 꾸민다. 포기는 배추 셀 때나 쓰라고!"
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVhV6OZnqBoNz4muq04Nn3n-CqH4d-96sjfZE84kM12UWodIdQXVUGqmpxQkHyV_IC_0FkqPRFoMHZfLaXdVnnRbUDkORCIdft3v0_rXGHfjol2C.webp?r=714",
+                "title": "7화",
+                "runningTime": 94,
+                "episodeStory": "그가 돌아왔다. 재활 훈련에 돌입하는 제혁. 하지만 다시 시작하기가 어디 쉬울까. 한편, 새 반장의 등장에도 목공장 비리가 계속되자, 고박사가 촛불을 든다. 적폐 청산!"
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaSBN9DYWfScK3uOlErZ_rs7yMDr_3780zehYFN9kgwZsbEDbFobi7N0XN5YyxGYCrNk9Mcu9jE01PoM4H28W55yYL_z98DSTl1OM5Tu8XObK1op.webp?r=3da",
+                "title": "8화",
+                "runningTime": 87,
+                "episodeStory": "그래야 사나이지! 제혁의 훈련은 계속되고, 유대위의 분노는 식을 줄을 모른다. 대체 부대에서 무슨 일이 있었던 걸까? 한편, 고박사에게 강한 통증이 찾아온다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABadyxdbMmDxRMIlKm9UgGfD9ksqhg1Zs4XkPTp55SyT5XyT69509r7weLbAbiIuILS8QezVidLi9vWxvoes1pKPF-dNcfYBv1dxmeO99nTQkCFCT.webp?r=40f",
+                "title": "9화",
+                "runningTime": 91,
+                "episodeStory": "수많은 후회가 감빵을 점령한다. 교도관 준호는 지난 선택을, 고박사는 편지 한 통을 받고 끙끙 앓는다. 한편 유대위 사건의 진실은 베일을 벗을 수 있을까?"
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXmqqZlE4ejc9z046vqANO7CBTYnrZjNowYw3DchGAVhVpBvn1XwNxyO60kftSyGpRt0p6ioVSFg0mbSqUiS2LuOJaKRFcuXuo0-RxarefQCoolk.webp?r=232",
+                "title": "10화",
+                "runningTime": 86,
+                "episodeStory": "불사조가 뭔지 보여주마. 제혁은 구속 훈련에 나서고, 유대위는 진실에 다가선다. 그러나 그 길이 꽃길일 리가. 한편, 정든 식구가 이별을 고한다. 잘 가요. 응원할게!"
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa15RHbxAirWSXSKtnxMnlVmWPtarjvI7JFGymWgJklWRebnCCu-rmX-Vu3COItWEMGtG1ssczbRymonwKxiePNsLZvSsCZYo3PO-ZrdJQAXPYP7.webp?r=cea",
+                "title": "11화",
+                "runningTime": 94,
+                "episodeStory": "감빵에 새 식구가 들어온다. 그를 보고 경악하는 제혁! 감빵 식구들이 심상치 않은 기운을 느끼는 가운데, 해롱이가 약과의 전쟁을 선언한다. 참아야 하느니라."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbbytfUCBgbC5xtxHyEihxpXW8w5f-H9fPZP4S4noRxykoMtRIVilQ6HCZvNFz6NO6hZjlzQu-xG1oXlHPpE5IEU3Ye7e-8I341xcpH3_piVImtT.webp?r=295",
+                "title": "12화",
+                "runningTime": 93,
+                "episodeStory": "드디어 감빵에 비치는 서광! 복귀를 결정한 제혁에게 영입 제의가 쏟아진다. 한편 팽부장의 종잡을 수 없는 행동이 도를 넘으니, 누가 이를 말리리오."
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfA4faZGbhoAt9fLFEhjRrJzokCk4lzyl92MFWOyxnEdOHW5Q5AK7T2c3KAkXsDPtzP6xx7mj-mKYqkxNysULCm1Z_mEbYsULuPNSlj9CWdtiQX0.webp?r=76d",
+                "title": "13화",
+                "runningTime": 94,
+                "episodeStory": "가족과 연인이 그리운 감빵 식구들. 하지만 재회의 날은 기약할 수 없다. 제혁이 연인 지호 때문에 속을 태우는 사이, 문래동 카이스트에게 뜻밖의 접견이 들어온다."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeVQiDFo8UnTBUgV2nRkHY4pvgH9H7rEeVYuBTP8C4EwnwQNvhBEU5ZTYlXvEiHGnNL_SkPlyCoGmqbnkv3KMitLi7ZPQLRJnUaIDu7vGkQPDyAU.webp?r=838",
+                "title": "14화",
+                "runningTime": 77,
+                "episodeStory": "김 선수의 위기는 네버 엔딩! 제혁이 다시 흔들리는 가운데, 해롱이의 출소를 방해하는 음모가 시작된다. 한편 가석방 심사에 오른 장기수. 그는 세상에 나갈 수 있을까?"
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSDoSR2kFyGjFoy0iK1wq-pvQSY3CYA3O7CVTqJfhlMgl-moNvqzCTZOPQNl2fPP-iAcqW4HVU0QPoRC38GkWek-pkhjn1ncvOvd37b_omHm3BiB.webp?r=6ec",
+                "title": "15화",
+                "runningTime": 83,
+                "episodeStory": "22년 감빵 생활도 이젠 안녕! 가석방 결과를 기다리며 행복에 젖는 장기수. 그를 찾아오는 여대생은 누구일까? 한편, 염 반장의 등장에 긴장하는 제혁. 정신 꽉 붙들어!"
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ2kVg2V9TM1SCD38e7h2lnmYzt7ayBIiMQycmpb66ZJ5VP6Eo0m_p1oXeBgFK8GgUT01xbou8is3hua2GfuU3-9cjilT5r_uoQwEMpq2YMIk_yW.webp?r=490",
+                "title": "16화",
+                "runningTime": 99,
+                "episodeStory": "다 왔다고 생각했는데. 재심 청구를 기다리는 유 대위도, 출소를 앞둔 제혁도, 초조한 상황이다. 도를 넘은 염 반장의 협박. 마지막 순간까지, 제혁은 무사할 수 있을까?"
+            }
+            ]
+        },
+        {
+            "title": "시그널",
+            "imgUrl": "img/main/award_02.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABawUI1rG1aWfBZSKw53huD6iQsqEE8I8sA5V1LpZoUoJ6K8yCJvD4CSJoMhJW_n_834PgTpFT29yo1ZjMD6P8ZggIDRX.webp?r=ed3",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABdD3rAxxU82G5mNYTVh-WnUWLnYGIIhTAGlXYKQypxc7lIb111AgawaS4io7mgpNj-ocgBQobqsM-VmSlcEWbsmcAffAIJk3wSw.webp?r=7a4",
+            "bgVideo": "video/시그널.mp4",
+            "genre": ["한국 드라마","스릴러","범죄"],
+            "characters": ["김혜수","이제훈","조진웅"],
+            "story": "과거와 현재를 잇는 무전기를 통해 대화를 나누는 1989년의 형사와 2015년의 프로파일러. 그리고 두 사람 모두와 연결되어 있는 또 한 명의 형사. 사건을 해결하고 정의를 실현하기 위한 기묘한 공조 수사가 시작된다.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRCDo_852v72A6NS8dyaiOlyrswqNOldZnY3b41ga47gUl2hbZ3AxSsMbsa8YtgAwYycaOYWnLD7kLNcK80eJQX9xbb79pUyLzC0xgSx0eGm-NtY.webp?r=6e1",
+                "title": "1화",
+                "runningTime": 76,
+                "episodeStory": "유괴 사건의 진범을 목격한 소년. 그러나 아무도 소년의 말을 믿어 주지 않았다. 15년 후, 프로파일러가 된 그는 누군가 낡은 무전기를 통해 자신을 부르는 소리를 듣는다."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcS3pfOuuZSO7DRrapox06SCyZ780IwBjTGiRJVtXOQi_BkrvSKFz0__OeP2CiXVDJ8-lYv2BLCzejqBM2Ptsn7D4kLDZ6vmJ4P0kXbGSUEbX0RI.webp?r=218",
+                "title": "2화",
+                "runningTime": 65,
+                "episodeStory": "공소시효가 만료될 때까지 몇 분 남지 않았다는 사실을 알고 있는 범인. 여유로운 미소를 띠며 입을 굳게 다문다. 사건은 이대로 영원히 미제 사건으로 남게 되는 것인가."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXD3CQQA53JbKXvZA53xfdkSKuCqrpON1L5TIjVg8OdiTb1oy9WrLR9NPDTOx0aS99UIcwNloXSEEeuESb7wtearvRhk9SMVM8Eh3Ol_G28Oa8GM.webp?r=459",
+                "title": "3화",
+                "runningTime": 64,
+                "episodeStory": "눈앞에서 과거가 바뀌자 당황하는 해영. 과거의 형사 이재한과 현재의 자신이 실제로 무전을 주고받았음을 깨닫는다. 수현은 바뀐 과거로 인해 살아남은 피해자를 찾아간다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRKqYFizijnk_coaEU7PxM1eIuIMYzlh527oTipvDfsbd68XqLGje36M2hVKg_enhdGcyaDGUtCI4fChJKcIvkRnZHzVIDi40iwp_DUUoJMqylv9.webp?r=23c",
+                "title": "4화",
+                "runningTime": 64,
+                "episodeStory": "재한은 원경을 구하기 위해 급히 사건 장소로 달려간다. 전담팀이 주목해 온 용의자는 결국 자수하지만, 해영은 그의 프로파일이 범인과 일치하지 않는다는 사실에 주목한다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTLjQxXl-WaT0-pxY9ld_H7nRLT4F0-J_VrIDN8E1XO_74dd6UMj4UjA-btCNU_LsZ92B5WsHh6jZKjicCsR1KRw8h7yGmTdSfIOllmQZZ_mV2g9.webp?r=9c6",
+                "title": "5화",
+                "runningTime": 67,
+                "episodeStory": "수현은 숙직실을 바라보며 과거 재한과 처음 만났던 때를 떠올린다. 자신에게 무전을 보낸 직후 재한이 실종되었다는 사실을 알아낸 해영. 그러자 수사국장은 해영을 주시한다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcjD0yjjrHTNHxYbTl1LNA7owUeH613JiVDYbiCb1BUNHlH4KB0B6Zg26sHVeBVoxrkNKAdEtjHSaGjLXsFb5z19g6HabnMQFurcnxPdWCvOcqLh.webp?r=21c",
+                "title": "6화",
+                "runningTime": 69,
+                "episodeStory": "목격자의 증언에 지문까지. 결정적인 증거가 모두 오경태를 가리키는 상황. 재한은 결국 그를 체포한다. 한편 수현은 오경태의 딸과 납치된 여진 사이의 연결고리를 알아낸다."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVZLUsAQRv1RrXq-OdPAEKhUvc_uIz_waP8VtTcHTxPwHUZhZnD49qBfrx7b3RKpSzFfMeEnCSMmJ142usUusO88-wAX8xK7fWahXlb-QsrLStN3.webp?r=971",
+                "title": "7화",
+                "runningTime": 66,
+                "episodeStory": "확신을 가지고 진범의 흔적을 쫓아가는 재한. 마침내 장물이 든 자동차를 처분하려는 순간을 포착한다. 해영이 지쳐 잠든 사이 잡힌 진범. 과거가 다시 쓰이기 시작한다."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZvUmGWENDWA-5qRwmqK8xNP9Y4CTbFNz2YBDF1B-7y11BZbqV24FCC9hA4uVblrO6JoGEpWI7-uR0BGw4bgEKKpO0PKxTLMIma2QofHz0t0tp-_.webp?r=ddc",
+                "title": "8화",
+                "runningTime": 73,
+                "episodeStory": "20년 전 자살한 여성 신다혜가 아직 살아 있다는 증거를 발견한 전담팀. 그녀가 자신의 죽음을 꾸민 이유는 무엇일까. 해영은 소속사 사장과의 면담에서 그 실마리를 찾는다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWkGf2AtkurVrEoBgIJbABQy10uI5k036WyMHQE8UP-w1KN9hH5qCpIJiwpqFIgFdQqq4iR-_hVIZ4bNcIICS3aNRSvUAnMsS-NzUMjba-neRMRs.webp?r=69a",
+                "title": "9화",
+                "runningTime": 73,
+                "episodeStory": "무전기가 재한의 것이었음을 알게 된 해영. 치수의 추궁에도 굴하지 않고 무전기를 가져온다. 재한의 실종을 파헤치다 보면 두 사람이 연결된 이유를 알 수 있을까."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABe3OuG3X9R5hQgXnA5cMWgFjdYlPink53tXV8U552y7vykUBYTo7oQ3a-00yzEbTNkr7t_086BWQAgJrrigTyd21K8yVnzzteEdAT8XNUy9TKUI5.webp?r=4fd",
+                "title": "10화",
+                "runningTime": 71,
+                "episodeStory": "새로 발견된 시신 9구를 조사하는 경찰. 수현의 브리핑과 해영의 프로파일링으로 범인의 윤곽이 잡힌다. 수현은 자신 또한 사건의 피해자였음을 밝히고 최면 수사에 자원한다."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQCA6YT9U1pD-uHuXZAD7-5JfASD2EviRCIAPd5RbHJRIPbRLYvciON14LHFko-VL7HrA27oXl5TDXIGfIHyxph_OFmq8CVNPmu6BvV9Hw66K83w.webp?r=d77",
+                "title": "11화",
+                "runningTime": 77,
+                "episodeStory": "이곳이 정말 18년 전 그 집일까. 용의자의 집을 수색하며 트라우마에 사로잡히는 수현. 해영은 용의자가 일하는 편의점에서 다음 범행을 준비하고 있다는 증거를 찾는다."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbRcK_PkP-XOnjH42R_0XL5jum9i4I4L2BrARJm9sJw3XpjlGlMOgUyWGZqcQMevZDVGlxBUaiufdMowuOpJt85swicYaL8G8KOjmk6TYM3kWM8k.webp?r=c51",
+                "title": "12화",
+                "runningTime": 77,
+                "episodeStory": "'모든 시작은 인주였어.' 안치수가 남긴 의미심장한 말. 사건 현장에 유일하게 함께 있었던 해영이 범인으로 지목받는다. 해영은 수현에게 재한의 실종에 대한 비밀을 밝힌다."
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY9IjPhg4KlOYGoqGWY2cU44VWGnNnD2_7dgdwAhgl60C6bkYrJyIQiKCcpQCw4I1_uTCg-UBmirWbjO1anBLV9s4azRj-2gxYULY3eZKqxSApOo.webp?r=993",
+                "title": "13화",
+                "runningTime": 73,
+                "episodeStory": "시신의 신원이 확인되고, 쓸쓸한 장례식이 치러진다. 재한의 유품 속에서 낯익은 명함을 발견한 해영. 외로웠던 어린 시절의 자신을 그가 줄곧 지켜봐 왔다는 걸 알게 된다."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABayn8imxR9EGc4jDwOpGr3SETaAQx-omepxjAU90HU_ctZMXdLezJAQO7RbLwVkNMbqb9eKgTwcn0hgW321CuvhyxgrEM77U8sjmaZ75QopNMdo-.webp?r=0cb",
+                "title": "14화",
+                "runningTime": 73,
+                "episodeStory": "해영과 수현에게 인주 사건의 진범을 밝힌 피해자. 당시 선우는 자살할 사람처럼 보이지 않았다고 말하며 울먹인다. 수현은 해영의 방에서 익숙한 무전 소리를 듣고 당황한다."
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRgKsIk_BVmM6Zlwy0gCEImo_uh-nYIii75tb0OPAD-2JE14nwhFp0TwwX4xdP1SrqpgC2KCZnuFBBh61BmfewG0UErMPrs-_NkMNOh_fbNQZZCB.webp?r=fe0",
+                "title": "15화",
+                "runningTime": 71,
+                "episodeStory": "안치수 살해 혐의로 긴급 체포되는 해영. 한편 선우의 죽음을 막지 못한 재한은 무전기에 대고 눈물을 흘리며 사과하지만, 무전을 받은 상대는 해영이 아니었다."
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABerkC2EDGl1dUmaI7CPghp-5kehYFXYc1bBxkx7WIOabHo78IamCYroFFJbAb6SdZW9Pcz3LvxXB7sUPOE5oRPRcMJk6jj8WKg4tXwGiD6qPG8IG.webp?r=86c",
+                "title": "16화",
+                "runningTime": 88,
+                "episodeStory": "총에 맞은 상황에서도 해영은 무전을 계속해야 한다며 11시 23분을 기다린다. 중요한 증거물인 빨간 목도리를 확보한 재한. 그러나 이번에도 피할 수 없는 상황이 이어진다."
+            }
+            ]
+        },
+        {
+            "title": "미생",
+            "imgUrl": "img/main/award_03.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRmxMUt73yMZPcXpDMIcsXPs1dMEIkJR_pvxJzpxVlcz0NPanrB-GX8GurRkck84m1VpYv5D7efiLJpQqmVBjsuiIuJ7.webp?r=ff4",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABXa5omMh1pCNl0HcHRi3fFnW_0sT0F7VGsB_RXZuAlCqlEqckNw9oN0mvrDx1tyowz7ypa6wcF5t9QUZ3hku_irAsqXoF6GJW2A.webp?r=564",
+            "bgVideo": "video/미생.mp4",
+            "genre": ["한국 드라마"],
+            "characters": ["임시완","이성민","강소라","강하늘"],
+            "story": "학력은 고졸에다 아는 거라곤 바둑밖에 없는 장그래. 한 회사의 인턴으로 일하게 되면서 냉혹한 현실과 마주한다.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABW5vX1LU4VKOnIl9hpDfwLtKWbgyzhUL-tZ93hOncTg6chOKsIDDPLYQHtjkWD5J1GCjNfp407agG8DK7T7u5VMhSZIewvu6zSPA1lhBZLN0cGvX.webp?r=5a0",
+                "title": "제1국",
+                "runningTime": 90,
+                "episodeStory": "프로 바둑기사의 꿈을 접은 장그래는 인턴사원이 되어 입사 동기 영이에게 의존하며 험난한 직장 생활을 시작한다."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABefPlsIrWoqMXF5xNkjFGGexBnmV4pT26gGmJjgFKNKbUUPYLy8qmWAZBoWmL1ySjNfQCwqW0p9-BpKsjs-O_QXoL5uVJeSV28yp-73IfFiCb4Yw.webp?r=24f",
+                "title": "제2국",
+                "runningTime": 64,
+                "episodeStory": "장시간 혼자 업무를 보던 그래는 팀워크에 대한 상사의 조언에도 자신이 동료들로부터 소외되고 있음을 깨닫는다. 한편 PT 파트너 찾기가 시작된다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABetzSUAbGcjuQK7Ys2C_jKfbwd9HQ0iJXBUbys8BIqWHD-jiKj-CPX7xTO9epuG3Smudyve8a-bE0FNg6jyVmWMh7laHUVScJjWBDmPmSbcFISI5.webp?r=2e2",
+                "title": "제3국",
+                "runningTime": 67,
+                "episodeStory": "석율과 PT 파트너가 된 그래는 혼자 PT 준비 작업을 도맡아 하게 된다. 한편 동식은 제품 수출 관련 문제로 징계위원회에 회부된다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVz9JOZX9yLthATJtMuN-UrHIq3CedfPnv11SIqSzZc-1CNj4E7xF5VLnqUOo6jtaeRQUu4xRaYFox0azg70sAu-OQbYgH857mUfMYr80VZGqi5d.webp?r=dd7",
+                "title": "제4국",
+                "runningTime": 71,
+                "episodeStory": "그래와 석율은 PT 발표에서 위기의 순간을 맞이하지만, 설득력 있는 아이디어로 좋은 인상을 남기며 발표를 마무리한다. 1주일 후, 그래는 결과가 나오길 기다린다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWSWCSshyOSqbk6OzokI-4Jl6658a3XsMjmRYFzP-FzUpyMEaOk_IrLXcafJ076GSQ7kCLfEhdTVaE5WgocUoHsuDMdGYJtclpe_b3pEblxJhlPB.webp?r=42a",
+                "title": "제5국",
+                "runningTime": 70,
+                "episodeStory": "중요한 자료가 사라지자 다툼을 벌이는 오 과장과 정 과장. 한편 상사에게 부당하게 질책을 당한 영이는 눈물을 흘린다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYo5_kFjLN-FamI3gAX3BWEL2ekTe376H-g5civo05DsgD9-ZMKUUAkM8TEgBH1dxrqilD4XGjhU34cKuZ8H-LSkkfqjOozEp--75afYDArcRx7O.webp?r=af1",
+                "title": "제6국",
+                "runningTime": 70,
+                "episodeStory": "고객이 학창시절 친구임을 알게 되자 계약이 성사될 거라 확신하는 오 과장. 그러나 친구는 오 과장을 오래 기다리게 한 뒤 고급 룸살롱에서 계산까지 시킨다."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaG5_2xslr6u2wzFdCh9AcVxGro9P961_tGNQNG8Z5nD9Wm_Na11K5krNbsu7RRhzUKncfhvHohHXhEC9LEM3sTcePnvEubGKCq2x_cXeq2pTXJI.webp?r=c0f",
+                "title": "제7국",
+                "runningTime": 70,
+                "episodeStory": "팀 회의에서 오 과장이 위험한 사업 아이템을 선택하자 불안한 그래. 한편 영이는 재무팀에서 이미 보류한 아이템을 승인받으라는 지시를 받는다."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfBZsWlFCJqVVbY4yy_1iZDBJjNyuS4NENCIN4xX4RGHU95b8fkZbNoHpCgoCEBYVV1eUNMycyhuUnySIiWEIuMGasDA0Oq3S_Q8S7pSHcLEnR0k.webp?r=6a2",
+                "title": "제8국",
+                "runningTime": 71,
+                "episodeStory": "IT 영업팀에서 넘긴 프로젝트를 맡게 된 오 과장. 프로젝트만 성공하면 인력 충원이 가능하지만, 고객은 오 과장과의 만남을 거절한다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRw-uDxmaHrc7iQmy3FjAozZiRzDBDsbpT5g9xxIJKO-M2lf3pOQ6YeLEZsnJVOEgkoUWVLUrarsBcFDNnrODyiFZDEMQKxGqvyQMIfphFOXrcXB.webp?r=60f",
+                "title": "제9국",
+                "runningTime": 70,
+                "episodeStory": "영업 3팀에 새로 들어온 박 과장은 그래에게 인신공격을 하며 온갖 일을 떠넘긴다. 얼마 후, 그래의 동료들도 박 과장 때문에 힘들어했음이 밝혀진다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQtu1Lfqzhy67KlDD5kBVXqJ13E3MQqPbiNR4ReY-toU9o1UCoe9eZziLuxT-XL_dALvNwoC3W69kjkbD3aVV6xvIkb2iYC1vVOu3tdg8PdgB6F3.webp?r=a9d",
+                "title": "제10국",
+                "runningTime": 70,
+                "episodeStory": "박 과장이 여직원을 성희롱하자 오 과장은 그와 함께 일할 수 없다고 선언한다. 박 과장이 진행하는 프로젝트를 살펴보던 오 과장은 수상한 점을 발견한다."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVZPOoayq3engUAUAQuK9pdFtvJ2-LxrWS5rh3XVWBARraJPJn9BGzOEsfQxAcPSu7fFTiivmg4JREeSXZapoMi8433D0tHMb0BuyWO9JrYTKztD.webp?r=4be",
+                "title": "제11국",
+                "runningTime": 70,
+                "episodeStory": "박 과장의 비리를 밝혀낸 오 과장은 차장으로 승진한다. 한편 영업 3팀의 과장으로 새로 부임한 천관웅은 그래에게 까칠한 모습을 보인다."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWYsZ0yX9Q9ZKmQRk580fTaQEcjM8I8GjxtJZH-L6XlgxJKqY4xHACuukFtbrWpvVGv4_gRQ-bvZnWxsu3YUkuyhJzAaPZlIhN3hEMKhMPIF86hl.webp?r=26c",
+                "title": "제12국",
+                "runningTime": 70,
+                "episodeStory": "박 과장의 요르단 중고차 수출사업을 다시 추진하려는 영업 3팀은 다른 팀의 반대에 부딪힌다. 그러던 중 전무가 사업에 관심을 보이자 영업 3팀은 PT를 준비한다."
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdrWrhWr26pFmtldKcTkS-QeYglolliARyonHOQ9Bb9MvqUTYzD4VsidCxj2PqLKYmXGKfhPtuTNSjoYUccK-Bwiw0tXD992kBkmG3FcjDmrp42A.webp?r=243",
+                "title": "제13국",
+                "runningTime": 67,
+                "episodeStory": "사장 앞에서 진행된 요르단 중고차 수출사업 PT는 오 차장의 파격적인 발표 스타일 덕분에 성공리에 마무리되고, 사장은 사업을 제안한 그래를 칭찬한다."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbIPY9Stq1rBRlsgFOYg1bQH7Mel5sei2NnHQbNer_iFNkHhr9o53cFkJAI1jXd1A-1Oq4Ya2Nwyaf8kabTVcvqTB_AbKEzAM4W_SIUp8GqqFJZS.webp?r=caa",
+                "title": "제14국",
+                "runningTime": 73,
+                "episodeStory": "입사 동기 중에 자기만 계약직이라는 사실을 다시 한번 떠올린 그래는 오 차장에게 자기도 정직원이 될 수 있느냐고 묻는다."
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfETFMR-sigtBEKYvift6Lgd2J3Ke_rqxJQntvdDywdmo8ILM_ofDNcORqjEtB0bbX3EiO8rQ4qT3moLDnPNCpGAVnfh0_lsWCtmIMt45Q2Tml9E.webp?r=0cb",
+                "title": "제15국",
+                "runningTime": 75,
+                "episodeStory": "정규직 전환이 불가능하다는 사실을 알게 된 후에도 성실하게 일하는 그래. 오 차장에게 미션을 받은 그래는 백기와 함께 회사 밖으로 나간다."
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ1vh918UDgoB_BEahn-adzkMWf1ybVf-7Xi5xwZF0A3a8CKlEY_EmhE5PT1eUiDooKJN_CWCWfKdcgYq49fRXLwDTsM0WPy2ww5ylS2VFRVepbt.webp?r=c88",
+                "title": "제16국",
+                "runningTime": 76,
+                "episodeStory": "입사 1년 5개월 만에 그래의 사업 계획서가 드디어 통과되지만, 오 차장은 사업 담당자를 그래 대신 다른 사람으로 바꾸라는 지시를 받는다."
+            },
+            {   
+                "num": 17,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRhJddf6cX4uJfiVe_bvJbXyJu2aw0KSJcK-OknkhHJ2dF0t4iAhUT2hfyQtxPAbHJlJS19X_J1KQoOuP2QmObO9XxNFPWG_uKxQg8fbDB4QAiQj.webp?r=12a",
+                "title": "제17국",
+                "runningTime": 80,
+                "episodeStory": "전무가 영업 3팀에 대형 사업 아이템을 제시하지만 오 차장은 뭔가 미심쩍다. 한편 김 대리는 오 차장을 비난하는 동기들과 말다툼을 벌인다."
+            },
+            {   
+                "num": 18,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTHfJvWvxeCl8LuYhAzTzSoe6gg_tAllv6C4jc20jhj_-NkLjaM_p_OANYR5fB_jAzoCk2Gw1EzKPxBPs8siurYy6-ezzMHdu-koIBbiL__myzUs.webp?r=3de",
+                "title": "제18국",
+                "runningTime": 79,
+                "episodeStory": "전무가 제안한 사업을 추진하기로 한 오 차장. 그러나 이내 갖가지 문제에 부딪히자 김 대리와 팀원들은 사업을 포기하자고 제안하지만 오 차장은 생각이 다르다."
+            },
+            {   
+                "num": 19,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVS9m3vqz3U-xWEriU1tn6wtqsOqEw-7vfffQ1I_bbXmGa4MP8u6gwEXrT8Rjm7eCf0spmKD2MZqr5Z7o3Ofk31wJGsoFecyH5eSlfVFjUYCejCi.webp?r=2b8",
+                "title": "제19국",
+                "runningTime": 82,
+                "episodeStory": "전무가 석 대리와 진행 중인 중국 사업에 대해 그래가 의문을 제기하자 불안해진 영업 3팀. 한편 본사에서는 중국 사업에 대한 조사를 시작한다."
+            },
+            {   
+                "num": 20,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaNoJD_wV7_9qK0KcyPJzu8rVRBN9I5d9chYT17kSDZCsVEgSh9BWxFkIJ_pwcvpG2HmORc-MsmAJoq4xGL748jTnC37S42nXYv6urEee7BpWuO8.webp?r=9c1",
+                "title": "제20국",
+                "runningTime": 88,
+                "episodeStory": "파란을 겪은 후 마침내 일상으로 돌아가는 영업 3팀. 새로 온 차장은 새로운 업무방식을 요구한다. 한편 그래의 계약 만료일이 다가온다."
+            }
+        ]
+        },
+        {
+            "title": "나의 아저씨",
+            "imgUrl": "img/main/award_04.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaGskRUtpdDMvqOjhkZ4Wd-QfZyuYiNJ_v8GYC144Pfsy1o5RC8qiFBMwJa66r46M5LfmQw57BkQnqU4DlGfE0m-nSNi.webp?r=d36",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABf-YfZdGIIlx5VspLlVAVM6sXsSoYRDkCgiksRYeLo4olReziOx5SHvWMXCwnRZEPGjp2BoonW7TRzjCp1X85se9IGdqS5BXzvI.webp?r=4a6",
+            "bgVideo": "video/나의 아저씨.mp4",
+            "genre": ["한국 드라마"],
+            "characters": ["이선균","이지은","고두심","송새벽"],
+            "story": "순리대로 살지만 소년의 순수성과 어른의 지혜를 갖춘 아저씨가 있다. 그런데 이상한 애가 그를 흔든다. 거친 인생을 살아온 무모한 스물한 살 그녀가. 어느덧 우정이 움트고, 둘은 서로에게 안식처가 된다. 이 차가운 세상에서.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZzC7XGnKdYm5eJLKWFcyTTZ0GtxpWDfVKikPXgavtAWW8UMcVwUfGJ7zU4nOT3TkAV6qLbDjds1xvI1U3kQv5ur-i65d7AGD3NEVeMt3x9B8fdE.webp?r=732",
+                "title": "제1회",
+                "runningTime": 87,
+                "episodeStory": "어머니와 백수 신세인 형과 동생을 책임져야 하는 동훈. 오늘도 출근하는 발걸음이 무겁다. 그런데 이게 무슨 일일까. 수상한 물건이 든 봉투가 그에게 배달되어 왔다."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQFhXRqpGymi1W3g_bvq-mwA2oX4ANJjh4kY5PGn6qzBMj2rTUZtZpT9b5s9V7CucSCJQ4WIkTc_wn4qtk9d5HQePAwItOmZ6vrlBJ8lIQl10H3m.webp?r=32e",
+                "title": "제2회",
+                "runningTime": 72,
+                "episodeStory": "뇌물 수수로 오해받는 것도 곤란한데 돈까지 사라지다니. 동훈은 회사 동료 지안을 의심한다. 지안은 사채를 갚으려던 계획을 변경하고, 뇌물 사건에 더 깊이 발을 들인다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU0sd_nkQAxN7gtjD9X9FaHBVP7wBViYphSmxzpV-CLsT1bmuQ83w6TyavEAE0GYNr257ifY5b6jApYLzbM7H_VuSPf7iggePs6LVSMeB2UE0aYK.webp?r=7a1",
+                "title": "제3회",
+                "runningTime": 76,
+                "episodeStory": "박 상무의 사무실에 도청 장치를 설치하는 지안. 그녀는 새로운 '거래'를 위해 동훈에게 의도적으로 접근하고, 지안의 꿍꿍이를 알 리 없는 동훈은 그녀의 부탁을 수락한다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd67-mr-revP2nBjl4qvAMJo7mun7OMfdc0KZccLUjpCUkf1Qp6TY_7k0mU4matlOGiEoBPY9Mm6k1qsjQkLZpYrSiCcdXuSWVYloaA6jJkdWcBW.webp?r=a63",
+                "title": "제4회",
+                "runningTime": 78,
+                "episodeStory": "이 여자, 분명 무언가 있다. 점점 무모해지는 지안 때문에 불안한 준영. 그는 뒷조사를 통해 지안의 과거를 알아낸다. 한편 상훈과 기훈은 사업으로 새 출발을 하려 한다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVcqPuVZBxK1XNpj6t_M4gThIUkeADe1lf-We-qZcx_Idh7m3XEew6nZj-Cr49WH9VTTUzSjQybTxv9mNvT7s0S_oqjhXydAA5u-mSEHzUXySv1o.webp?r=84a",
+                "title": "제5회",
+                "runningTime": 77,
+                "episodeStory": "동훈이 준영의 통화 기록을 가지고 있다니. 동훈의 전화를 도청하다 뜻밖의 사실을 알게 된 지안. 지안은 이를 준영에게 알리고, 작전을 변경한다. 조금 더 확실한 것으로."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABc02iw-Wv6vnMloyMVPuu7u0rmRrd3jHLxdABbeLUkx5wtig18WMb5uzPrqww1NWFQjlvcSKmPi1M0jhAI9Kask5RX0kAyUfSJtCKEbEiI-fviqP.webp?r=2ab",
+                "title": "제6회",
+                "runningTime": 75,
+                "episodeStory": "윤희는 동훈에게 일을 그만두라고 설득한다. 윤희의 의도를 알아채고 충격에 빠진 동훈. 지안은 동훈에게 묘한 동질감을 느끼기 시작한다. 그의 슬픔에서 내 슬픔이 보인다."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABesB7_vpnk3mazTqdrSRRE3QGBG2LeghISdmkyU_RKCSTEo34AwkwPLwqng8FL2-o4hQB8kBAJHxc7Vfxc5AAGZE-nXMnPBSdHLPg9sLwZ4b8AiI.webp?r=379",
+                "title": "제7회",
+                "runningTime": 78,
+                "episodeStory": "자신이 아는 모든 것을 밝히며 준영과 담판 짓는 동훈. 이로 인해 준영과 윤희의 관계에도 변화가 생긴다. 궁지에 몰린 준영은 지안에게 계획을 잠시 중단할 것을 요청한다."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTb696DNIIlGBBwexwiC0tB8_o7qjkTSFgSJR49cPHF2LzfvHhOyPM9YUD6D4J2RrRIb_D926YPSjuKdDJ9nbGhFLMAPsUrx3lxOfCCRZVvfxKZG.webp?r=203",
+                "title": "제8회",
+                "runningTime": 79,
+                "episodeStory": "동훈에게 마음을 열기 시작하는 지안. 이를 광일이 지켜보고 있다. 저놈은 대체 누굴까. 동훈이 상무직 후보에 오르자 마음이 급해진 준영은 지안에게 또 다른 요청을 한다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTKiHzGaiU2UKcZpi6xVjCrkHfwmqlckMomVM1IOKTr4f393FC6oVBVc1sbiioQiqMsjyqVXw7MlMJ2o7J1SouIYw-iRY4lbRsDMQuXwDeRf3Wg4.webp?r=9c9",
+                "title": "제9회",
+                "runningTime": 77,
+                "episodeStory": "제대로 된 무기가 생겼다. 지안을 믿고 마음을 놓는 준영. 동훈이 상무 후보에 올랐다는 소식을 들은 식구들은 벌써부터 잔치 분위기다. 반대 공작이 진행되는 줄도 모르고."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXEQe6hoXh6Ao3htSF-jjYGxy0GN-AbrpYgeGrgVVqWU-byNNaKO74z72AhZl7teEz1hFu2h1Up7__dXTrNwRpxfqNoxQbZtfYRYlosr5i8Uz14w.webp?r=e44",
+                "title": "제10회",
+                "runningTime": 77,
+                "episodeStory": "동훈의 심상치 않은 상처를 보고 걱정하는 식구들. 동훈은 입을 다문다. 광일이 대범해지기 시작하자 지안은 빚을 모조리 갚아 버린다. 이제 제발 내 인생에서 사라져 주라."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABV1Wb6Mz6jte9CeTf88MJRvHVZotWZDZJ7YmE-Lc5O4PjMJmG5Cc28ETsBUbbKISA5jD12YrPAfn5vqyBw3GNDW-fZAIlbb5qSTIC8qDU04YKI99.webp?r=934",
+                "title": "제11회",
+                "runningTime": 78,
+                "episodeStory": "진급 인터뷰가 코앞으로 다가왔다. 동훈의 약점을 캐려는 사람들과 동훈을 밀어주려는 사람들. 그 사이에 지안이 있다. 지안이 심어놓은 작은 덫들이 하나씩 드러나는 순간."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZboYiOc6t2w7URB5-arkMBXzgGxYzW5BudcX3UmskJwMsGZ3Mj0FWdF6iXt2ZLkSLe4luvKMcUj2WSsqZ2bNzKhzQRJtpFcYoEV7luSD01bbrgv.webp?r=92a",
+                "title": "제12회",
+                "runningTime": 80,
+                "episodeStory": "윤희의 깊은 속마음을 들은 동훈은 무거운 마음으로 결혼 생활을 돌아본다. 지안은 퇴근길에 우연히 동훈과 둘이 남겨지고, 처음으로 동훈의 식구들을 만나 함께 어울린다."
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABah4C-2bFvsMtMikXhzPxL9Anj8O8rkKQI9wHfillHtCqnf2dqyQCTPDsV66WG6z3paZLDCv-IlgbmpKSjheW8CTMLkITD80cHEUgQYkd7-0jS3I.webp?r=cbf",
+                "title": "제13회",
+                "runningTime": 80,
+                "episodeStory": "동료 직원 인터뷰 중 지안의 발언으로 곤란해진 준영. 그는 지안에게 경고하지만, 거꾸로 발목을 잡힌다. 박 상무는 추적 끝에 자신을 꾐에 빠뜨린 이들의 실체에 다가선다."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYYsmDzR_typIkYnFUy1l0mPtDNj48q50HlHgub0HZlvu7E9X3xCIRS3bwxuUOk8-bG0EC-2ESmtlgkVAEe6jlUrNGf_zV_pvSdnI1CfOO9S-xjb.webp?r=c10",
+                "title": "제14회",
+                "runningTime": 79,
+                "episodeStory": "숨기고 싶었던 과거가 드러나자 자취를 감추는 지안. 동훈조차도 그녀의 흔적을 찾을 수 없다. 한편 그녀의 도청 파일이 또 다른 속셈이 있는 누군가의 손에 들어간다."
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcyP8ur5YCG7H4_5ZdIKL2Vs1JjFyEKtYWZjU1DKbx1dmES3PN-m4cqZoZqXppV-EsfT3FRMh4ZJuMDRqt8GuqXT4CEwtBIvPG76dJaUUppNLTKI.webp?r=a53",
+                "title": "제15회",
+                "runningTime": 79,
+                "episodeStory": "그동안의 지안의 행적을 알게 된 동훈과 윤희. 그럼에도 이들은 지안을 돕기로 하고, 그녀를 찾아 헤맨다. 하지만 동굴 밖으로 나오려면 지안은 먼저 모든 것을 밝혀야 한다."
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT8ktZPUqcjlG7hcFUq-O1odm52OxZuvFNSC2S93jGfXCbd-JxE3V3994LYbCGqgufbeuFtEPr2oA1q8huk8icaXGOLNyBqTMkkufbbzL_iBInm4.webp?r=19c",
+                "title": "마지막회",
+                "runningTime": 91,
+                "episodeStory": "증거 불충분을 노리고 지안에게 모두 뒤집어씌우려는 준영. 하지만 전과는 달리, 그녀는 이제 혼자가 아니다. 묵묵히 곁을 지키는 사람들이 있다. 그녀가 편안함에 이르도록."
+            }
+            ]
+        },
+        {
+            "title": "킹덤",
+            "imgUrl": "img/main/hot_01.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWwcLdr1Mx9YaaFINiEKSov6cXdzc9ggWqE_QJlFmOo8Gkj01YjZ_q_6Ap8mqE0PL3vL-Rt67HLtXL6ym77hMBmkwLSf.webp?r=b0a",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABUOPCcYEKs5nCzMgHK7n0hcv6sP9UugbQ9G9natuoye9mlWTJ2JlxXHjyRXnE1fx9Bv1VCDGuZUoe3hY4cV9SoGvy768vT8YMRaySKCiMNnRtPEF5s78qAdAyWB4tE835PLpIROelSYLAQdhNeZ1ULQu-lrTcaKCo5e83xERgmHp.webp?r=a11",
+            "bgVideo": "video/킹덤.mp4",
+            "genre": ["한국 드라마","스릴러"],
+            "characters": ["주지훈","배두나","류승룡"],
+            "story": "병든 왕을 둘러싸고 흉흉한 소문이 떠돈다. 어둠에 뒤덮인 조선, 기이한 역병에 신음하는 산하. 정체 모를 악에 맞서 백성을 구원할 희망은 오직 세자뿐이다.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaicZ43pSrQkXOnz16Ir4cUMoJkrSq9NA5lpeDEmD1Q4vvgaluPQXCkemfXZrgpHMVju6AoLe8oqUQ4s9Pu-Jj4wqCckk2bo_hl60utztOjhNp5O.webp?r=53e",
+                "title": "1화",
+                "runningTime": 56,
+                "episodeStory": "도성 곳곳에 나붙은 참담한 괘서. 병환으로 쓰러진 왕이 돌아가셨다 한다. 그동안 왕을 알현한 사람은 영의정과 그의 딸인 중전뿐. 세자조차 알지 못하는 진실은 무엇일까."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeOuHWpBCGi_POGRdKuJOI7b2p-QRjPus36zBgcwfMH04OJgYZ_oslLYVfcDNzLBWnan7NsS2fFjVH0gN32jrhXe95Vg6BEdRwp9NU5SxsPOOOdb.webp?r=e18",
+                "title": "2화",
+                "runningTime": 54,
+                "episodeStory": "반역자가 되더라도 조선을 구해야 한다. 지율헌에 도착한 세자와 그의 심복 무영. 끔찍한 광경을 마주한 그들에게, 의녀 서비가 죽지 않는 괴물에 대한 이야기를 들려준다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ_vYPt2C01HxCgqn7cBGkgoYPmmuy6uxsJhCtB7mWfjEA60HEzdmG831OoYVUxh8VFUGzH5aptZZ_kbY7vbfVClp9CRPlAtOU4C6KXybtM0waL4.webp?r=d21",
+                "title": "3화",
+                "runningTime": 55,
+                "episodeStory": "서비와 영신의 경고를 무시한 결과, 참혹한 밤이 동래를 덮친다. 강녕전의 비밀을 밝히려는 한양의 움직임. 이 지옥에서 살아남기 위해, 세자가 반격에 나설 차례다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeKTgcU0KsX228tm3K4bKVHIQstVxqqvuJTlQ4PewPoR3X7XaBe8cTY7R69K1x7cBBDRAP3nU1PRNihEC5ypjPKzF9oy7o_pQQQ258qsPAjLz4Ns.webp?r=600",
+                "title": "4화",
+                "runningTime": 46,
+                "episodeStory": "해가 지면 또다시 그들이 일어나리라. 안현 대감에게 향하던 길, 버려진 백성들을 외면할 수 없는 세자. 서비는 지율헌으로 가자고 제안하지만, 시간이 그리 많지 않다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXfIgNpLHwT_PFjBYE-N4CMqVIX2MyWXoqxY4V5XGJmsuU57f_JV4GVGWUoAV4SStiB0Ki8isK7OjC0TtiQGkNIuQrVf-QxV8K1yuM7ZmKJAKyGl.webp?r=6cb",
+                "title": "5화",
+                "runningTime": 52,
+                "episodeStory": "화전민 마을에 당도한 세자 일행. 모두가 굶주리는 시절, 배불리 먹고 있는 수상한 이들을 목격한다. 안현 대감을 만난 서비는 어딘가 이상한 그의 행동에 의문을 품는다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSSZ_xnfU0qgD6oHNJSO3g_XfSeS2NmBld3KjH58oNhnxIDFIiYcEvmDflq6qoBAMTjYYEK6aZGo0JQdTPXoLPxNZ5tVM_YixFpyIf2-3dcjMHIO.webp?r=69a",
+                "title": "6화",
+                "runningTime": 43,
+                "episodeStory": "권력이란 무엇인가. 비밀을 감춘 중전에게 한 수 가르치는 영의정. 세자는 고립된 상주를 지키기 위해 전력을 다하지만, 서비는 뭔가 잘못됐다는 사실을 깨닫는다."
+            }
+            ]
+        },
+        {
+            "title": "멜로가 체질",
+            "imgUrl": "img/main/hot_02.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTt4Byp8Udd86NXDv_v7Kbgz16YVDN86lIEZ3DSYtpsdPS8owKYXRY0-Q01JmYelrVNWkmTkUcqvvnCbE16Fto9syTl9.webp?r=c55",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABbTL75t9GldTUPnqtHHCfQsB4HAkx8h63uhtXAplLZQjXJ9vrFq0k5OWdsCYgcxk0LuHqjKeae5_U5e8h0D0icaihuJbBHY3Iw4.webp?r=8f0",
+            "bgVideo": "video/멜로가 체질.mp4",
+            "genre": ["한국 드라마","로맨스","코미디"],
+            "characters": ["천우희","전여빈","한지은","안재홍"],
+            "story": "스타 드라마 작가로 우뚝 설 그날만을 꿈꾸는 여자. 젊은 나이에 다큐멘터리 감독으로 성공한 여자. 일하느라 혼자 아들 키우느라 정신없이 살아가는 여자. 각기 다른 상황에서 일과 연애를 모두 잡으려 애쓰는 서른 살 그녀들의 이야기.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR-8WqTrqhDcYeIPEvEtrTWsf2_Z9lm71cjQX2LTt541uADRORW4fAozNvBXw-SYIKAEXmSAsiCqx2Du872U4IkFJDEjhexSiV4lEH5P4QKw-hkC.webp?r=32d",
+                "title": "1화",
+                "runningTime": 61,
+                "episodeStory": "파란만장한 20대를 보낸 세 친구. 굴곡진 연애사로 인해 본의 아닌 임시 동거를 시작했다. 서른엔 꽃길만 걸을 줄 알았건만. 그 예상을 엎은 각자의 절절한 사연을 공개한다."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZhUcXxneTNw3kiRfdqhMm0_aV4HL11FOHbAAaxQChBB5cbvYu6G5wmWPnzRBtpmLVQCwLEpnzUFEb6fKum3AYfRii0_j0LExFblR5M5J2j80upc.webp?r=d95",
+                "title": "2화",
+                "runningTime": 60,
+                "episodeStory": "혜정이 혼을 내도 눈 하나 깜짝 않는 대단한 진주. 하지만 뛰는 놈 위에 나는 놈 있는 법. 진주는 도저히 종잡을 수 없는 범수가 참 신기하다. 이어지는 범수의 폭탄 발언도."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUiG0RySS0CllD40WHODktrpNlH658nvaPBnn12Z_0q5KZpos9mvrX48WI6Rr5FnWejw8RI7T-MPxp0JUuXKuWtL7MG6zMa9nOUGV2FQnEQ5SDLP.webp?r=b53",
+                "title": "3화",
+                "runningTime": 63,
+                "episodeStory": "일에 대한 범수의 순수한 열정에 흔들리는 진주의 마음. 예상 밖의 인물 덕분에 안전벨트 꽉 맸다. 그렇다고 이대로 포기할 손범수가 아니지. 기발한 설득 작전에 돌입한다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVC_2LOsxguELpgAgZ3A9dH7baRAMVROuiInddyfGg3pB5cAIcw8wrwoW49Cas8YKq4RcOlp1UqSN78QV4ELblnOmy5mWjg_HQ_i6P5DjtzhRmvE.webp?r=30d",
+                "title": "4화",
+                "runningTime": 64,
+                "episodeStory": "술이 원수지 원수야! 오늘부로 어색한 사이 1일이 된 진주와 범수. 은정은 소민을 주인공으로 다큐멘터리를 찍자는 제안을 단칼에 거절한다. 근데 계속 보니까 흥미가 생기네."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABblnnA2uVd1dttP1evIAoi_jXnVVhCv-Fn-xkIp-eOZ_t9IEuksqXUL7QlWVBosLKtZe3bugBpjsJjobRo0F1rSfNR-saEOUs1cZu_wC9mGkGAgp.webp?r=6e0",
+                "title": "5화",
+                "runningTime": 66,
+                "episodeStory": "클럽에서 하윤을 본 한주는 아무리 좋은 소식을 들어도 재훈 걱정뿐이다. 프레젠테이션 당일, 범수의 놀라운 발표력에 반응해버린 진주의 손. 드라마 만들려다 사람 잡았다?"
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABen8Jvs6ORMwREfEDXa46QiqNhzQGiHHFKyIdw8VT6TVTa5QJIWrk9f3msDEREcmpGN7pKKkWtfcDEVABpQYJqCsApGT9DIMNTDrT7TL5TrThdcw.webp?r=4fd",
+                "title": "6화",
+                "runningTime": 63,
+                "episodeStory": "위기 상황 속 진주의 '가만있기' 대처에 덩달아 동참하게 된 범수. 해결된 건 없지만 정은 들었다. 어색한 소민의 모습에 특단의 조치를 취하는 은정. 모험 한번 해보자고."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZmsmNPH1w53d_yraeXCQcKZoD9O-FmIqjKqZLaUbye1Z-xgOMTRq9Es5futzKaC_vY0Q_U-iOEjjcbTJYsZWVXl6IxZKCDLt8QeLdYin1UBiXmi.webp?r=ec7",
+                "title": "7화",
+                "runningTime": 65,
+                "episodeStory": "사랑 이야기엔 고백 장면이 들어가야 하는 법. 그런데 막상 써보니 보통 어려운 게 아니다. 뇌에 과부하가 걸린 진주. 갑자기 범수를 불러내 돌직구를 날린다. 키스해도 돼요?"
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeq4dhrCmPfI_3ypRlr2zPg0cIdak1VgDKwttbaHZ8gcuxXA5vGKvihCbLg0Y68JWbeJhDI4EejnOk1KGUWrFss03__znFmlyYPqH-3uqrSspFb_.webp?r=11d",
+                "title": "8화",
+                "runningTime": 63,
+                "episodeStory": "한주네 회사와 대형 제작사 사이에서 갈등하는 진주. 친구를 향한 미안한 마음에 말이 쉽사리 나오지 않고. 재훈과 한주의 술자리에 들이닥친 하윤은 첫인사부터 가관이다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZih9UEGf9gU3QmAp1IntARi4m6caRNbE32qBrQ3uDPnEEY2Ta8a0mqj6Am1_ENiGzhpUYxSWYD5iNgfnStniFwwWaG5JrgDLXBYe-msDUQjVkI2.webp?r=ec6",
+                "title": "9화",
+                "runningTime": 61,
+                "episodeStory": "배우에 스태프까지 환동의 데뷔작에 빼앗긴 범수. 초조해하던 중 자신을 믿어주는 진주 덕분에 마음을 다잡는다. 홍대의 부재를 실감한 은정은 친구들에게 도움을 청한다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABac6lmtK7upPxRAz095LguMDH0MgmuASGQmgNkRVInvxoVZ5JMcq1uzsK5L_IQFLWYjvE4HAw0Cf4_pqiF0xyapsd1C4xr4DN10dN5FLU_Bk0A89.webp?r=e26",
+                "title": "10화",
+                "runningTime": 64,
+                "episodeStory": "혜정과 진주의 대본에서 유사한 부분을 발견한 인종. 설마 표절? 범수는 환동에게 솔직한 마음을 털어놓는다. 한편 은정의 진심 어린 충고를 듣고 민준에게로 달려가는 소민."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSQVcek8xDGovSdC1QIp6ALk8GTLZuurvdG-0-4Vd1PblyQZa7oUZSoEApw87wyQNZresPk9UI2vzEV1SO4o4iD6EiH75KdzApxm25mtxjjVS9oz.webp?r=1aa",
+                "title": "11화",
+                "runningTime": 64,
+                "episodeStory": "눈덩이처럼 불어나는 소문. 위기에는 회피가 답. 진주는 범수를 피하기로 한다. 하지만 눈덩이처럼 불어난 마음은 어떡해? 효봉은 은정에게 심리상담을 조심스레 제안한다."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQvM-FkRtJLGtee8BslKr5dQv9hNngmAYXKxua1gxF2fg7eiVExuwWaSnUtF9faojsZCks9bgDGePze0hR5NCjeWh8q9awlDwzSHlAAgDBggx_AM.webp?r=799",
+                "title": "12화",
+                "runningTime": 65,
+                "episodeStory": "너희 도대체 장르가 뭐야? 드라마와 교양을 오가는 진주와 범수의 관계. 재훈과 하윤은 헤어진 후에도 서로 쉽게 떠나지 못하고. 상담을 시작한 은정은 달라진 홍대를 만난다."
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQ5Cq0RQZPmqN_fshKlwUNQNdQ6PmvLzbpTjux7UR_Pfa4k_2BLsn28Q6ciGJeTw1CB-ExsfUwaBsZ2_elPjuGJEg9exh5Z0THAeKF-mTlhH6Qbp.webp?r=153",
+                "title": "13화",
+                "runningTime": 62,
+                "episodeStory": "드디어 시작된 진주와 범수의 로맨스! 연애 초반의 달달함에 빠져 살 줄 알았는데 불의의 사고가 터졌다. 평탄할 길 없는 두 사람의 사랑. 일도 순조롭게 흘러가지 않는다."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABegSAoVRT_NgFtR3QL-CZUzh5zoCFtBf9jqBW6HNhNUHWzmok26SWSn_NNwU5ms0fBOq7wH7xJukx4n6VSJLocumhRw3m4IjC2VRB8fJeSu2MyBI.webp?r=577",
+                "title": "14화",
+                "runningTime": 68,
+                "episodeStory": "일이 진척될수록 쌓여만 가는 피로. 진주, 범수, 한주, 재훈은 기분 전환 겸 여행을 떠나기로 한다. 잠시 쉬라는 조언에 보육원을 찾아간 은정은 또 다른 기부 천사를 만난다."
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZzjvZeFsBc9KbRVvzHr0J9g4SgQ5sqvdo40CKET9H2hZvXWEDz55NbPIG_XuMDgoMaWs81AcWsyoT6bbQT_mlJMXLhbTyYFqoHCqxkemS4iCj4o.webp?r=ab9",
+                "title": "15화",
+                "runningTime": 66,
+                "episodeStory": "일과 사랑. 두 마리 토끼를 잡을 방법은 정녕 없는 것인가. 갑자기 당겨진 일정에 눈코 뜰 새 없이 바쁜 범수. 자신보다 일이 먼저인 듯한 모습에 진주의 서운함이 폭발한다."
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYDpHY9Newrfz4i1C_q6kwppuV6Gn20uRH0OxZPEnRkCIA4GzHiLBfAt6l-fZr7LYjqEc2Mq5E-orfX74bs9SBedqiO3NN5rv0gylUPGeNiUmLfp.webp?r=acf",
+                "title": "16화",
+                "runningTime": 73,
+                "episodeStory": "《서른 되면 괜찮아져요》가 힘차게 시작됐다. 이제 결말을 고민하는 진주와 범수. 마무리는 역시 결혼인가? 그동안 열심히 달려온 한주와 은정도 일과 사랑의 결실을 맺는다."
+            }
+            ]
+        },
+        {
+            "title": "부부의 세계",
+            "imgUrl": "img/main/hot_03.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTr6BLG46tI_s5zFN_hXXWW-uLWogkXa4TASGzMRE3A6h6JvGsWLEjWxcvFqZKIdKv_CUWGjS1fdxz1u21JqYIha5w7k.webp?r=641",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVkgQVtnhIZhZEVIRRdHwSrdcMGMCiQU_lH76zrVRea1Twe1Y76E8X17rWT9ZcjXb2XSft3NyfFwrupC2cZ7aiUMFp8JCtPpUHo.webp?r=fee",
+            "bgVideo": "video/부부의 세계.mp4",
+            "genre": ["한국 드라마","로맨스"],
+            "characters": ["김희애","박해준","한소희","박선영"],
+            "story": "일과 가정 모두 놓치지 않는 그녀. 다정한 이웃과 친구까지 있어 더없이 행복하다. 그러나 그녀의 세계를 비로소 완성하는 건, 세월에도 변함없는 남편의 사랑. 그러니 그 사랑이 흔들린다는 건, 완벽한 세계에 균열이 생겼다는 것.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSH4VVOrFJFl7UO03X_tVj-LvmAJ20hWjrDd06piAIm5XTCaREwhNaNK9ka1ah6q0eBEg5S7zLAZMn-mBGuBAg65BFoaplxbfnG5pC8Ai9PcdKSv.webp?r=5d7",
+                "title": "1회",
+                "runningTime": 88,
+                "episodeStory": "오늘도 상쾌히 출근한 의사 선우. 그러나 남편 태오가 둘러준 머플러에서 머리카락을 본 뒤로 일에 집중할 수가 없다. 누구 것일까, 여자 것일까. 그에게 여자가 생긴 것일까."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABchpdSt8prpHyLmbjwI6FlLBG7vXG6mXdBYgvUPyHbUt5YeHroDp90URCW1R9FHiu2R6LpkHReISz9g-5UlUN_Ydzcg96Q4CeeJD4phESQGWzduH.webp?r=08e",
+                "title": "2회",
+                "runningTime": 84,
+                "episodeStory": "모든 게 거짓이었다. 남편의 사랑도, 친구들의 우정도. 지옥 같은 고통을 어떻게 돌려줄까. 조용히 파티를 지켜보던 선우. 뭔가 결심이 섰는지 다경에게 다가가 말을 건넨다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABc2D0-Cc97BHVDgzFg6pe1m3lj2PeDXEnnoAo-qAoUQOb4xWP21xmNx_BzithyQyWeXQFJYUipxQokKW5Li_aJw-dAH-Ee_6-rStHNqDjzKZh8z_.webp?r=77e",
+                "title": "3회",
+                "runningTime": 78,
+                "episodeStory": "뛰쳐나가는 태오를 보며 선우는 그가 청혼한 날을 떠올린다. 이번에도 태오는 같은 결정을 하려나. 그의 진심을 알아볼 기회다. 변호사는 선우에게 이혼의 현실을 일깨워준다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZt4QMRtMt8mJzJF3KUzQf6gZMrZrl8pWXbvNH51yZSZrAnL5_cYBRPu_JEc1VQ1AGtX_KtP5ChCOFmVLfj90yCKuDQAxhbc2xmgNcHixl4KEisK.webp?r=5f0",
+                "title": "4회",
+                "runningTime": 81,
+                "episodeStory": "내 아들, 내 집, 내 인생. 온전히 지키려면 보안이 핵심이다. 태오를 안심시켜 두고, 그의 주변인과 조심스레 접촉하는 선우. 그 사이 현서도 다경과 급속히 가까워진다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeoCCV89C0y6ShRl7niaR7i9KHSMzat0qWenyuEAlW4vujsUUOoht6K0vU3wz3y_qYLoRNIXYagDllJRanhXdGlQLdBmDiSVmhYKevQ6bnv4A7EA.webp?r=ef0",
+                "title": "5회",
+                "runningTime": 87,
+                "episodeStory": "다경의 통고에 애끓는 태오. 선우마저 변화를 보이자 불안감에 휩싸인다. 제혁은 선우에게 태오의 재정 일부만 알려준 뒤 조건을 거는데. 가는 게 있으면 오는 게 있어야지?"
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdkuHUYrB7F7VeKB-URJATROabW0NShTi4zFyI8pIoDKz1gSzBMJTE-au9Mtf0zV52DLMm5Oh2ykV8daBXl65ZDP0KFMgTSYC_g4UADWDKf_YMHA.webp?r=028",
+                "title": "6회",
+                "runningTime": 81,
+                "episodeStory": "선우와 태오의 이혼 공방이 본격화한다. 선우가 이혼 서류를 보내자 맞대응을 예고하는 태오. 재산도 양육권도 포기할 생각이 없다. 호텔 방을 나온 예림은 선우를 찾아간다."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeTC6jHSqEFC673h9X0MnTRAL3hyVxnLVXLMMZkcrJCR_mtfZmmY_hySJjzJGhnBKjcHhsyvBDS7EHyfcSGp_XAJnjeT03oIiknLZdJN5I1X-jiy.webp?r=d8e",
+                "title": "7회",
+                "runningTime": 80,
+                "episodeStory": "태오와 다경이 딸 제니를 안고 돌아왔다. 최고급 타운하우스에 터를 잡은 두 사람. 성대한 컴백 파티를 준비해 온 동네 사람에게 초대장을 돌린다. 단 한 사람, 선우만 빼고."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRMhh-AjtVrkjBfdqW1K6oli2W-XBNEJHI7LW55Uv4j8g4DJbWltP3eMG8knpNvgcKfVwh99BJjbkWjqU4i0GqstTnE4REIHNz6Oh1ZUz2AjyWz8.webp?r=e95",
+                "title": "8회",
+                "runningTime": 74,
+                "episodeStory": "낯선 기척과 협박 편지에 섬뜩해진 선우. 준영마저 겉돌자 극도로 예민해진다. 예림은 모든 게 태오와 관련됐다 의심하고, 최 회장 아내도 선우에게 주변을 경계하라 이른다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY4YUs-_H7VZ7dJeaS_70ljXE77yPvTO5LX-L2Zqq9tulzRUkW-5qkI-rER7WSNcddsMcydr7dRHemkH6rcVjVaECNR4tMUAOJLdg_jSmKYHJPRZ.webp?r=78b",
+                "title": "9회",
+                "runningTime": 81,
+                "episodeStory": "선우가 여우회에 입성했다. 태연히 환영했지만, 다경은 선우의 말 하나하나에 신경이 곤두선다. 선우와 태오는 지금 어떤 관계일까. 둘을 신경 쓰는 건 윤기도 마찬가지다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYhVHs5BLFOG5zU5E55hL7UoCe0C1QNGZWWeZVhkwkIRBPyRER8AINZVSSOxfWqwKwRp6bPSRFQ7g2dY9u8FXNOjPxREl7qd326-mr4RSsiAhqPK.webp?r=cd8",
+                "title": "10회",
+                "runningTime": 86,
+                "episodeStory": "인규의 발언에 감정이 복받친 태오. 야심한 밤에 선우를 찾아가 애걸한다. 제발 내 눈앞에서 사라져주라! 제혁과 함께 산부인과를 찾은 예림은 검사 직전에 모습을 감춘다."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABV73awdB7uWuoR9mqJAltT1vrxFC-6O1dAGbLExeoToXYwxfvGRe3AmM4T8RUiPDXViKPYq28rQ6w_q2oghxeyE79V94OvmMoa2pbhWcSZSBY2zB.webp?r=93b",
+                "title": "11회",
+                "runningTime": 77,
+                "episodeStory": "기차역 추락사로 고산시가 떠들썩하다. 현장에 남은 선우의 머플러. 사망자와 마지막으로 통화한 태오. 그리고 사고 당시 역에 있었던 윤기. 그날 밤의 진실은 무엇이었나."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYWEpheTg6Ys2RsSGGb5YIRRTzt3tai8zXoR3jB7IuAorkCAINOTbWiRjUZ1P0trkk0snRdskUY9F6f75KM0GfIJ1J5K5aKIF8xB4FdO9Zg6MbeL.webp?r=458",
+                "title": "12회",
+                "runningTime": 83,
+                "episodeStory": "아내도 장인도 연락이 없다. 홀로 경찰서에서 허망한 심정에 사로잡힌 태오. 선우는 준영을 위해 뜻밖의 결단을 내리고, 다경은 준영을 이용해 부부 관계의 돌파구를 찾는다."
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY8JdBqA349jC_xVn3-GFotMc8Sb-do-yKR5LulYyhKjFBXDCQqSQ2RtdrmuIVzLM-kOyETY5o6TtcFyP_oiFagYTqtt2FfOOcLqnNLp5Uy0M30n.webp?r=23b",
+                "title": "13회",
+                "runningTime": 75,
+                "episodeStory": "간밤의 일은 실수일 뿐. 마음을 다잡고 이직을 준비하는 선우. 태오도 새 가정에 집중하려 애쓴다. 그러나 점차 일탈이 심해지던 준영은 결국 학교에서 크게 사고를 친다."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdUdHYc7u_qHacJeRsCBlOJ9Gjy6DhYBzc5A-LWW4zQhBdtHV7MO5yCLSn2yf0-3YlG7CBdYteapKXglO0HDYV3LR1EobvO2ofEpXCjW3Ve7nuad.webp?r=903",
+                "title": "14회",
+                "runningTime": 82,
+                "episodeStory": "지각과 조퇴에 이어 오진까지. 커리어마저 흔들리며 고립된 선우. 사직서만 남긴 채 고산에서 홀연히 모습을 감춘다. 그 사이 다경은 자기만의 방식으로 준영을 끌어안는다."
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcNMEGZNunUrcgfYIUrHQUXfeY85a2rfE7x1d83ePiPke8BBJa_YVBlK62Ryvpp4D14naYqjV7IUE1Os_bPcpCYn8sTvMOwI_dsroQLlbyOcHfqW.webp?r=e45",
+                "title": "15회",
+                "runningTime": 92,
+                "episodeStory": "아빠 다신 보고 싶지 않아. 선우에게 멀리 떠나자고 애원하는 준영. 다경은 태오에게 그 밤의 일을 묻는다. 추악한 진실이냐 포장된 거짓이냐. 선택은 이제 태오의 몫이다."
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcsPLwzzlC_hfvF3f8C0Zj8iadGUnCbcIalcyX_CaYq0DQ3RAfHe42CRKcgswGUBiMXTLqOuX3-lfSddFgoewt90K309JSW0oeW-137XBPYWC_jY.webp?r=b09",
+                "title": "16회",
+                "runningTime": 79,
+                "episodeStory": "준영을 데리고 고산으로 돌아온 선우. 불편한 이들은 떠났고 친구들은 반겨준다. 부원장 자리도 되찾았다. 이제 다 정리됐다고 믿었는데, 준영은 왜 어디로 사라진 걸까."
+            }
+            ]
+        },
+        {
+            "title": "사랑의 불시착",
+            "imgUrl": "img/main/hot_04.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcX3ZK6Uhd_mVQJij_a_iJOHx7VfK10JB9oWgF2yBOghDT-2E-lNVxvWvrIxANE20pt7FISD2rofz9UU-vx3zW-JTTO9.webp?r=a43",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABSvIhqXYJNWjiolQDMuIqTgEUNDLmospQ2uOXMZQiKU-6Wxa6iYA_M9m67OR7M3b5_CH3bxH5PkSs8r3v0xWvtwemWOoVymUrbM.webp?r=3e2",
+            "bgVideo": "video/사랑의 불시착.mp4",
+            "genre": ["한국 드라마","로맨스","코미디"],
+            "characters": ["현빈","손예진","서지혜","김정현"],
+            "story": "뜻밖의 돌풍은 행운일까, 불운일까. 패러글라이딩 사고로 북한에 불시착한 재벌 딸. 그곳에서 깐깐한 북한군 장교를 만난다. 이 와중에 피어오르는 낯선 감정은 뭐지?",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQQCCslP4GujD6v9nRpYZd_7gYQ4t83D9Sh6bWoks03VgoFOLZQGm-sFm23qREDj-81OuAxwiFfaP9uq1y1Q9coxLkr97dRHEuTXTyCAMmzG2SSc.webp?r=c4f",
+                "title": "1화",
+                "runningTime": 70,
+                "episodeStory": "바람 잘 날 없는 재벌가에서 부모덕 없이 성공한 윤세리. 돌풍에 휩쓸려 외딴곳에 추락한다. 그녀 앞에 나타난 북한 장교 리정혁. 귀순 용사가 아니고 여기가 북한이라고?"
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRGlpONB4Pyw2qEUp6kQ0nRe-Ir5UthEWP8dpSDY-3Z17uKZ8y5M4k1kx3c4vB4gQlTR9Dh9bf21I5Ep1a5JE4DnHn47m2mHrGetnyxsSMBG6YBj.webp?r=e3a",
+                "title": "2화",
+                "runningTime": 76,
+                "episodeStory": "뼈아픈 실수를 저질렀다만, 일단 살아남자! 정혁의 집에 눌러앉은 채 정혁과 열심히 협상을 벌이는 세리. 그녀가 간절히 벗어나고 싶은 북한으로 승준은 도피를 계획한다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa8N_Z8v6PdNBN0526HfTFn_ExMhpU3FqOgOeJ79rsWbHojbFZETQIHK4-C101zSd7aRezVl6ltGOCl_Zy9wDXYzQwS8qY8ymOoKhoAN49pRoW5N.webp?r=dac",
+                "title": "3화",
+                "runningTime": 69,
+                "episodeStory": "요령이라곤 없는 줄 알았는데, 제법이네? 정혁의 기지 덕에 위기를 모면한 세리, 의심을 늦추지 않는 철강. 세리의 빈자리를 차지하기 위해 형제들은 각축전을 벌인다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfGs1zkf0S-wG7G6uXQTVByZ6wborg524AkjjN5Y3a1Pf-28UylInofmSS80x_jyMciicEvGsRVXFWyuOWc_a_iBsRT_2XrrUIAOLndnxO-evS-3.webp?r=291",
+                "title": "4화",
+                "runningTime": 78,
+                "episodeStory": "살아서 돌아가긴 다 틀렸나? 쉽지 않은 길이지만, 세리는 탈출을 포기할 수 없다. 이 구역 대빵을 포섭하자! 정혁은 돌발 행동을 하는 세리가 자꾸 신경이 쓰여 큰일이다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRCKYyAspOURTgMg3ccoip-1mqG98oSt3btnhcdmrz2zjQs9FUzTcVEQTheKfAONNaHaX-7uQy3BDJyFR3Lin2uA93IWUTRl24017crneql1V-vq.webp?r=aa4",
+                "title": "5화",
+                "runningTime": 79,
+                "episodeStory": "부모의 바람대로 서단과 결혼하기로 약속하는 정혁. 하지만 조건이 하나 있다. 선 긋는 정혁에게 내심 서운한 세리. 평양 호텔에서 승준은 두 눈을 의심한다. 이게 누구야!"
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeu_QJP2VY416ECR6uHO3ahMhE4UqK_hVnvmTBtdE-RM6RVSPaXfpPtm-xsC9OcFrdyfc2l-LqP9dS84AIXL9R_8hzdqXaAhma_ImGiRX6cptOGS.webp?r=5fd",
+                "title": "6화",
+                "runningTime": 78,
+                "episodeStory": "둘이, 같이, 어디에 있다고? 정혁과 세리의 소식을 들은 서단은 가만히 있을 수 없다. 쥐도 새도 모르게 죽기는 싫은 승준. 이제부터는 세리가 유일한 희망이다!"
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYjo3eJbIfS9mhh8ZGWyQ0VxWYYdDqNws2pkVNL7gOnVoADFfZZj9VWfSODsc6Y9pXdUdDXfsPVfQ4OBP_fvNs2oAgqs9hxRqQ8MMhmBHjPYZ0RC.webp?r=b9b",
+                "title": "7화",
+                "runningTime": 82,
+                "episodeStory": "지금 떠나지 않으면, 영영 기회가 없을지도 모른다. 하지만 위기에 처한 정혁을 버려둘 순 없는 세리. 난생처음 경험하는 이 감정은 뭐지? 없었던 거로 하기엔 좀 세다."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeDnzL6XT8ZmPzHBk7M-wU_wt4hWNUyQNPHRA18aK-9ae7m9XmYAOYCh6clGteC-aWGATFouuo2HL1HR8IQa-meYzc4fxnsC2-eyWoQfcGmJmtNQ.webp?r=c91",
+                "title": "8화",
+                "runningTime": 85,
+                "episodeStory": "반드시 정혁과 세리를 갈라놓겠어! 탈출을 빌미로 세리에게 획기적인 제안을 하는 승준. 궁지에 몰린 세리는 고민에 빠지고, 철강은 정혁을 거꾸러뜨릴 동아줄을 잡는다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdmaNC2VD2NqzCJuErhzOgHXopJxMiCFQJFK9mD09hLyOK7rL2tz6Jlf_1NM6Y15ENbORY2e4DmvkdwMdEt3sEYjevGsEqiTesyBYLI38hN7u-Dc.webp?r=4ae",
+                "title": "9화",
+                "runningTime": 87,
+                "episodeStory": "이렇게 헤어지면 안 되는데. 사라진 세리는 어디로 간 걸까. 애타는 정혁은 제대로 사고를 친다. 의문의 남자와 대면한 세리. 이왕 이렇게 된 거 부탁 하나 해볼까?"
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQcrwJuSlSGK7udWjZI6XTxsJfSuhRTaA0Yfp0juGcv7QbzzjaKM0-FKYBsZCh4RdJCa4N2PtzZNERrw_YR8YQLQCHPomBPmHyI8j84QxrI7wEgr.webp?r=2ef",
+                "title": "10화",
+                "runningTime": 83,
+                "episodeStory": "관 뚜껑 열고 나오면 이런 기분이겠지? 제자리를 찾은 세리의 거침없는 행보가 시작된다. 하지만 자꾸 떠오르는 한 사람. 정혁은 형에 관한 충격적인 소식을 듣는다."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQ4cxyXuce0_RXmEEXpRuT8mqCjCjkvPcDhmRQuRgBBuRFyx0y-dS-FNhzAEl_RnMtZwc8r__7WcvMgVPcqjc_omYH4UoUBo5JVfA7TgPjI0wZmo.webp?r=af1",
+                "title": "11화",
+                "runningTime": 86,
+                "episodeStory": "이번엔 정혁 차례다. 낯선 곳에서 세리 뺨치게 적응할 수 있을까? 북한에서 더는 안전을 보장받을 수 없는 승준. 서단은 쓸모없어진 공간을 그에게 은신처로 내어준다."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU3HxStnJwFVh1MZRlvFTCHJTt6GYGliEnYSBSgR48e_QKICNyeGL4kZ0AumEC1ZkVj_waPIUZnoseurEOUcA5RQkp1A5mitaqd7Cpz-gvJTr1e0.webp?r=e00",
+                "title": "12화",
+                "runningTime": 95,
+                "episodeStory": "누가 뭐래도 서울은 세리의 구역, 위험에 대처하는 그녀만의 비결이 있다. 정혁을 찾기 위해 갖가지 방법을 시도하는 동무들. 승준은 서단과 특별한 밤을 보낸다."
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABc3HAEK17Wb91S1Tb3GkCs8W1U-0b2SSOpLT7VJvGPsjSiskx1dsW3ybADcjpW8C7CXI-tW5IsNKT_5PFxQ0IGGYD8zljTyznZHuUd51lzxoUDDT.webp?r=b38",
+                "title": "13화",
+                "runningTime": 84,
+                "episodeStory": "세리 카드라고 들어봤나? 북에서 온 친구들에게 쇼핑의 참맛을 선사하는 세리. 정혁은 그녀와 잊을 수 없는 데이트를 즐긴다. 궁지에 몰린 만복은 어떤 결정을 내릴까."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdbOUVdLcXbnNuv-6XVqJ9JofWUraUwnxxg5DIxT42z50XL_FWho6Qf75TikYdm-SGfnAXcCyO-Rj4fyuWddVKMXWvZnvSXQJgP17XrmJ1tojKz0.webp?r=c5f",
+                "title": "14화",
+                "runningTime": 91,
+                "episodeStory": "수단과 방법을 가리지 않고, 윤세리를 지킨다. 간절한 마음으로 그녀 곁에 머무는 정혁, 힘을 모으는 동무들. 승준은 서단이 자꾸 눈에 밟힌다. 이번엔 좀 진지한 거 같아."
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaT9DTOuyrR_smxIrIgFn9FoH8oEKRkpn_QijiIA2xmcxfd1U4beP4Er7zJDbCaWfw_7jZLD0nbJ1gvLkECuAWK-YCvXAXJ1Yywp1w2Eom8jACNv.webp?r=238",
+                "title": "15화",
+                "runningTime": 85,
+                "episodeStory": "다 나 때문이에요. 정혁과 동무들이 위기에 처하자 속이 타는 세리. 조사를 받는 세리와 정혁은 자꾸 다른 이야기를 한다. 승준은 무사히 북한을 빠져나올 수 있을까."
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSQhfQYBUOWf-yYPiPYheuzB8UoGAdtC8SYgN2-ilAjbyLwgxm8QRrEMirC_qEiqZQBAnBGrsCWfZmlJjbxV1bL9jBH6ZKoN1iFK0ovL1c8XsjEc.webp?r=28d",
+                "title": "16화",
+                "runningTime": 111,
+                "episodeStory": "송환을 앞두고 긴장이 감돈다. 또다시 마지막 인사를 나누기 싫은 세리. 정혁은 그녀를 위해 선물을 준비한다. 언젠가 운명이 허락한다면, 두 사람은 함께할 수 있을까."
+            }
+            ]
+        },
+        {
+            "title": "미스터 션샤인",
+            "imgUrl": "img/main/drama_01.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSfThXxSRdKYRmkj5JuBxSCc2y1UKtM4zwwmBrPcYErXtPCdjyZGhaTfs5HwIAml-i717h77LhR5ntCsYdxarxi4YyKv.webp?r=22d",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVgsQtcTJOVEhBC23e1fJVaDVtiLKae1fA-bvN5mF6mbjmozSVrR50OiumrhPuBgQGBtu9B377ygAFYqDV02LPFgJGZJwriHCiQ.webp?r=df2",
+            "bgVideo": "video/미스터 션샤인.mp4",
+            "genre": ["한국 드라마","로맨스"],
+            "characters": ["이병현","김태리","유연석"],
+            "story": "미국의 이권을 위해 조선에 주둔한 검은머리의 미 해병대장교 유진 초이와 조선의 정신적 지주인 고씨 가문의 마지막 핏줄인 애신 애기씨의, 쓸쓸하고 장엄한 모던 연애사다.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRO9Rlg0wt1Xzn88F_0zY3dhmm720NCY2eGo5mSrorRW6rm6M8vE3EbUQ2hlYKeDvSX7Vh1Hsc1BjpM6xLgBe0IzFnbXEkBRLttWV1qIeSBljbit.webp?r=183",
+                "title": "1화",
+                "runningTime": 72,
+                "episodeStory": "고종 8년, 미국이 수교를 요구하며 강화도를 습격해 온다. 그 무렵, 처참한 사건을 겪고 주인 양반집에서 도망친 9살 유진. 우연히 미 군함에 올라 조선을 떠나게 된다."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABe1wNRLby0hn3KGrhSQkTwKb8V6Ufvh9J3NvTA6gu-lurMKd0s1qv07w2CIxhPFY7aOo9W48cEwOrsWRQFji43b3QtTQ6g70ZWuLs6dsWYkndnbx.webp?r=04f",
+                "title": "2화",
+                "runningTime": 69,
+                "episodeStory": "조선의 운명이 걱정되는 애신. 할아버지가 원하는 대로 얌전히, 꽃처럼 살 수가 없다. 한편, 조선으로 돌아온 유진. 종로 거리가 가로등으로 환해지던 날 애신과 마주친다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSXjW1RqH7Fh7fu6mD0g7wqzY-BO_RTpSWCsbb3ZGXCCocM_fGXjZSBxeiaU8Df0RIK4iXpbm-MkQR12jianZ4eC-ckdR71LTSzVJE5r2RvKETH6.webp?r=95f",
+                "title": "3화",
+                "runningTime": 67,
+                "episodeStory": "아홉 살 소년의 기억이 부르는 곳, 그곳에서 유진은 애신과 우연히 만난다. 진고개 거리에서 애신과 재회한 동매. 그는 한순간도 잊을 수 없던 그날의 기억을 떠올린다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbpaqQ0vUox4flz8-1HGEAx4IC5vwffZ6WyOSx7x9ZcPae8CcgiK7LfKsQA4ZkZVW93KcKkZgOloRPiuq1X3Fqj3RS6cK9OIDXBuoOwbHmb6BbIM.webp?r=ab3",
+                "title": "4화",
+                "runningTime": 67,
+                "episodeStory": "열차에서 미군의 총이 사라진다. 이 일로 유진과 부딪치는 애신. 그토록 궁금했던 이방인의 정체에 놀란다. 희성은 조선으로 돌아오고, 유진은 부모의 원수를 찾아간다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXUdaktURSgHpjCc-rEQ_bwWctc1RBaJerlf2zri9NLl2SLLVuFDfrvopKzBg418LbTFiF_5N0s6RbW4ILMr46kCBZnqDSedIiFIhcJZE550DAs8.webp?r=690",
+                "title": "5화",
+                "runningTime": 72,
+                "episodeStory": "조선이 위태로운 이때. 꽃타령이나 하는 정혼자라니 애신은 마음이 심란하다. 한편, 조선으로 돌아오는 친일파 이완익. 유진은 소녀를 구한 일로 일본군과 대치하게 된다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABavE-4vS0dsfWmmV10Hr4szOp_an36ph5U91PZUwAGyOUFljiNy_UJ4DdSP9OKghonmYpxL5seZPjSuzcSZPa9fqPWVKoG2SXiw14dR4zMsxL5Gc.webp?r=f35",
+                "title": "6화",
+                "runningTime": 68,
+                "episodeStory": "새로운 임무를 받고 미 공사관으로 향하는 애신. 눈치 없는 희성은 유진과 동매의 심기를 계속 건드린다. 과거의 진실과 마주한 유진은 마침내 애신의 제안을 받아들인다."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVIakfKlLNOIYoOg-Je9ADBr-t1psJ7ZEDZDC11JNPbmzavJbOvV81JiQKk5AgnVZn5mtHr21o3FwMFXBkObOykZIWQhox6F5-aJuApyg9eiXNVh.webp?r=fbf",
+                "title": "7화",
+                "runningTime": 72,
+                "episodeStory": "'러브'의 뜻을 알아버린 애신. 낯 뜨겁고, 기막혀 참을 수가 없다. 한편, 또다시 거리에서 횡포를 부리는 일군. 그 장면을 본 애신이 총을 빼 들자, 유진이 조용히 나선다."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZB4ZLqoybEn0nk1_fi-QZQnxrlyT0jU2cgSE6E-sUbxtn6D-N9pHBlUzGoYMp2FLxnY9IjQmYzCXA72RfYkHnEv-EnY-8eXpuQpnqO65GsMVMtl.webp?r=6ef",
+                "title": "8화",
+                "runningTime": 67,
+                "episodeStory": "동지를 구하기 위해 제물포로 향하는 애신. 사라진 게이샤를 찾기 위해 제물포로 향하는 동매. 피할 수 없는 만남이 이뤄진다. 유진은 술값을 갚기 위해 장포수를 돕는다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcLqK_05EtlZZjTC0jAgSq6Wy_rCCzEgpAbNfuZI9cxfk1uN9ZQv6_L_41TJNlQopRJMV0bePOVEeQS-Z64IECi92IoN4jmFe5_nGNZJSI7C_loL.webp?r=d78",
+                "title": "9화",
+                "runningTime": 72,
+                "episodeStory": "서로에게 한 걸음 더 가까이 가는 유진과 애신. 동매는 그녀가 왜 의병을 하는지 궁금하다. 희성은 어떤 선택도 할 수 없어 속이 타고, 유진은 복수의 칼날을 휘두른다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVtckMgS-nvWzBY1mO_jvd4LJocGGMaPH1_W-o4KD-Jw-koalCOhRJGkatjqjOQoq6cu8Xxim6iXd485ClByMXVEI4_amIB21mfq6uHqIl_eAUqQ.webp?r=69d",
+                "title": "10화",
+                "runningTime": 73,
+                "episodeStory": "고종 황제는 유진을 필요로 하지만, 그는 또다시 조선에서 멀리 달아나고 싶다. 애신은 유진의 긴 고백에도 그가 보고 싶고, 희성은 애신이 맞췄다는 양복을 새로 맞춘다."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABclYQBAlg_zi6E0SAXqbwlvh3Tn1M4mSlnRXwv3nlXTRVtnQU0MmEON-orE8Nf8H4PA_JGI5uOuBNtQ_uSlQ1GyYCaVCspeaUiOqOwrjDAdmm7jq.webp?r=911",
+                "title": "11화",
+                "runningTime": 73,
+                "episodeStory": "눈 오는 날의 우연한 만남은 유진이 한 걸음 물러서며 끝을 맺는다. 희성은 자신만의 방법으로 애신에게 선물을 전하고, 위험을 느낀 히나는 유진에게 신호를 보낸다."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbQHwbNaUrFep6bP2jeB7kXJnb0si_Egf7BCCpE8S7wi6WucCWn8iNQ_3FZEwU9C6FNNK25hLw2ELVH4PP375fiPjqkIIKBDZsnTato4sdLxRxNh.webp?r=cdc",
+                "title": "12화",
+                "runningTime": 73,
+                "episodeStory": "둘만의 비밀이 생긴 애신과 히나. 유진은 침입자를 조사하던 중, 이완익의 존재를 감지한다. 한편, 시간이 느리게 가는 동매와 달리 희성의 시간은 속절없이 잘도 흐른다."
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd7s01Am_AQMbusQef14x_fvuiFmY0F22_Nsn_gFKhAHUN87QGJ-LXKfycmykXI7vdeX5yMZicliaj31CazzLQ2aQiBAcx7bkxwycS667HCl5L11.webp?r=74e",
+                "title": "13화",
+                "runningTime": 78,
+                "episodeStory": "바다를 보러 간 애신과 유진. 언젠가 더 먼 곳까지 함께 가기를 소망한다. 그러나 희성을 찾아가는 애신의 조부. 조선에도, 그들의 운명에도 어두운 그림자가 드리운다."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVRkT3AawcXg2ZMw8HZh4R2N8P1Ns6JtIAn7DmLoEbiOADr7LDHeGJfDAkUYp0tWA6qWa7AyGGc0UUAqGTBXnLiFm7uVoPC5MjB7-Ig0J0_S2B-A.webp?r=03b",
+                "title": "14화",
+                "runningTime": 73,
+                "episodeStory": "누가 요셉을 살해한 것일까. 슬픔과 분노에 잠긴 유진이 범인을 쫓는 사이, 동매가 체포된다. 이 사건은 의병 조직에 영향을 미치고, 애신은 가혹한 임무를 받게 된다."
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVxP5MW9mFFTuH-3tBPeH5xBiLVUVVfRjFUtwmKAQuhHzIVzj-cpwu-_5cXRGpYwQAMYPM3-GbM_mB6YZ-KgvJC_I4QTat-K5qaewbGLMTgp5tgp.webp?r=b50",
+                "title": "15화",
+                "runningTime": 77,
+                "episodeStory": "애신의 총구를 피하지 않은 유진. 도망가지 않기로 다짐한 그는 조선에서 봄을 맞이한다. 희성은 자신이 태어난 날, 유진에게 일어난 비극을 듣고 마음의 결정을 내린다."
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRUgKU7ZgM3W7ZtKU_iR0W7nQetQhHg_DwaHjHlc4LfivLOTr3aAZUC0HQJEHIjQTMbGrCuuKYb6CGd5nhVn9Uy_7tTGnJSQPz3voyHLDGDFld7u.webp?r=f98",
+                "title": "16화",
+                "runningTime": 76,
+                "episodeStory": "바다보다 먼 길을 가려는 애신을 위해 나쁜 마음을 먹는 희성. 동매는 이완익이 고사홍 대감을 노린 이유가 궁금하고, 무관학교 교관에 임명된 유진은 황제 앞에 선다."
+            },
+            {   
+                "num": 17,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABalmAbsyUV-vKbqc4wSC7SWkd88YOOdYY8DrFpEvdefakEIzPl8FVmkxhz2bJvDauVrFfWgwej6pvPT3b71pZEh7eVVcBZCTZJukSCZA7h3fsais.webp?r=5ae",
+                "title": "17화",
+                "runningTime": 75,
+                "episodeStory": "유진은 애신의 집에서 뜻밖의 인물을 맞닥뜨리고, 동매는 불길한 죽음의 점괘를 받는다. 한편, 선비들을 불러 모은 고사홍 대감이 상소를 올리며 일대 소란이 일어난다."
+            },
+            {   
+                "num": 18,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQMy-1moqOCn30Xo74w-vyvpm2bc5_wyxZUSNwuDCpi56IEto298hefkr_G2wQOXphD_MQSHgTSlgEWwD8HImwA2TyxX6yQnQEeFHhYL_vBgcilM.webp?r=e01",
+                "title": "18화",
+                "runningTime": 76,
+                "episodeStory": "고사홍 대감이 투옥되자 이 소식을 호외로 전하는 희성. 백성들의 분노는 거세지고, 타카시는 조금씩 본색을 드러낸다. 동매는 이완익이 애신에게 접근하자 결단을 내린다."
+            },
+            {   
+                "num": 19,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRM-EqruMSxT1CY9sdBgplfUBNhEsg2RnshkGlCym4_xx_D7GjSNsLB683T1OQB1oySmx_x4bCmyv7vKaYbzuPxj4LcsMqmc6lekSx3pzQ2lY0LA.webp?r=231",
+                "title": "19화",
+                "runningTime": 76,
+                "episodeStory": "이완익과 타카시의 사악함이 애신의 집 대문을 넘는다. 그들의 만행에 위기를 느낀 고사홍 대감은 유진과 동매를 불러 두 가지 당부를 한다. 잔인하지만 너무도 간절한."
+            },
+            {   
+                "num": 20,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVAfsqNmxTAOVIDaiOBWHGqG3ypA7nC6J3wI1tCZTrQTMTbqQ8l5p8d2yNDa6Ewu7OA9foaThcPGqvxiXjGDiFUbkN_krKDOcQVN_h9TyzNqaBUz.webp?r=6c8",
+                "title": "20화",
+                "runningTime": 80,
+                "episodeStory": "오래전에 들은 한 여인의 유언을 되새기는 이완익. 홀연히 사라진 애신은 의병으로서 갈 길을 가고, 유진은 러일전쟁이 터지자 본국으로 돌아오라는 명령을 받는다."
+            },
+            {   
+                "num": 21,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXcUFKA5GQPsCvfgX7zknqjOm2uVsQnjtvFrof4gq0Z45JySGi-yzoLooSaeyiU25k8WmbiiMDBCxIKIa06xXAR_KiBEMed24Hyf38M1lUJtQJKC.webp?r=e3d",
+                "title": "21화",
+                "runningTime": 75,
+                "episodeStory": "애신의 최종 목적지를 알면서도 함께 떠나기로 한 유진. 그 여정의 끝이 이별이라 해도 마지막 순간까지 애신의 곁에 있고 싶다. 그녀가 가는 길이 조금 덜 험난하도록."
+            },
+            {   
+                "num": 22,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABS1SGm2cvCjezcZgO_1skKTvBbxrOFMNofW5w_CR-SDgQJopA-k0ZI8B9fEtS1KrFxffXjx_SgWTq7PmTknUdCMdd_3KFTZLUuGgQDqNq7QTQdZT.webp?r=fd4",
+                "title": "22화",
+                "runningTime": 80,
+                "episodeStory": "일본의 포악함도, 조선의 쇠락함도 막을 길이 없다. 그럼에도 살기를 포기하고 싸우는 사람들. 그 속에 애신이 있고, 그녀를 구하기 위해 남은 생을 바친 그들이 있다."
+            },
+            {   
+                "num": 23,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdTLKkIu5pvk5I3v5f9T-sF_4SBaKzRclUC4JlGxrQKV9OZjsomHVW5-916ckE9DsdOwuOUskZTi6X1DhfYfAvvD-Z4O0eojpkf-187t9oXJeI2X.webp?r=867",
+                "title": "23화",
+                "runningTime": 80,
+                "episodeStory": "화염 속으로 사라진 두 여인, 그녀들을 찾아 헤매는 유진과 동매. 지옥으로 변한 조선의 거리는 시신으로 발 디딜 틈이 없고, 분노한 사람들은 마음껏 무모해지기로 한다."
+            },
+            {   
+                "num": 24,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeYiuV0m1bK_6K17jtHLox4m1yxQY6v8RTLrhg1yipOit0UGBflTq6k_gJonROKAm0z57Y2-nFiwV28FIgJf0lMcFWzDQgIqiv6kbZ90t_RHmGhQ.webp?r=3b3",
+                "title": "24화",
+                "runningTime": 96,
+                "episodeStory": "조선에서 그들은 새드 엔딩, 슬픈 끝맺음을 피할 수 있을까. 곁에 있던 소중한 이들을 떠나보내고도 나아가기를 멈출 수 없는 그들. 총을 쥐었으니, 싸우다 죽는 수밖에."
+            }
+            ]
+        },
+        {
+            "title": "스카이 캐슬",
+            "imgUrl": "img/main/drama_02.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYwilWe51Axqu9iRoGCmUcMdaL_9c-EeqXK0Hr-fnjk6JwtOMpMd_Vi-9DO-0bnAfBBA5a7sZz9SXAGIl0S4bw7s0f8s.webp?r=3d7",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABSSHGM9NOEetxLJXroIWFDY7NKvhiK0pInYNyIuguawiSZojgaWid0zxm8_xTHUk2QirjJqxtzz8yn1t6j3ZVfRlXUq3Ro90wb0.webp?r=cce",
+            "bgVideo": "video/스카이 캐슬.mp4",
+            "genre": ["한국 드라마"],
+            "characters": ["염정아","이태란","정준호"],
+            "story": "대한민국의 내로라하는 엘리트가 사는 SKY 캐슬. 누구보다 위에 올라 아래를 내려다보고 살아야 한다는 걸 한 번도 의심한 적 없는 삶은 어떨까. 겉으로는 화려하고 우아하지만, 속으로는 욕망과 시기로 가득 찬 이들의 이야기가 펼쳐진다.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZFaX-Fh-O-hiGONy9UwImtHNCVeHN2ZXFqpkmVmND3rhWC-gZQEmT0-4nKCmzZkFfBtUzf0O2ED6AliHcBaUuOa_eS_uACSU57cLE3BLRLdE2Im.webp?r=f5c",
+                "title": "1화",
+                "runningTime": 68,
+                "episodeStory": "영재의 대학 합격 파티, 한자리에 모인 이웃들은 각자 이기적인 속내를 품고 있다. 그들의 목적은 영재의 포트폴리오. 그건 자식을 서울 의대에 보낼 지름길이 될 것이다."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcRVtGHq5oSY5eSBBWvdraJ9yGFTIWQwZUwdgWHosMc282bz0XONE2QyQM0g3wpq5nLKusMNGuQe8AoOCaVb9Tw_DuemyzDHtX-p8lbj3vxnGvlZ.webp?r=994",
+                "title": "2화",
+                "runningTime": 63,
+                "episodeStory": "명주와 영재 사이의 비밀은 무엇일까. 아직 명주의 그늘이 남아 있는 캐슬, 그곳으로 이사 온 새로운 가족. 그 집과 인사를 나눈 뒤로 서진은 남모를 불안에 시달린다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABetqK9FyNX_hQMuBlKeSzCaOWE0pTu4nQMShrNPBTGyYdvjkl4VSUW3bPrKZt7Yy059yJQv9XuZe28-1LjmYDxOfnicaiNF39yV4ei2ZEP4Sg3mp.webp?r=514",
+                "title": "3화",
+                "runningTime": 61,
+                "episodeStory": "입시 코디 문제로 난처해진 서진은 신경이 날카롭다. 안 그런 척, 모르는 척, 보이는 게 전부가 아닌 캐슬. 그 정서를 이해할 수 없는 수임은 작은 파란을 일으킨다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTbc0BllBvQyGgrPR-2KWvshY0rWMwEsSz2P6Kl_VVMHiQmW-cLF8A6RrOYcpm4eV-gAR7zXMHqU7XlHp0ex6aapCHTKt2YArbZJXDwbD2sN49zG.webp?r=53b",
+                "title": "4화",
+                "runningTime": 63,
+                "episodeStory": "독서 모임에 뜻밖의 위기가 닥친다. 예서의 입시 때문에 분투하는 서진. 그녀는 오만한 미소를 되찾을 수 있을까. 부모들의 지나친 욕심으로, 아이들의 일상마저 뒤틀린다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRDd_Tgzqhzw8EYz5RADzMWxY-dplzmIE4kLJj7kJg5croaSFBkCGjGu5nWtl2xTMwx7bzgd1ttNP-3Te314rA71f9SoG54TlvvUZGJugTY89EOS.webp?r=951",
+                "title": "5화",
+                "runningTime": 62,
+                "episodeStory": "캐슬 엄마들 사이에 갈등이 고조된다. 예빈의 일탈을 목격하고 고민에 빠진 수임, 그런 수임이 못마땅한 서진. 승혜는 두 아들을 지키기 위해 남편에게 반기를 든다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbXl7KJJKiRufahZfUN7SvSiJmouPUIlTIVwBJD6dLun7YnLB3URiEy9FDLmhAURvNpShdI5H95v-Qfr7-iL5l6ppdri0GbubD4CR6GrBFHqgvhf.webp?r=bde",
+                "title": "6화",
+                "runningTime": 60,
+                "episodeStory": "센터장 자리를 두고 술렁이는 병원과 캐슬. 엄마들은 아이들의 첫 번째 중간고사 결과를 두고 촉각을 곤두세운다. 냉정한 입시 코디 주영, 그녀의 어두운 비밀은 무엇일까."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZpn4yWFo_j-HOMiY7yWkRB0dJF8IjgKMSstI2Gjt2ZEwnHCRPqg5s7OC3DbiNbg65dGcvygzF_lCQ5kFSuQ7X1QOFhtN0Yrmu9eHbKgE7YS3YMX.webp?r=aa1",
+                "title": "7화",
+                "runningTime": 63,
+                "episodeStory": "영재의 비밀을 알게 된 수임은 서진에게 주영을 조심하라고 충고한다. 하지만 오히려 수임을 비난하는 서진. 영재 가족의 불행에 주영은 정말 아무런 관련이 없는 걸까."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbpnnEWwIcpWo607Z5ESD9e6y01e3P2CeURrqT3f_HLaR48y1y1wOPebSl648FpNVPu9n9ORbTRjo4XFXH5pQwJ7P2k3UXl1VMkkt-AzREs6zYT-.webp?r=6e6",
+                "title": "8화",
+                "runningTime": 65,
+                "episodeStory": "모든 것을 잃은 영재 아버지가 주영을 찾아온다. 그 처절한 원한과 분노의 끝은 어디일까. 예서와 혜나가 맞붙는 회장 선거를 앞두고, 서진은 승부를 가를 계략을 꾸민다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTiK24_EP511uLPhAeF_rOgsH-HCsZ_T-odU3RQ-hxxVJtkY--AszMoi3GgOO-lbkgQ3jT1RI4v2eJsqrtsBik12NDp8LNnwEgrvqUJyZjpmMpJH.webp?r=a50",
+                "title": "9화",
+                "runningTime": 64,
+                "episodeStory": "혜나는 엄마와 준상의 관계를 눈치채고 충격을 받는다. 그 후 예서에게 접근하는 혜나. 서진은 그런 혜나 때문에 불안해진다. 한편, 주영은 수임의 과거를 캐기 시작한다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXk0X5qTM7HPttnGL50tAizhUE9g3Oczr0aG-4tAdqeJGYXHg2lPfLN7boMzv_qcYNtgRIjh1KIFDv-TjEa5wjvbG7k5TR-bAhK2dejS_nyxDZM9.webp?r=ec7",
+                "title": "10화",
+                "runningTime": 68,
+                "episodeStory": "혜나를 집으로 들이라는 주영의 제안이 의아한 서진. 혜나의 의도적 접근도 불쾌하다. 수임의 집필 반대 주민 총회에서 서진의 과거가 드러나면서, 캐슬이 술렁인다."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSUjIH6_0a-9qWZIDVZQSkAT6XcMRv_kghg-y6tgUTINXYL2R96lgTEsWwi9sFu7u38LVGR365dXDcmFDwS1I3yAanF2apaMyxqM404K2baMwtwv.webp?r=0ba",
+                "title": "11화",
+                "runningTime": 66,
+                "episodeStory": "서진은 혜나를 집으로 들인다. 예빈의 과외 선생이 된 혜나. 예빈과 달리 예서는 이 상황이 못마땅하다. 소설을 포기할 수 없는 수임은 주영과 함께 수창을 찾아간다."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQxtLpdRz09xNuS0OQUM8bgyF7vV-bpBZ1GkE2Bne2mSQMXWZWiXAqKlAqWt1_sJP5O2zP3uLRrYISyOGvlIATCCL4Xdrh59QbWMVvDrSCc8Esbd.webp?r=7f2",
+                "title": "12화",
+                "runningTime": 68,
+                "episodeStory": "혜나의 속셈을 알아채고 분노하는 서진. 이 당돌한 애를 어찌해야 할까. 수임은 승혜, 진희와 대화하다 의아한 점을 발견하고, 비밀에 싸인 주영의 과거를 의심한다."
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTWGRvLGbH_5E-dY5Y7R_OiGCJ8d_haiHY0LAfUiubP5vtEAxV_n97RpPVBKENKuvGGrARURSgPPcrq6hDrIAa1bNV2gj0OGe7GWWZxY7DXfi30h.webp?r=e26",
+                "title": "13화",
+                "runningTime": 66,
+                "episodeStory": "주영의 과거를 알게 된 서진은 충격과 불안에 휩싸인다. 주영을 찾아가 사실을 캐는 서진. 승혜는 세리의 엄청난 거짓말에 절망하면서도, 남편의 반응이 두렵기만 하다."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYTRzEfcsoSwabLXu2PQgUYqddGzmR2qXtBX7Ux1mIe7b8UEmC9w2yZQUY5uikESmvCWfUgszw9pxu3NMbGgEVHfc3g1LutBRrvvULopdCaxTpUz.webp?r=d2e",
+                "title": "14화",
+                "runningTime": 77,
+                "episodeStory": "서진은 혜나의 비밀을 알고도 집에 들이라고 권한 주영에게 분노한다. 하지만 여전히 주영을 의지하는 예서. 세리가 여행을 떠난 사이, 승혜의 집에는 긴장이 감돈다."
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVooqV5RC2bgCbYxLoyOZRP6VbhZyb2pfQLn0p15nPVoWqr45TsKeXdqXIiu28MveVfTozdLPFMGy2I01HJy7ys-PdH1ujRSkylZIzIhL-ho_cU7.webp?r=663",
+                "title": "15화",
+                "runningTime": 68,
+                "episodeStory": "우주의 생일 파티가 열린 밤, 혜나가 추락해 크게 다친다. 누군가 떨어뜨린 걸까, 스스로 몸을 던진 걸까. 이 사건을 둘러싸고, 캐슬 주민들의 이기적인 본성이 드러난다."
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY-1yNdPOOZmgPVIInL7f33o5rPO5WPfxJZbChMX7l_gRSw30jQ160XSRWXG6yZRw4e9a6wNZkCpA_aDAqhbzvQQ0QM-bkcz_WW5a2k5u7wBdAKY.webp?r=aee",
+                "title": "16화",
+                "runningTime": 74,
+                "episodeStory": "예서는 살인을 저지를 만큼 혜나를 미워한 걸까. 주영을 만난 서진은 양심과 모정의 기로에 선다. 그리고 우주에게 찾아온 엄청난 시련. 수임은 아들을 지킬 수 있을까."
+            },
+            {   
+                "num": 17,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUMOMU2CwHabWohRdICudkKHFj6VXE4ISHXI-GRzHWneovowh9Ky0PCXTA9vgP3ejfkXwX3r_MSgJQMYrtizBRPlpJIuw1R1u6dZrpCVimaJ1AFH.webp?r=8c0",
+                "title": "17화",
+                "runningTime": 70,
+                "episodeStory": "세상에 밝혀져선 안 되는 비밀이 있다. 죄책감에 몸부림치면서도 욕망을 내려놓지 못하는 예서 모녀. 준상은 드러나는 진실 앞에서 무너지며 어머니에게 울부짖는다."
+            },
+            {   
+                "num": 18,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYL3HKZM2I7zWOcgj43nONNctzMqKTT5G8iegrlMLLyntqKfq3pnOfZKXpIC9g0U5pjEO0VuPh1LdjOcFHYF3zM_tLClJ5hn3XCEnH50ZLAqQEof.webp?r=59c",
+                "title": "18화",
+                "runningTime": 75,
+                "episodeStory": "주영의 과거에 답이 있을까? 수임은 처절한 추적을 시작한다. 껍데기뿐인 삶에 회한을 느낀 준상은 가족에게 자수를 권하고 승혜는 완고한 남편을 설득하려 초강수를 둔다."
+            },
+            {   
+                "num": 19,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABW2RShqpWbJSBxFkAPrjZODtjfXDDa8dRJ7bX7GjcZeA6g4QRNnQNfjaQIC8pPBk-vBEQ9Ei3kNteiBaddFwwrCGQoSN_-e2aD2g9yEY2RrIWZUP.webp?r=a16",
+                "title": "19화",
+                "runningTime": 83,
+                "episodeStory": "간청하는 수임과 흔들리는 예서 앞에서 시름이 깊어가는 서진. 어떻게 쌓아온 캐슬인데 물거품을 만들까. 우주는 용서를 구하는 자들에게 되묻는다. 왜 용서해야 하죠?"
+            },
+            {   
+                "num": 20,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbgNNnvfB0K8XeEmxVh4IBRC4JCdpRrMTETiVUhqxBqJ1QjlknDdyyHaxisQ10RXBGaUphYPZIIXI2lFGjtpoLTJaFGfC2IJk8-Wda3sKisgjaRs.webp?r=99f",
+                "title": "20화",
+                "runningTime": 84,
+                "episodeStory": "혼자 남은 혜나에게, 서진은 무슨 짓을 한 걸까. 뒤늦은 후회와 죄책감에 눈물 흘리는 서진. 아픈 시간을 보낸 우주는 부모 앞에서 중대한 결정을 내렸다고 선언한다."
+            }
+            ]
+        },
+        {
+            "title": "동백꽃 필 무렵",
+            "imgUrl": "img/main/drama_03.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVM8l3nW-lWEAEGRfUEfEjgyEiHLkGpAscHcrLel4YoKoVVDKjJ0cQ-4gSDbXaUtVPowQWjCoiNAy9x0LEKd4q6GXZE0.webp?r=915",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVLPkrFOF6aMubsDCWEJqMEKr1kisin_LAbWuJK-JDs3zoHLgTOunmJwrOxU0bG0c0Vvu3kmys76FfRMqODOB1zOTAFOGOIKvTI.webp?r=ef0",
+            "bgVideo": "video/동백꽃 필 무렵.mp4",
+            "genre": ["한국 드라마","로맨스"],
+            "characters": ["공효진","강하늘","김지석"],
+            "story": "천진하지만 강단 있는 싱글 맘 동백. 씩씩하게 살고 싶지만, 세상의 편견이 여전히 힘들다. 이런 그녀를 찾아온 설렘, 어쩌면 사랑. 이제부터, 조금 더 용감해져도 될까.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSovTOdK5hfuSfVTK2P1mXmB23Elz2GoWFP6fzvMcW2DQKO6QZXuQ6eCpUNuWV4wuV7lDECV2tg3SMIBEIPGZInyKQ678JaLZn3WIWz0VM7R55dH.webp?r=144",
+                "title": "게르마늄 팔찌를 찬 여자",
+                "runningTime": 63,
+                "episodeStory": "외지인은 옹산에서 버티기 힘들 텐데? 주민들의 텃세가 무색하게 6년째 성황리에 술집을 운영 중인 동백. 말보다 주먹이 먼저 나가는 순경 용식은 그녀에게 첫눈에 반한다."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABW6g3FgZ5iQgPyfBRn4JSmp_72Xot9BEQBc43tmkrh4FB8DD2HIK2i3YN0WdUb875BXjCcKYjVqKa0VSoxxJ0lt8WSzZ34JfU5_V_d70TKcUDeJC.webp?r=dd0",
+                "title": "좋은놈, 나쁜놈, 치사한놈,",
+                "runningTime": 63,
+                "episodeStory": "날 무시하면 못 참지! 동백에게 삐진 규태가 괜히 용식을 잡는다. 아들이 변호사를 만난다는 소문에 한껏 들뜬 덕순. 용식은 필구와 친구들의 싸움에 얼떨결에 끼어든다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUgZ9vGksGIT_ZcHdCmUwLnRTauTi5UeAK71rWDFTgUVMELPWP3-8OJ6FArE6dd-nSkxWv3MsimM3cAxAKWAK0Qev5pONULQnPfA-cc2jtLFKRgc.webp?r=5ec",
+                "title": "똥개의 전략",
+                "runningTime": 62,
+                "episodeStory": "동백이랑 용식이가 손을 잡았다며? 소문이 삽시간에 퍼지자, 동백은 참 난처하다. 하지만 멈출 수 없는 용식의 순정! 그는 가게에서 동백을 돕다가 묘한 낙서를 발견한다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTzKSpZ-esTQrAIsXMjF2ENaBS4LEwlpYbUnFe8_MIYoHCLiZSmbpLMR5Nz_7NtuJAx-WCVQOb-x-pw9E2MS-SlX8PGQmdWnCTtSp8znhA2rdbRy.webp?r=ec4",
+                "title": "촌놈",
+                "runningTime": 63,
+                "episodeStory": "반갑지 않은 손님 종렬이 까멜리아에 나타난다. 까불이 때문에 동백이 걱정되는 용식. 종렬은 필구에게 자꾸 관심을 보이고, 규태는 누군가에게 존경을 받고 싶다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXci6N8ifUBYA_yV0vFy6_bVZJnrgzHK70Nvife5tjwF6T__o7nLRg8YXHOLv2Q_A2hENkjA2uzw5LAXzSwKH2aTSEA6_T6HIgwac0vlWSzL6nJm.webp?r=035",
+                "title": "바람, 바람, 파란",
+                "runningTime": 63,
+                "episodeStory": "우리 엄마 좋아하지 말아요! 필구의 한마디에 용식과 동백은 마음이 짠해진다. 옹산에 다녀온 후 마냥 심란한 종렬. 규태의 외박은 가정과 까멜리아에 파란을 일으킨다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfH77R7ZWQiC-2gKc2p5rM3sSSJl4QTV1FuzZlaciXQCXIy4-WFTXpzSW5hkovPrE7xNAuNdQhtGkPa0tpzBCDeYr3jbiLENMK3GsaXuKVn5XbdN.webp?r=acc",
+                "title": "1986.08.29.본투비하마",
+                "runningTime": 63,
+                "episodeStory": "동백에게 불청객이 찾아온다. 도저히 용서할 수 없는 사람, 그래서 지울 수 없는 사람. 지금 이 꼴로 나타나서 어쩌려고? 규태는 예측 불허 향미 때문에 골치 아파 죽겠다."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdhiOKR2WveyPH2vnepRIj7m-1SIpog4h6l9wAyPsQkWJEgO2ccQv3qFST_kq1zcmP5-BN4DmuvPlS2OsKEbwVobP3_36hKzcAHDtq2A-LzyhmDT.webp?r=7bf",
+                "title": "옹산 요정",
+                "runningTime": 63,
+                "episodeStory": "노규태, 당신 딱 걸렸어! 이제 참지 않기로 한 동백. 까멜리아 치부책이 열리자 옹산 바닥이 들썩인다. 서로의 마음을 확인하는 용식과 동백. 이거 썸 타는 거 맞죠?"
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQosfr2X0JfWSseCT78x92gXEiVyC3CojmoSlJd8OhnXtylCAsUFUC_WNVIPGa8JgIvsN37X349zUfCWKogzbP8xqkDiTD59VoKGFJ22PcG7mBW9.webp?r=005",
+                "title": "이 구역의 스라소니",
+                "runningTime": 63,
+                "episodeStory": "까불이가 또다시 나타났다. 그의 메시지를 보고 두려움에 떠는 동백, 그녀를 안전하게 지키고 싶은 용식. 혹시 동네 사람이 범인일까 봐, 용식은 점점 심란해진다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcX64EYep0cDOzsqPdO4UUvCLRUSpjVyhCbUhNDJ0IOda67lu8hYwB6zijYSqhdE8sCmSv3OdFSl81knVPyXN9Gh4k_ao2OWX14qOqOZjFWmOehF.webp?r=771",
+                "title": "웰컴이다",
+                "runningTime": 63,
+                "episodeStory": "이제 옹산을 떠날 때인가. 동백의 결심에 동네가 들썩인다. 하지만 어떻게 이렇게 보내? 그녀를 위해 까불이를 잡으려는 용식. 종렬은 동백에게 난데없는 제안을 한다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRWNwzMNYgBaiKA6bGByyeKSQPJ1koBCqrd4vKIo2A3YRkn3Yx6TQ-H4Ch_lyfOugJSBjdj1cSjSkgu_vz6nXH-lqT8cWtvYwJTR-gFBq8NLmoyk.webp?r=bb8",
+                "title": "착한 놈은 계를 못 타",
+                "runningTime": 63,
+                "episodeStory": "동백이 마음을 바꿨다. 이제부터 막살 거야! 방화범의 정체를 쫓는 용식. 종렬은 자꾸 필구 주위를 맴돈다. 이 일이 제시카 귀에 들어가는 건 시간문제. 곧, 난리 나겠네?"
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY_6c8R7nyu1OKtIvGUdzr0fqZcpwo3R5XXBja9AICTNLzs8Y_Idxwlqy0CPEBn39aIwCwCjbTXLucbY1gI3zIfeeI9U9fTPYkThFjFELATVxaVb.webp?r=6e2",
+                "title": "히어로는 막판이다",
+                "runningTime": 63,
+                "episodeStory": "필구의 시합 날, 처음으로 동백이 경기를 보러 간다. 필구가 억울하게 당할 때, 멋지게 등장할 히어로는 누구? 자영은 마침내 마음을 굳히고, 향미에겐 불청객이 찾아온다."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeux1VvTG6fhz94J9ZkX6Z1wRSQyCc6ABcPyEQjCvz5lzKiVVkvk7ICi1gwKwpMpfYBRQqs220crWqbK8KMgpSyjZQkKnHgaKagrisBBXLrvDksc.webp?r=b18",
+                "title": "나를 잊지 말아요",
+                "runningTime": 64,
+                "episodeStory": "정말 그 녀석이 범인일까. 용식의 감이 발동하는데, 아직 증거가 부족하다. 향미에게 날아온 우편물 한 통. 덕분에 향미는 마음을 다잡는다. 하마터면 철들뻔했네."
+            },
+            {   
+                "num": 13,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfaL_17WFSW8VQyb9uEwXmNHskNyR8uHcy-uryKjmLFB6mSNE38DcyQGYMuR0QPxOzHiObb9SXMDO9gYQGTiA7I9guUUV7-7oVkw062paDg15pLb.webp?r=b97",
+                "title": "그 썸의 끝",
+                "runningTime": 63,
+                "episodeStory": "그녀는 어디로 갔을까. 모두가 그녀에게 악의를 품었고, 그녀가 사라지길 원했다. 옹산에 온 불청객 때문에 겁에 질린 동백. 화재가 또 일어나자 용식의 마음이 급해진다."
+            },
+            {   
+                "num": 14,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZMYcQmVHAydsh3l2tEs--finlXWejL85_27qjAKjbJg-n3JIDtPw3G16zxm5DyyZ0lFcixwFz8rwDDg1kLhnSdsM7M1gaJ0x2a3MY5IrXJtj8hn.webp?r=a9a",
+                "title": "엄마의 나이테 '엄마는 그렇게 나이를 먹었다.'",
+                "runningTime": 63,
+                "episodeStory": "덕순의 가슴을 철렁하게 만든 용식의 소식. 화재 현장에선 익숙한 물건이 발견된다. 점점 궁지에 몰리는 규태. 동백은 정숙이 자신에게 돌아온 이유를 알게 된다."
+            },
+            {   
+                "num": 15,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT1M4fkX786-c0Sm9f1mYnkHmWQISy7-WKEbaBZgBkUl6yAKPpzRn5APRiMeL2eH1tl7EK_z13a7HanQRIx6J3y0UUtrgFFI7QEQtrvx-sIHow77.webp?r=43d",
+                "title": "엄마. 妈妈. Mother.",
+                "runningTime": 63,
+                "episodeStory": "복수는 아무나 하나. 통쾌할 줄 알았는데, 마음만 아픈 동백. 덕순은 용식 걱정에 자꾸 동백이 미워진다. 궁지에 몰린 규태, 이제 아는 걸 다 털어놓고 광명 찾을 때인가?"
+            },
+            {   
+                "num": 16,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRyNFee-vU8bU9duJTodR48_MY87OQKQWOjNfrAD7Ics39Sqdu0QVeNuOLaexiTWRiKd691wE7Oh8fFRNr7S7aBHRp_I2MB2U0aVXgqk7q4XlH8V.webp?r=898",
+                "title": "공수 교대 (feat. 악셀을 밟는 자)",
+                "runningTime": 63,
+                "episodeStory": "그날 밤, 홧김에 사고를 친 제시카. 때맞춰 달려온 종렬이 더 밉다. 용식의 따뜻한 한마디에 오랜 긴장이 풀린 동백. 사라진 스쿠터를 찾으러 인적이 드문 곳으로 향한다."
+            },
+            {   
+                "num": 17,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeec9mEThcbkjkIIXnUHjOKQOvAm2npuFe6lWKAHxO3xxXI_ZeY94n8HDfPLIurdz4mT4mIhDVZfkdDnIWl8NdUj703Va_oj0rS2zE5r1P_vxM0K.webp?r=982",
+                "title": "옹벤저스",
+                "runningTime": 63,
+                "episodeStory": "동백이가 잘못되면 엄청 찜찜하겠지? 옹산 식구들이 뭉친다. 우리를 만만히 봤다간 큰코다칠 것이야! 용식은 수사에 몰두하고 필구는 인생에서 최고로 심란한 때를 보낸다."
+            },
+            {   
+                "num": 18,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcUPQydkvrawPYxHG3YwCipRDR_3Mzbh6uumqrt5cfiGqSXZ7X8ValfXRJ0kLtwYcSIoFtobRpfmj1_-rdn7LszvBbvPPpBwFq_t6Bwzxty4_NGA.webp?r=692",
+                "title": "여덟 살 인생",
+                "runningTime": 68,
+                "episodeStory": "용식이 수집한 모든 증거가 그놈을 가리킨다. 그런데 어디서부터 잘못짚은 거지? 필구의 속마음을 뒤늦게 알아챈 동백. 그래서 용식을 만나 해야 할 말이 있다."
+            },
+            {   
+                "num": 19,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTo1nuphimeVNtQVGznZjuhm2wcnEvXMhlth43A9ooOVRqU-exCieIJmsUYuLKqqRFXRe1UVzlCSaSoMCMnb1ddZ0jsgdR6Yf0iBeQ6skck_QX4N.webp?r=9b5",
+                "title": "7년 3개월짜리 엄마",
+                "runningTime": 69,
+                "episodeStory": "사는 게 만만했지? 종렬은 동백이 덕에 깨달음을 얻는다. 마음을 단단히 먹고 까불이를 만난 용식. 동백은 엄마 때문에 자꾸 속이 상한다. 왜 내치지도, 돕지도 못하게 해?"
+            },
+            {   
+                "num": 20,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeLcV1X2hj2eII3T8KDdtkiS4HCNaKeiGYbRueFAfXYmmeq7ZfwNIgZ--7Z5dY7CM-2-ZowdBCZVb8UNzOfuQ53C5begi3DwMOWdnLPt6arffxGg.webp?r=236",
+                "title": "기적 같은 소리",
+                "runningTime": 75,
+                "episodeStory": "아무래도 찜찜하네. 용식은 까불이에게 한 가지 확인할 것이 있다. 어른이 된 종렬과 깡을 되찾은 규태. 동백에겐 기적이 일어날까, 하늘이 아닌 보통 사람들의 힘으로."
+            }
+            ]
+        },
+        {
+            "title": "쌍갑포차",
+            "imgUrl": "img/main/drama_04.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcrn-FR572KvfuTPEng33fmo9cNAtzEUtmcB6Qs_vA5ei7QKZtSwPTZ7fK7eOuh5UZ3mNRqNKrapr4kWDoeuJ4zkss4F.webp?r=0ea",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABdWOYrqqZkcMxMT06luWtr2ICiEzMUuQ6p3isBRaC86F0tDxkdewADbuEHCIRjyeZfjgwNwRlvCNhn1YO35muSX2xcK9eb_nW1o.webp?r=504",
+            "bgVideo": "video/쌍갑포차.mp4",
+            "genre": ["한국 드라마","판타지"],
+            "characters": ["황정음","육성재","최원영"],
+            "story": "한 많은 중생이여, 술 한잔하시겠는가? 500년간 포차를 운영해 온 이모와 신비한 능력이 있는 청년이 알바생으로 있다네. 이곳에 오면 어떤 고민이든 해결해 주고말고!",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdfEdZiFXqAD-cHEFy79gIcwl__S8yok-gpDxKwFjdQ5tncUZZQotM6JoPePhx4fbZrEqtbh1IsmJo0ES6Y_p3zgr8i-JalCzg7G-dnBC9ZF5iHp.webp?r=3d7",
+                "title": "1화",
+                "runningTime": 68,
+                "episodeStory": "제발 고민이 뭔지 알려줘! 입이 무거운 9만 9천 9백 91번째 손님 때문에 애간장이 타는 월주. 그런데 이상하다. 한강배란 녀석 앞에선 속 이야기를 줄줄 털어놓는다."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTZrFSk2xS1bY3oiOj5B9EaQKcJ8_z3T4scmK2J8tqMm9IeLLaLzZ78iLS6foCIunwvGV7G_B8opdkesbvk7Syh3GwbZ7vXrIxeS4uumL2N9bGVA.webp?r=eca",
+                "title": "2화",
+                "runningTime": 67,
+                "episodeStory": "특이 체질에서 벗어나고 싶지? 계약서에 도장만 찍어. 월주의 집요한 설득에도 반신반의하던 강배. 이웃 아주머니의 사연에 마음이 흔들린다. 도와주고 싶다. 어떻게든."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZB-wkvvOuZ8f9O7OtUcHw0BkOtUtrC9Qf__S7ceJUcB_6txjoR2VjiuHFhD4p6KfQT9ZuL0mME_1UD0fwyxAkw4Eevf-23NEKgbOO5uqWyJzgfd.webp?r=f00",
+                "title": "3화",
+                "runningTime": 64,
+                "episodeStory": "한 많은 인간을 물어오란 말이다. 강배를 닦달하던 월주는 전략적으로 움직인다. 지금이 공기업 합격자 발표 주간이란 말이지? 가자, 우울한 인간들이 모이는 곳으로."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXReLsH4FDXSC5dbIjvst8VuEOGJ0IBy2ahRBU5t6tUUWk4PqV5RbLU3ELeHmPcQoccfzvuOA8fTwuZ4CY3mS2Sc3yAt2S7WZxPDOu56mbjGmd-8.webp?r=2b1",
+                "title": "4화",
+                "runningTime": 67,
+                "episodeStory": "오늘은 1년에 한 번 있는 그승 로또 대전. 말로만 듣던 조상님 꿈이 이거였어? 인간 최초로 이 행사에 참여한 강배는 우연인지 필연인지 가까운 이의 조상을 만난다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABap_g_jD8H2EWS7FYsPkFwtU96sff1-ZCEfZJeQxd90R1dfNMYRjm2KF2Yd_GhB8RDCoISXeSBReQ25t4aUTnt1_nYaWIFb6gtGoeDuorjsM8htW.webp?r=1fc",
+                "title": "5화",
+                "runningTime": 65,
+                "episodeStory": "객귀를 찾아내면 한 건 더 추가! 월주와 귀반장은 가족의 곁을 맴도는 귀신에게 접근한다. 사내 커플 댄스 경연 대회 때문에 골치가 아픈 강배. 대체 누구랑 손을 잡아?"
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZednvzroUNFX68KERFXxzIJwdwO6ARNGmhlqXj2b9Rl0R39ALYkuz-DrHqA4thXcYsF0O5OrzV0rQltpT70ptaTzJtD8soOf2tbM9Pgj6tgfwmA.webp?r=ef7",
+                "title": "6화",
+                "runningTime": 65,
+                "episodeStory": "춤 연습이 이렇게 애타는 일이었나? 누군가에게는 이루기 쉬운 꿈이, 누군가에게는 힘겨운 노력으로도 되지 않는 일. 안타까운 사연에 공감한 월주가 무모하게 나선다."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABe5FaCHtupNYpkckGlznerTjzvk7OWnV9Z_ILTQs9XQRZe8_UHiP8oxv9xhwF_mw5MGVnm-FJbzAxwIYi8tGrUs8DOnB_tbr_V_QFp8fGfB5pgFP.webp?r=2e0",
+                "title": "7화",
+                "runningTime": 68,
+                "episodeStory": "영업 정지도 모자라 저승 봉사 명령 120시간이라고? 그러나 위기가 곧 기회. 염라대왕의 실수를 야무지게 이용하는 월주. 500년 장사꾼의 실력을 보여주지. 다 모여!"
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU-Hm4CKumiBRYuo6NiFAa7k-Qf03YzjyZCmBL5U2EpTAN582_16SE5KK66FvxuJrf3ScEqSdzVYQ5SpJy0wFGWtKZAtEMrdep9owwv9knmSvr06.webp?r=674",
+                "title": "8화",
+                "runningTime": 68,
+                "episodeStory": "어찌 이런 일이. 웹 소설에 빠진 월주와 귀반장은 작가의 죽음에 망연자실한다. 이대로 영영 최종회를 볼 수 없단 말인가. 낙담은 금물, 슬픈 이야기는 우리가 전문이잖아?"
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRElg_p0vvVVC9TxsZWeIxKT62XlG2TKS2VKD4vvqrDoypdJbxeDudkrXdjeovq7tNsLueTeKmSFm2VLaerjSndSrKzGxvFGenBlK1_qhGOwrzWi.webp?r=385",
+                "title": "9화",
+                "runningTime": 68,
+                "episodeStory": "영안문을 여닫는 건 껌이야! 큰소리 빵빵 쳤는데 이를 어쩌나. 강배와의 약속을 지키고 싶은 월주는 지옥문이라도 열 태세다. 악귀를 잡으려던 염부장은 위험에 처한다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABScX3LXoGmLYsFg9JZ4yiVaLb1xJhk7rj63PQYIcdgFNkMxu54SWT3Jm7f50EhNvxOzml55Z6fMnaia38pHwcYeBwVrLl7N7mGe24L1waWpA05se.webp?r=a0b",
+                "title": "10화",
+                "runningTime": 66,
+                "episodeStory": "한시도 잊어본 적 없어. 월주는 자신의 원수와 똑같은 얼굴을 한 여자를 만난다. 귀반장은 월주의 선택에 길길이 날뛰고, 강배는 돌덩이 같던 여린의 마음을 흔든다."
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZnfNN52ID9QSxVNX68twIorcTcfQeQ6nvaEMwew2LdvLfKdscQzKfPOifpxmjBpEgMmfKZNggkLZKBbW3lWmGL7OD9d2EcRPT3zQelUHppko3M3.webp?r=b0a",
+                "title": "11화",
+                "runningTime": 67,
+                "episodeStory": "안 돼, 잡지 마! 강배를 만지려고 할 때마다 들려오는 환청. 여린은 덜컥 겁이 난다. 귀반장이 누구인지 알게 된 월주는 가슴이 턱 막힌다. 이건 정말 너무한 거 아닌가."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXvExR2LAZrsQDQHGYhA4Rb1cYbFYp4B4wlOb0jr2UiFKHVvgH72mO1ecHOV2S_yyVhNobZb9oIIQVxxpHzGXZSoRHfyqYfZLHnhcuIKI8rvWT48.webp?r=1c0",
+                "title": "12화",
+                "runningTime": 66,
+                "episodeStory": "왜 몰랐을까. 무슨 일이 있어도 강배를 지켜야 한다. 악귀를 놓친 월주와 귀반장. 두 사람은 서두른다. 그리고 곧 알게 된다. 이 모든 걸 해결할 방법이 하나 있음을."
+            }
+            ]
+        },
+        {
+            "title": "인간수업",
+            "imgUrl": "img/main/netflix-orignal_01.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcEkiqdSRO9qlMvwa3OWDMAunf5MQRKnMG47wPhNpHZNK-HhgUUTvyNNVK7dG_u57rWTnTNw3BBc3K0Qtvaw6dzc9Geu.webp?r=e97",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABeO_BOa4jkG0_CAAqXjujkewpXBD2zp-Ku_9psNSq4DOJuu2LY5CvUtMWqJER2B1NdYCj7yhSFjDo_v8Wiha8dWwd_Krgy9FWbcsI9ZhqXn2J9UmzjzVm-56RJtgZ5iuQmtl-beytyqxy4E5kl8PE3nD0vT3YUAmm0NtaM-taBJm.webp?r=39d",
+            "bgVideo": "video/인간수업.mp4",
+            "genre": ["한국 드라마","범죄"],
+            "characters": ["김동희","정다빈","박주현"],
+            "story": "학교 안에서는 모범생, 학교 밖에서는 영리한 범죄자. 그의 비밀스러운 이중생활은 완벽했다. 같은 반 친구가 그의 위험한 사업에 관심을 갖기 전까지는.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeInae_P1qY6o1TW6BM8VNNUgIaOMSmASHbfqL2WWILwFc4yn2Q-oEcqgfnCxSO9KRmGzmWH2a3is8igij9k57XAXlGjonSb2uL0nT9r64_3LD0q.webp?r=bc7",
+                "title": "1화",
+                "runningTime": 57,
+                "episodeStory": "눈에 띄지 않게 살자. 학교 안에서는 성실하고 모범적인 오지수. 학교 밖에서는 전혀 다른 얼굴로 살고 있다. 그가 위험한 불법 사업의 중심에 있다. 아무도 모르게."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZO9UP_SQtPgOB4OF6rjmsuRxXqNEZrSElQYNL17HUU0ImmGxPVtEtpvxsyW4NyJLBRicZC2Mi7MIp1aFczyLPy3Vq0DayzvLGIvtG6aNeBU8K6J.webp?r=377",
+                "title": "2화",
+                "runningTime": 69,
+                "episodeStory": "지수가 사업에 쓰는 핸드폰을 잃어버린다. 정체를 알 수 없는 도둑에게 탄로 나는 비밀. 당황한 그가 속수무책으로 협박을 받을 때, 서민희가 다시 일을 요청한다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABerXMS9VyPP0m6tEfqS1xRZnCJEkEa3FGMq-EQtuoEXzXYFSHKsG4i0AUlqO1SwyoJJBYcyI_ZJgWfvtN5rtnzl9q4BRRemB59r90cXPk7NIP4Kp.webp?r=423",
+                "title": "3화",
+                "runningTime": 53,
+                "episodeStory": "아빠를 찾아야 한다. 당장 생활비도, 학원비도 없는 지수. 돈 문제로 골치가 아픈 그는 몸도 성치 않고 성적도 떨어진다. 하지만 배규리의 제안만은 피하고 싶다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaEO6DovFJru5uWPC9Pajlsqjc9I89ioUGkIT85-oOlC0xxHG0Swcj9nM-vGLx0mY9W-zrPgkZs6CBfY2pRfwd9_BTgZs9nS3awdjFqAUb8WX_LF.webp?r=e95",
+                "title": "4화",
+                "runningTime": 44,
+                "episodeStory": "업무를 재개하는 지수. 이제 아무도 믿을 수가 없다. 버는 돈을 어디에 보관하면 좋을까? 다시 사업과 학업에만 집중하고 싶은데, 곽기태 무리가 지수를 집적거린다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfeHibfOYzhdkLh7vrHIIRWHIYyu4Ec2DfxdTIeVXPoJ3BiIKgapY3VZbNu1_JHNhy5yyFSesrqq47-V2j6WiblxXjP8SywmqmgxSWFJoMhUlUJM.webp?r=47a",
+                "title": "5화",
+                "runningTime": 47,
+                "episodeStory": "학교에서 불의의 사건을 일으킨 후, 엄마와 갈등하는 규리. 기태의 생일 파티에서 그의 반응에 실망하는 민희. 두 사람은 헛헛한 마음을 어디에 의지해야 할지 모르겠다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYZPo3-CZdmjDDywke-LkYZnfRLuZHjR_Wa8Dn7OBqYJtoHSKyEAgdwiUI4ut_RG_CCciGwH8AnDq-X-3QWrqHvl_sLiaxPxOxV6PuwF0MHd6_ww.webp?r=7e3",
+                "title": "6화",
+                "runningTime": 55,
+                "episodeStory": "눈썰미 좋은 경찰의 눈에 띄는 민희. 곤경은 면했지만, 이 사건으로 민희는 일을 할 수 없게 된다. 왠지 얘라면 나를 도와줄 것 같아. 오지수, 나 따라서 어디 좀 가자."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXr7esAbpAeK4wniZcg48XkRgVfddfw-dYF_7L_ZJbrlOVrNtiRAU2d5Y_JBpzLgRuYykwQ66uKkdMHprMIxPw1eEeEJvx9Pti0Qtx0FriLBMrnn.webp?r=5f1",
+                "title": "7화",
+                "runningTime": 46,
+                "episodeStory": "일단 살아야 한다, 위기에서 벗어나야 한다. 도움을 요청하기 위해 규리에게 전화를 거는 지수. 하지만 늘 그렇듯, 규리는 필요한 것 이상의 과감한 조치를 취한다."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSzmMdIkG1-Fxe5ROWSRX55NIkzWKWDDNs8zyB-lEbnDogGDlcpnKgys4QOvU1BQ0LqAh444Wbtlpkdr_23GIKCzvnV2aS0KvAbbeq56kfjH_V2R.webp?r=239",
+                "title": "8화",
+                "runningTime": 45,
+                "episodeStory": "내가 해결하면 되잖아. 직접 류대열을 만날 준비를 하는 규리. 이러다 또 잘못된 일에 휘말리는 건 아닐까. 그때 이 실장은 경찰의 감시를 피해 병원에서 몰래 탈출한다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTTHtVPvuABp8bBxobyjrzyjc_tmiI8cC4GZQ8EU1LqH47BgX-XRtu02BdmtuT1eXC06VAk3ILLO0hwdqAn9FBUUgxHja4ROXhDTSgrin2VV3yiq.webp?r=989",
+                "title": "9화",
+                "runningTime": 56,
+                "episodeStory": "규리를 만나려면 혼자 와라. 뜻밖의 소식에 놀라는 지수. 둘은 막다른 길에 다다른다. 이제 어디로 가야 할까. 웬일인지, 갑자기 대열의 노래방에 불량 학생들이 몰려온다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeO2jV3VIPmqlDtYO1rM-bzCW9Ewbl5hmWmh5NbL4Bt87IkuAbIwaqXhkFRKy9m8uFnDtEbLL-U5hGqU5QvJW8KHF69_02uVS2AHjnZBLMsSRRJB.webp?r=23d",
+                "title": "10화",
+                "runningTime": 72,
+                "episodeStory": "어딘가 이상하다. 이미 종결된 사건인데, 이해경은 석연치가 않다. 불안하고 위태로운 상황에서 벗어나고 싶은 지수. 이대로 모든 걸 끝낼 수는 없을까. 아무도 모르게."
+            }
+            ]
+        },
+        {
+            "title": "좋아하면 울리는",
+            "imgUrl": "img/main/netflix-orignal_03.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABV0yrg_upOvc7ArwnKCY55WZA3Ik5tQfqVym1k2SzfK6wfXWDsgSHX1zj_scQ1FUSXktrRpssm7g_Vo0BH7x9i-_7N-f.webp?r=600",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABc8e9eMi0uKtJrtf_EvP4fE-k63-mzfcG1eLsX-mlSUQn51mL_HpfzmXvmqkILXuOVzJLT0wD-OAF41f8vnAf4UY1MKL5A5RDtP-qVojdyALkMDvKXw1dO8TxbfkJsSqu3g_rmQZf1aC4elN_W3mUOXmp58LbZSlTPu09lhwbhAx.webp?r=d8d",
+            "bgVideo": "video/좋아하면 울리는.mp4",
+            "genre": ["한국 드라마","로맨스"],
+            "characters": ["김소현","정가람","송강"],
+            "story": "누군가 나를 좋아한다. 그 사람이 나에게 다가오면 알람이 울린다. 마음을 알려주는 앱 ‘좋알람’의 시대, 힘겹게 살아가는 소녀 조조에게도 풋풋한 사랑이 찾아온다.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQppOpQocTc6QS2Jhq-OmFj29ROuwcc0crYP-9zMzImKQ7kg84e5sHUF6HCFao-lztSL8O-0qdJlgE5DAoIOMrYv_GFxWrLb23QKc1_Aa4snXIeO.webp?r=cad",
+                "title": "천둥이 울리기 전, 번개가 먼저 치는 것처럼",
+                "runningTime": 55,
+                "episodeStory": "누가 내 좋알람을 울려줄까? 설레는 친구들과 달리 조조의 하루는 고단하고 바쁘다. 미국에서 돌아온 선오는 곧바로 혜영을 찾아가지만, 낯선 친구의 모습을 보게 된다."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYKtbkIXDAc-rYNlfaGDzsfozuQSlkfO8w1dWGTranEwZG45qeGr_hOxC46SPqD_iRSEk0WoeqNxC_D2UZN-CAsSNnEe0tJZMYHHryLpmO8GC8WU.webp?r=4d1",
+                "title": "좋아한다는 건, 누구도 막을 수 없는 일",
+                "runningTime": 50,
+                "episodeStory": "선오의 충격 발언에도 조조에 대한 마음을 감추는 혜영. 조조는 일식의 좋알람을 울려줄 수 없다는 걸 알게 된다. 그렇다면 그 아이에겐 어떨까? 참을 수 없이 궁금하다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUrXy4t5YEKvXTZWJxAgNo-PmYOiBgcZC7IQqqrd4I-b9aFB3ayyzHjGV1lDYe6mXivWOADN2uDrUolz_TrQD1kNBUwVRSvX5qDte2H1h3qLXA7r.webp?r=fc5",
+                "title": "내가 좋아하는 사람이 나를 좋아한다, 기적 같은 일",
+                "runningTime": 49,
+                "episodeStory": "좋아하지 않는 방법 같은 건 없어. 혜영은 조조를 피해 다니고, 선오는 조조에게 한 걸음 더 다가간다. 학교에 사진을 퍼트린 아이는 가장 친한 친구를 잃게 된다."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQ09uiw1u1EXkOkMsPhGEQfLHsdEgSMqm_uU3-ERrQTfFBm5u6ULgqx87nhH_jY-_vmCItdMZbcT1q_8oWslNWL3zBRKOUpZlOOAXNaonX2teQDZ.webp?r=f06",
+                "title": "세상에서 가장 큰 위로, 내 편이 있다느 것",
+                "runningTime": 48,
+                "episodeStory": "수학여행을 못 가는 것도 급식을 못 먹는 것도 괜찮았다. 그래도 이건 아니잖아. 모진 말과 따가운 시선에 자꾸만 초라해지는 조조. 할 수 있는 게 없는 선오는 불안하다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd6md0Ax23Hs9NwKvsN-7wfoFlqKerROLDbmDV_hlYCWv1_5rLSETfFbg0XlkccCaa-3nHtDNTnMd26_sKcE9RkHzwM0lRFdpFvxVdurH_DnTqMU.webp?r=fbb",
+                "title": "좋아하는 마음의 무게",
+                "runningTime": 51,
+                "episodeStory": "지금, 이 순간 선오가 옆에 있어 다행이다. 부모님이 돌아가셨던 날의 진실을 선오에게 털어놓고 싶은 조조. 그러나 운명의 장난인지 그곳에서 또 무서운 일이 벌어진다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYeratoJIlUAL5ex9mCny3yuh8o4817KUiVqz2PCI9NZzZZ8N0qaDM4X7_Zz7J-abrIvc2sJ7O5lwpnkGLKpGNuF2SWPoLOyjVVJLv7lYYWFP-K2.webp?r=e3a",
+                "title": "이제 당신의 마음은 보호됩니다",
+                "runningTime": 48,
+                "episodeStory": "울리는 세계에서 소외된 사람들. 비극은 예고된 것일까. 여전히 세상을 시끄럽게 울리고 있는 좋알람. 도서관에서 우연히 조조를 만난 혜영은 옛날 방식을 시도해본다."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVfBXYtHSojbwIeaPFlh-KZMXBO8c1ERuKrlHIZBQWSz6FAo9yWWvQiFHeEKX-QS4Y3p1SC2j5YHL6085MGleIZTvKy19_9MwQT7Ys7OpOrmBUe5.webp?r=cdc",
+                "title": "숨겨두고 참아왔던 말, 너에게만 할 수 있는 말",
+                "runningTime": 47,
+                "episodeStory": "아무도 방패를 뚫을 수 없다. 혼자 남겨지는 것이 두려워도 선오를 잡을 수 없는 조조. 그 마음이 안타까운 혜영은 조조를 도와주고 싶다. 이젠 그만 참아도 되지 않을까."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXtKJp3HhBkw322GO_nlUixAp_oWNp4WgQ75VRq5LoZ7_iNCoBJZvwIbYaPz_A9m3_cSQNQ-XWOQCu4SnJSJCv_IWBy5FxJnUzDjgeP5k7U_txJa.webp?r=29f",
+                "title": "1은 세상의 모둔 수보다 크다",
+                "runningTime": 41,
+                "episodeStory": "행복해질 거야. 희망을 품게 된 조조는 방패를 지울 방법을 찾으려 한다. 세상 모두보다 큰 한 사람을 위해. 혼자서는 할 수 없지만, 함께라면 할 수 있다. 용기를 내."
+            }
+            ]
+        },
+        {
+            "title": "나홀로 그대",
+            "imgUrl": "img/main/netflix-orignal_04.jpg",
+            "bgImgUrl": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABWe4Y4tVHMRSV5wTsQJ7AO6n1cU2oORhtqpdxNmHdhkr4OOPXvaG0XsJKP8be3W4SbsYwmv_bmC90hap4Z0QM4M3fvHw.webp?r=1be",
+            "bgLetterImg": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABSYZJbmYLCRt6ffQ3rtss17AQ_bjJQezqdLayGKx0YgabTAgMSqLp1mkNyO2PKtsky-jlquOc1efhtqhvQmOsOwvtEMuGO-Png0GEMO-TOf-bYSIVyz4ZpIdPitBP0mEUOn7f_dE-xJgad_AzgtIMtLZE2iwEsGcvKEFbVpDl9Lx.webp?r=e04",
+            "bgVideo": "video/나홀로 그대.mp4",
+            "genre": ["한국 드라마","로맨스","SF"],
+            "characters": ["윤현민","고성희","최여진"],
+            "story": "까칠한 천재 발명가 난도. 그가 개발한 인간미 넘치는 홀로그램 인공 지능 ‘홀로’. 같은 얼굴, 다른 성격인 이 둘이 소연의 인생에 들어온다. 늘 혼자인 그녀의 곁으로.",
+            "sub": "false",
+            "like": "none",
+            "episode": [{
+                "num": 1,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRstjJ9l43yyC-VN_ilZG_S2mh7hW9S2ziOWaeELLf76oJ_3GEoIddl6Yud7VcMEBlJYG48MMS7ciSDwqm8Zba2SxqjP0wpE2tfPn58SL75nEP8f.webp?r=5dd",
+                "title": "1화",
+                "runningTime": 57,
+                "episodeStory": "사람이야, 귀신이야? 우연히 홀로그램 인공 지능 '홀로'를 손에 넣게 된 소연. 처음엔 무서웠던 그가 급속도로 편해진다. 내 눈에만 보이는 친구라니, 덜 외롭고 좋다."
+            },
+            {   
+                "num": 2,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQS6fM67Z4ggbATB1lEM5zHTRldu8m4YS93BsTyKi4m9NPP7XyQz8W4K6dH2sz_APe6poMDwYyqJX8ashxK8uNzvb544Yrh9KSxwEAFOilC2i0Cy.webp?r=812",
+                "title": "2화",
+                "runningTime": 50,
+                "episodeStory": "내가 옆에서 도와줄게. 소연에게 연애 코치를 해주겠다는 홀로. 덕분에 소연은 조금씩 웃음을 되찾는다. 난도는 홀로가 왜 이상 반응을 보이는지 좀 더 지켜보기로 한다."
+            },
+            {   
+                "num": 3,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUO6KBxAtP5Wc6Hqn4rdqCZuVXkgBv--2Iq_Fk5KwjsmxZOea4FUWADuJawiYjiBqI-IV1X_RCfQfz4o4sBSVMdsFb7EfzEKn8jMonsOq5og4-6Z.webp?r=c66",
+                "title": "3화",
+                "runningTime": 55,
+                "episodeStory": "도대체 저 여자가 뭐길래? 홀로를 원래대로 복구하기 위해 소연의 옆집으로 이사한 난도. 새로운 이웃이 마음에 안 드는 소연은 까칠하게 군다. 정말 이상한 남자야."
+            },
+            {   
+                "num": 4,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSjyyL0801fBOAD19hVw991g-gFGB0fdmXN22kt3v_0QSPCNF9vw0fwun56S4pYd0LsMgoPbtwdZl1jIZW6oTzPKvaAoqAQ4ZLOEEoXijxK-A4dc.webp?r=827",
+                "title": "4화",
+                "runningTime": 53,
+                "episodeStory": "내 곁에 있겠다고 했으면서. 혼란스러운 소연과 신경 쓰이는 난도. 홀로는 두 사람의 마음을 이해하기가 힘들다. 이때를 틈타 안경을 노리는 찬성. 그녀가 위험하다."
+            },
+            {   
+                "num": 5,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXtTT1E6lRwZaLzG9odXSCcaNHSKY6VKk-5-fT1uoZCBthZ7DqsbDMWrWPTAsDKtH9cKpCNVdXiJFFPdbTzPhWM4S38Tjdna6QCRaf-v4uLu5xvD.webp?r=e97",
+                "title": "5화",
+                "runningTime": 54,
+                "episodeStory": "나 너만 보여. 사고 이후 달라진 소연. 홀로는 난도에게 정체를 밝히라고 재촉한다. 이런 상황에서 움직임이 심상치 않은 투자자들. 일주일 안에, 결정을 내려야 한다."
+            },
+            {   
+                "num": 6,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVnP9CAWVhqaybcZcVjWyuCh0DXL7qnAXydxVCXDFQu3mTJPEiD23pc81IwYkDqqlLRrB_M4_UMd6Y9ZW3Kkk0v_fsjvDKK1CqnueNfBO54NZtBF.webp?r=5e3",
+                "title": "6화",
+                "runningTime": 55,
+                "episodeStory": "홀로와 여행도 가고 싶고, 손도 잡고 싶다. 그러나 그건 가능하지 않은 일. 소연은 닿지 않는 꿈을 꾼다. 난도가 의심스러운 경찰은 그의 과거를 캐고, 주변을 감시한다."
+            },
+            {   
+                "num": 7,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWXUIrzhLo7GuqQ07ChaN3cR6UjAd6JdkITzWNuz8e9crLxr4vQjnZy3b-y5utDvRfOLUicCSdB1iqK3c48T_uUBL8ya_dkwKPO7xWQ8mO1lqjva.webp?r=268",
+                "title": "7화",
+                "runningTime": 51,
+                "episodeStory": "해킹에, 침입에 그녀를 혼자 둘 수 없다. 홀로인 척 소연에게 다가가는 난도. 들키지 않고 무사히 지킬 수 있을까? 아무리 개발자라도 인공 지능을 따라잡긴 벅차네."
+            },
+            {   
+                "num": 8,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT7YowJI9Ey-4jhbmjpwS2B6DoSHHZwTTS09w3dRZqzCZUeuR17ky5vvL9J-A2hbF1HqJft4rLrQBMr4Ro5JRNf85WuctalmAVwkIF8CSvBPzwfX.webp?r=1c5",
+                "title": "8화",
+                "runningTime": 49,
+                "episodeStory": "방 안에 갇힌 홀로를 꺼낼 수 있을까. 난도와 부딪히면서도 홀로의 기억을 찾아주려 애쓰는 소연. 처음 만났던 날로 거슬러 올라가던 그녀는 몰랐던 사실을 알게 된다."
+            },
+            {   
+                "num": 9,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABemJY7sH_yprcPt-ayMgkYaEY1p9iwvV5XksnfOvWYth04UdpFC9fjR-FNET2NbisLNlg4-y4_-lQXtlLrbw2abXfUmlwB3TO97Ms2ihtyFSxYdY.webp?r=5ba",
+                "title": "9화",
+                "runningTime": 51,
+                "episodeStory": "우리 셋이 좋은 친구가 될 수 있는 거지? 홀로가 돌아와 기쁘지만, 복잡하기도 한 두 사람. 난도는 소연을 위한 안경을 건네주고, 홀로는 알 수 없는 행동을 보인다."
+            },
+            {   
+                "num": 10,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVfjEBF0Km8YmBWcBmEsHM_nyXd0BBtJJuxExjFjZ5q6FBug7syJqsoktQXj61ywt4b1rTS2Cc8kjbFb1tA_ym2oUEZ79e8Bm1XVSS-GPwMpfJsf.webp?r=0e4",
+                "title": "10화",
+                "runningTime": 52,
+                "episodeStory": "내가 할 수 있는 일이 아무것도 없다. 위기에 빠진 난도는 어쩔 수 없이, 모두를 살리기 위해 회사를 포기한다. 이제 정말 그들이 알던 홀로는 사라지게 되는 걸까?"
+            },
+            {   
+                "num": 11,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdZn6TFsqvZKI71JdKaihELYrnujOr6WZEfG7K-I6HN0bjvke9471-unwKZoOTjaHT1MvY8L--AGiT0Bu4mZyMbjkuLndHUE7QE2Q_f0GJmy9iWS.webp?r=45d",
+                "title": "11화",
+                "runningTime": 52,
+                "episodeStory": "어디를 가나 보이는 홀로. 출시 한 달 만에 폭발적인 판매량을 기록한다. 그러나 누군가는 여기에 숨겨진 음모를 감지하고, 난도는 잠적한다. 큰일을 저지르기 위해."
+            },
+            {   
+                "num": 12,
+                "thumbNail": "https://occ-0-3077-988.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeQYJfzAgZI8C10CgeHDrN4MUYP39iZmbPnK_eVN4wxq0ZbFYle2uKNPHy4_TcPcwyF2Uij-OvvgB1pjUzTfTeqnFSs05w0naD1RUN5RK6xa-dC7.webp?r=b86",
+                "title": "12화",
+                "runningTime": 53,
+                "episodeStory": "살면서 가장 두려웠던 순간이 떠오른 소연. 난도는 그녀를 구할 수 있을까. 그리고 어머니의 죽음에 얽힌 진실을 밝혀낼 수 있을까. 그들에게 남은 희망은 홀로뿐이다."
+            }
+            ]
+        }
+    ]
+}

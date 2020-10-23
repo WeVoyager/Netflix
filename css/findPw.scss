@@ -1,0 +1,189 @@
+@import url("common.css");
+
+html{
+    overflow: hidden;
+}
+
+.find-id>div {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 4rem 0 11rem 0;
+
+    &::after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    h2 {
+        font-size: 2.8rem;
+        padding-bottom: 2rem;
+
+        span {
+            display: inline-block;
+            margin-left: 2rem;
+            font-size: 1.4rem;
+            font-weight: 400;
+            color: #bbb;
+        }
+    }
+}
+
+.write-section {
+    width: 800px;
+    border-top: 1px solid #aaa;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-top: 7rem;
+    float: left;
+
+    input[type=text] {
+        width: 350px;
+        height: 50px;
+        border: 1px solid #ccc;
+        padding-left: 2rem;
+        font-size: 1.4rem;
+        outline: none;
+    }
+
+    input[type=submit] {
+        background: #be0a0a;
+        border: none;
+        outline: none;
+        width: 350px;
+        height: 50px;
+        font-size: 1.4rem;
+        color: #fff;
+        margin-bottom: 3rem;
+        cursor: pointer;
+    }
+
+    &::before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: -1px;
+        left: 0;
+        width: 160px;
+        height: 1px;
+        background: #be0a0a;
+    }
+
+    &::after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+}
+
+.step-change {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    transition: .5s;
+}
+
+.step {
+    width: 100%;
+    position: relative;
+    left: 0; //left값으로 단계 조정
+    display: block;
+    transition: .5s;
+}
+
+//회원가입 단계
+.step li {
+    width: 100%;
+    position: absolute;
+}
+
+//1단계
+.one {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    input[type=text]{
+        margin-bottom: 1.5rem;
+        display: block;
+    }
+}
+
+.two{
+    left: 100%;
+
+    >span{
+        display: block;
+        text-align: center;
+        padding: 2rem 0 3rem 0;
+
+        a{
+            display: inline-block;
+            font-size: 1.6rem;
+            padding: 1.5rem 5rem;
+            margin-right: 2rem;
+            background: #666;
+
+            &:last-child{
+                background: #c2151c;
+            }
+        }
+    }
+
+    p{
+        text-align: center;
+        font-size: 1.6rem;
+        border: 1px solid #666;
+        padding: 4rem;
+        white-space: pre-line;
+        
+        small{
+            color: #999;
+        }
+    }
+}
+
+.ads-section {
+    float: right;
+    position: relative;
+}
+
+.ig {
+    position: absolute;
+    right: 0;
+    top: -10%;
+}
+
+.change-ads {
+    width: 300px;
+
+    //오른쪽 배너광고 움직임효과
+    /*  
+        ul{
+            transform: translateX(-100%)
+        }
+    */
+}
+
+.ig .btn {
+    display: inline-block;
+    margin-left: 1rem;
+    vertical-align: -0.5rem;
+    background: none;
+
+    .btn-play,
+    .btn-pause {
+        display: inline-block;
+        width: 24px;
+        height: 24px;
+
+        img {
+            width: 100%;
+            height: 100%;
+        }
+    }
+}
+
+.ig .btn .btn-play {
+    display: none;
+}

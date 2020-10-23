@@ -4,31 +4,55 @@
 .slide {
     width: 100%;
     border-bottom: 1px solid #222;
-}
-
-.slide>div {
     padding: 2rem 0 10rem 0;
+    position: relative;
 }
 
-.slide>div div {
-    padding: 0 1rem;
-    position: relative;
+.slide {
 
-    ul {
-        width: 100%;
+    .change-slide {
+        // width: 1880px;
         height: 480px;
-        display: flex;
-        justify-content: space-between;
+        position: relative;
+        padding-left: 10px;
+        // left: -67.2%;
 
         li {
-            width: 32.5%;
+            // width: 32.5%;
             height: 100%;
             position: relative;
+            /* position: absolute;
+            left: 0%; */
 
-            iframe {
+            /* &:nth-of-type(2){
+                left: 50%;
+                transform: translateX(-50%);
+            }
+
+            &:nth-of-type(3){
+                left: 100%;
+                transform: translateX(-100%);
+            }
+
+            &:nth-of-type(4){
+                left: 150%;
+                transform: translateX(-150%);
+            }
+
+            &:nth-of-type(5){
+                left: 200%;
+                transform: translateX(-200%);
+            } */
+
+            &:hover{
+                .function-box{
+                    opacity: 1;
+                }
+            }
+
+            >img {
                 width: 100%;
                 height: 100%;
-                display: none;
             }
 
             .function-box {
@@ -36,21 +60,25 @@
                 height: 30%;
                 bottom: 0;
                 position: absolute;
+                z-index: 0;
                 background: rgba(0, 0, 0, 0.7);
-                padding: 2rem 3rem;
+                padding: 2rem 2.5rem;
                 display: flex;
+                opacity: 0;
+                transition: .5s;
                 justify-content: space-between;
             }
         }
     }
 }
 
-/*----------슬라이드 콘텐츠_배경이미지----------*/
-@for $s_bg from 1 to 5 {
-    .slide>div ul li:nth-of-type(#{$s_bg}) {
-        background: url("../img/main/silde_0#{$s_bg}.jpg") center center no-repeat;
-    }
+.slide .change-slide li .function-box.active{
+    opacity: 1;
 }
+
+/*----------슬라이드 콘텐츠_배경이미지----------*/
+
+/*----------슬라이드 콘텐츠 간격----------*/
 
 /*----------슬라이드 콘텐츠_내용----------*/
 .function-box {
@@ -58,6 +86,10 @@
     //재생,내가찜한콘텐츠,추천 기능
     .set-box {
         width: 40%;
+
+        img {
+            display: inline-block;
+        }
 
         >span {
             display: inline-block;
@@ -77,7 +109,9 @@
                 vertical-align: middle;
                 transition: .5s;
 
-                &:hover{background: #ccc;}
+                &:hover {
+                    background: #ccc;
+                }
 
                 img {
                     margin-right: 1rem;
@@ -87,24 +121,34 @@
             //추천 기능
             span {
                 display: inline-block;
-                border: 1px solid #fff;
+                border: 2px solid #aaa;
                 padding: 1.8rem;
                 vertical-align: middle;
                 border-radius: 100%;
-                transition: .5s;
+                transition: .3s;
                 cursor: pointer;
 
-                &:hover{transform: scale(1.1)}
+                &:hover {
+                    border: 2px solid #fff;
+                }
 
                 &:nth-of-type(1) {
                     margin: 0 0.5rem;
-                    background: url("../img/common/thumbs_up.png") center center no-repeat;
-                    background-size: 50%;
+                    background: url("../img/common/thumbs_up.png") no-repeat center / 50%;
+
+                    &.active{
+                        background: url("../img/common/thumbs_up_fill.png") no-repeat center / 50%;
+                        border: 2px solid #fff;
+                    }
                 }
 
                 &:nth-of-type(2) {
-                    background: url("../img/common/thumbs_down.png") center center no-repeat;
-                    background-size: 50%;
+                    background: url("../img/common/thumbs_down.png") no-repeat center / 50%;
+
+                    &.active{
+                        background: url("../img/common/thumbs_down_fill.png") no-repeat center / 50%;
+                        border: 2px solid #fff;
+                    }
                 }
             }
         }
@@ -119,7 +163,9 @@
             cursor: pointer;
             transition: .5s;
 
-            &:hover{background: #444}
+            &:hover {
+                background: #444
+            }
 
             img {
                 width: 1.5rem;
@@ -132,6 +178,7 @@
     //제목, 줄거리
     .info {
         width: 60%;
+        padding-left: 1rem;
 
         strong {
             display: block;
@@ -149,11 +196,11 @@
 
 /*----------슬라이드 전환 인디게이터----------*/
 
-.ig {
+.ig2 {
     text-align: center;
     padding-top: 3rem;
 
-    span {
+    /* span {
         display: inline-block;
         width: 8px;
         height: 8px;
@@ -183,11 +230,13 @@
             background: #980f15;
             transition: .5s;
         }
-    }
+    } */
 }
 
-.ig .btn {
+.ig2 .btn {
     display: inline-block;
+    margin-left: 1rem;
+    vertical-align: .4rem;
     background: none;
 
     .btn-play,
@@ -204,13 +253,37 @@
     }
 }
 
-.ig .btn .btn-play {
-    display: none;
+.ig2 .slick-dots li.slick-active {
+    width: 80px;
+    background: #5c2d2f;
 }
+
+.ig2 .slick-dots li {
+    position: relative;
+    // overflow: hidden;
+}
+
+.ig2 .slick-dots li span {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0%;
+    height: 100%;
+}
+
+.ig2 .slick-dots li.slick-active span {
+    width: 100%;
+    transition: 3.3s;
+}
+
+/* .ig2 .btn .btn-play {
+    display: none;
+} */
 
 /*----------슬라이드 전환 버튼----------*/
 //슬라이드 버튼
-.slide_prev,
+/* .slide_prev,
 .slide_next {
     display: inline-block;
     width: 60px;
@@ -220,6 +293,24 @@
     transform: translateY(-50%);
     transition: .5s;
     cursor: pointer;
+
+    &:hover {
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+} */
+
+.slide .slick-prev,
+.slide .slick-next {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: .5s;
+    cursor: pointer;
+    font-size: 0;
+    outline: none;
 
     &:hover {
         background-color: rgba(0, 0, 0, 0.5);
@@ -238,12 +329,26 @@
     right: 0;
 }
 
+.slide .slick-prev {
+    background: url("../img/common/slide_left.png") center center no-repeat;
+    background-color: rgba(80, 80, 80, 0.5);
+    left: 0;
+    z-index: 700;
+}
+
+.slide .slick-next {
+    background: url("../img/common/slide_right.png") center center no-repeat;
+    background-color: rgba(80, 80, 80, 0.5);
+    right: 0;
+}
+
 /*----------TOP10_프로그램----------*/
 .top-10>div {
     width: 1200px;
     margin: 0 auto;
     padding: 4rem 0;
     border-bottom: 2px solid #555;
+    overflow:hidden;
 
     h2 {
         font-size: 2.8rem;
@@ -251,27 +356,59 @@
     }
 }
 
-.top-10>div div {
+.top-10 > div > div {
     position: relative;
+}
 
-    ul {
-        width: 100%;
-        display: flex;
-        justify-content: space-between;
+.top-10 .slide-box{
+    position: relative;
+    left: 0;
+    height: 300px;
+    transition: .7s;
+}
 
-        li {
-            font-size: 0;
-            width: 23.3%;
+.top-slide {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+    /* display: flex;
+    justify-content: space-between; */
+    &:after{
+        content:'';
+        display: block;
+        clear: left;
+    }
 
+    li {
+        font-size: 0;
+        float:left;
+        width: 277.5px;
+        height: 100%;
+        margin-right: 30px;
+        overflow: hidden;
+        cursor: pointer;
+
+        &:last-child{
+            margin: 0;
+        }
+
+        &:hover {
             img {
-                width: 100%;
+                transform: scale(1.03);
             }
+        }
+
+        img {
+            width: 100%;
+            height: 100%;
+            transition: .5s;
         }
     }
 }
 
 /*----------TOP10_프로그램 리스트----------*/
-.top-10_list {
+.tv_list {
     position: absolute;
     right: 0;
     top: -7%;
@@ -283,7 +420,9 @@
         display: inline-block;
         width: 20px;
         height: 2px;
+        margin-left: 3px;
         background: #666;
+        transition: .3s;
 
         &.active {
             background: #fff;
@@ -320,7 +459,7 @@
 
 .top-10>div div:hover {
 
-    .top-10_list,
+    .tv_list,
     .top-10_prev,
     .top-10_next {
         opacity: 1;
@@ -350,14 +489,22 @@
         margin-right: 2rem;
     }
 
-    >span {
-        font-size: 1.6rem;
+    .option {
         margin-left: 3rem;
-        cursor: pointer;
 
-        span:last-child {
-            margin-left: 20px;
+        span{
+            font-size: 1.6rem;
             color: #555;
+            transition: .3s;
+            cursor: pointer;
+
+            &:last-child {
+                margin-left: 20px;
+            }
+    
+            &.active{
+                color: #fff;
+            }
         }
     }
 }
@@ -374,6 +521,7 @@
         border: 1px solid #fff;
         padding: 0.8rem 1.5rem;
         font-size: 1.4rem;
+        cursor: pointer;
 
         img {
             margin-left: 2rem;
@@ -388,11 +536,12 @@
     display: flex;
     justify-content: space-between;
     font-size: 1.4rem;
-    width: 350%;
+    width: 350px;
     background: rgba(80, 80, 80, 0.8);
     visibility: hidden;
     opacity: 0;
     transition: .5s;
+    z-index: 99;
 
     ul {
         li {
@@ -404,51 +553,103 @@
             }
         }
     }
+
+    &.active{
+        visibility: visible;
+        opacity: 1;
+    }
 }
 
 /*----------프로그램 목록----------*/
-.tv-program div article h3{
+.tv-program div article h3 {
     font-size: 2rem;
     margin: 4rem 0 2rem 0;
 }
-.tv-program div article div{
+
+/* .tv-program div article div {
     position: relative;
 
     ul {
         width: 100%;
-        display: flex;
-        justify-content: space-between;
 
         li {
             font-size: 0;
             width: 23.3%;
+            overflow: hidden;
+            cursor: pointer;
+
+            &:hover {
+                img {
+                    transform: scale(1.03);
+                }
+            }
 
             img {
                 width: 100%;
+                transition: .5s;
             }
+        }
+    }
+} */
+
+.slide-box2 ul{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+    /* display: flex;
+    justify-content: space-between; */
+    &:after{
+        content:'';
+        display: block;
+        clear: left;
+    }
+
+    li {
+        font-size: 0;
+        float:left;
+        width: 277.5px;
+        height: 100%;
+        margin-right: 30px;
+        overflow: hidden;
+        cursor: pointer;
+
+        &:last-child{
+            margin: 0;
+        }
+
+        &:hover {
+            img {
+                transform: scale(1.03);
+            }
+        }
+
+        img {
+            width: 100%;
+            height: 100%;
+            transition: .5s;
         }
     }
 }
 
-/*----------TOP10_프로그램 리스트----------*/
-.tv_list {
-    position: absolute;
-    right: 0;
-    top: -7%;
-    visibility: hidden;
-    opacity: 0;
-    transition: .5s;
+/*----------TV프로그램 슬라이드----------*/
+.slide-box2{
+    position: relative;
+    left: 0%;
+    height: 300px;
+    transition: .7s;
+}
 
-    span {
-        display: inline-block;
-        width: 20px;
-        height: 2px;
-        background: #666;
+.netflix-ori .slide-box2{
+    height: 360px;
+}
 
-        &.active {
-            background: #fff;
-        }
-    }
+.cont_slide{
+    position: relative;
+}
+
+.cont-box{
+    overflow:hidden;
 }
 
 /*----------TOP10_프로그램 슬라이드 버튼----------*/
@@ -477,7 +678,7 @@
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.tv-program article div:hover {
+.tv-program article .cont_slide:hover {
 
     .tv_list,
     .tv_prev,
@@ -492,7 +693,10 @@
     background-color: rgba(0, 0, 0, 0.7);
 }
 
-.netflix-ori{
+.netflix-ori {
+
     .tv_prev,
-    .tv_next{height: 360px;}
+    .tv_next {
+        height: 360px;
+    }
 }

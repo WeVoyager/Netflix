@@ -5,57 +5,38 @@
     <meta charset="utf-8">
     <title>Netflix</title>
     <link href="css/Netflix_main.css" rel="stylesheet" type="text/css">
+    <link href="css/slick.css" rel="stylesheet" type="text/css">
     <link rel="icon" type="image/png" sizes="32x32" href="img/common/favicon-32x32.png">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+    <script src="js/common.js"></script>
+    <script src="js/main-login-signUp.js"></script>
+    <script src="js/slick.js"></script>
 </head>
 
 <body>
 
-    <header>
-        <div>
-            <a href="index.html"><img src="img/common/logo.png" alt="Netflix"></a>
-            <p class="click-event"><span>로그인이 필요한 서비스입니다.</span></p>
-            <nav>
-                <a href="index.html">홈</a>
-                <a href="#">TV프로그램</a>
-                <a href="#">영화</a>
-                <a href="new_content.html">최신 콘텐츠</a>
-                <a href="sub_content.html">내가 찜한 콘텐츠</a>
-                <span class="point"></span>
-            </nav>
+    <div class="DOMscroll">
+        <div class="DOMcontainer">
 
-            <p class="menu">
-                <span class="user-menu">
-                    <a href="login.html">로그인</a>
-                    <a href="sign-up.html">회원가입</a>
-                </span>
+            <header></header>
 
-                <a class="burger-menu">
-                    <span class="menu-bg"></span>
-                    <span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </span>
-                </a>
-            </p>
-        </div>
-    </header>
-
-    <main>
-        <!---------------------슬라이드---------------------->
-        <article class="slide">
-            <div>
-                <div>
-                    <ul>
-                        <li>
-                            <iframe src="https://www.youtube.com/embed/x-YJTJsVQ_0" frameborder="0"></iframe>
+            <main>
+                <!---------------------슬라이드---------------------->
+                <article class="slide">
+                    <ul class="change-slide">
+                        <li aria-label="킹덤">
+                            <p><img src="img/main/silde_01.jpg" alt=""></p>
                             <div class="function-box">
                                 <div class="set-box">
                                     <span>
                                         <a href="#"><img src="img/common/play.png">재생</a>
-                                        <span></span>
-                                        <span></span>
+                                        <span class="thumb-up"></span>
+                                        <span class="thumb-down"></span>
                                     </span>
                                     <button><img src="img/common/like_plus.png">내가 찜한 콘텐츠</button>
                                 </div>
@@ -70,13 +51,13 @@
                         </li>
 
                         <li>
-                            <iframe src="https://www.youtube.com/embed/RM3riRyU08k" frameborder="0"></iframe>
+                            <p><img src="img/main/silde_02.jpg" alt=""></p>
                             <div class="function-box">
                                 <div class="set-box">
                                     <span>
                                         <a href="#"><img src="img/common/play.png">재생</a>
-                                        <span></span>
-                                        <span></span>
+                                        <span class="thumb-up"></span>
+                                        <span class="thumb-down"></span>
                                     </span>
                                     <button><img src="img/common/like_plus.png">내가 찜한 콘텐츠</button>
                                 </div>
@@ -91,13 +72,13 @@
                         </li>
 
                         <li>
-                            <iframe src="https://youtube.com/embed/tfHbcvg6EdA" frameborder="0"></iframe>
+                            <p><img src="img/main/silde_03.jpg" alt=""></p>
                             <div class="function-box">
                                 <div class="set-box">
                                     <span>
                                         <a href="#"><img src="img/common/play.png">재생</a>
-                                        <span></span>
-                                        <span></span>
+                                        <span class="thumb-up"></span>
+                                        <span class="thumb-down"></span>
                                     </span>
                                     <button><img src="img/common/like_plus.png">내가 찜한 콘텐츠</button>
                                 </div>
@@ -110,288 +91,325 @@
                                 </div>
                             </div>
                         </li>
+
+                        <li>
+                            <p><img src="img/main/silde_04.jpg" alt=""></p>
+                            <div class="function-box">
+                                <div class="set-box">
+                                    <span>
+                                        <a href="#"><img src="img/common/play.png">재생</a>
+                                        <span class="thumb-up"></span>
+                                        <span class="thumb-down"></span>
+                                    </span>
+                                    <button><img src="img/common/like_plus.png">내가 찜한 콘텐츠</button>
+                                </div>
+
+                                <div class="info">
+                                    <strong>동백꽃 필 무렵</strong>
+                                    <p>천진하지만 강단 있는 싱글 맘 동백. 씩씩하게 살고 싶지만,
+                                        세상의 편견이 여전히 힘들다. 이런 그녀를 찾아온 설렘,
+                                        어쩌면 사랑. 이제부터, 조금 더 용감해져도 될까.</p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <p><img src="img/main/silde_05.jpg" alt=""></p>
+                            <div class="function-box">
+                                <div class="set-box">
+                                    <span class="play-like">
+                                        <a href="#"><img src="img/common/play.png">재생</a>
+                                        <span class="thumb-up"></span>
+                                        <span class="thumb-down"></span>
+                                    </span>
+                                    <button><img src="img/common/like_plus.png">내가 찜한 콘텐츠</button>
+                                </div>
+
+                                <div class="info">
+                                    <strong>미스터 션샤인</strong>
+                                    <p>아홉 살 소년의 기억이 부르는 곳, 그곳에서 유진은 애신과
+                                        우연히 만난다. 진고개 거리에서 애신과 재회한 동매. 그는
+                                        한순간도 잊을 수 없던 그날의 기억을 떠올린다.</p>
+                                </div>
+                            </div>
+                        </li>
                     </ul>
-                    <a class="slide_prev"></a>
-                    <a class="slide_next"></a>
-                </div>
 
-                <p class="ig">
-                    <span class="active"><span></span></span>
+                    <p class="ig2">
+                        <!-- <span class="active"><span></span></span>
                     <span><span></span></span>
                     <span><span></span></span>
                     <span><span></span></span>
-                    <span><span></span></span>
+                    <span><span></span></span> -->
 
-                    <span class="btn">
-                        <a class="btn-pause"><img src="img/common/pause_gary.png"></a>
-                        <a class="btn-play"><img src="img/common/play_gary.png"></a>
-                    </span>
-                </p>
-            </div>
-        </article>
-
-
-        <!---------------------TOP10-프로그램------------------->
-        <article class="top-10">
-            <div>
-                <h2>한국 TOP 10 TV프로그램</h2>
-                <div>
-                    <ul>
-                        <li>
-                            <img src="img/main/top10_01.jpg" alt="사이코지만 괜찮아">
-                        </li>
-
-                        <li>
-                            <img src="img/main/top10_02.jpg" alt="비밀의 숲">
-                        </li>
-
-                        <li>
-                            <img src="img/main/top10_03.jpg" alt="슬기로운 의사생활">
-                        </li>
-
-                        <li>
-                            <img src="img/main/top10_04.jpg" alt="응답하라 1988">
-                        </li>
-                    </ul>
-
-                    <span class="top-10_list">
-                        <span class="active"></span>
-                        <span></span>
-                        <span></span>
-                    </span>
-
-                    <a class="top-10_prev"></a>
-                    <a class="top-10_next"></a>
-                </div>
-
-                <div class="content-open">
-                    <ul>
-
-                    </ul>
-                </div>
-            </div>
-        </article>
+                        <span class="btn">
+                            <a class="btn-pause"><img src="img/common/pause_gary.png"></a>
+                            <!-- <a class="btn-play"><img src="img/common/play_gary.png"></a> -->
+                        </span>
+                    </p>
+                    <!-- </div> -->
+                </article>
 
 
-
-        <!---------------------TV프로그램------------------->
-        <article class="tv-program">
-            <div>
-                <div class="tv-title">
-                    <h2>TV프로그램</h2>
-                    <div class="genre">
-                        <span>장르<img src="img/common/select_option_02.png"></span>
+                <!---------------------TOP10-프로그램------------------->
+                <article class="top-10">
+                    <div>
+                        <h2>한국 TOP 10 TV프로그램</h2>
                         <div>
-                            <ul>
-                                <li>한국 드라마</li>
-                                <li>미국 드라마</li>
-                                <li>영국 드라마</li>
-                                <li>아시아 드라마</li>
-                                <li>버라이어티 / 예능</li>
-                                <li>액션</li>
-                            </ul>
+                            <div class="slide-box">
+                                <ul class="top-slide">
+                                    <li aria-label="사이코지만 괜찮아">
+                                        <img src="img/main/top10_01.jpg" alt="사이코지만 괜찮아">
+                                    </li>
 
-                            <ul>
-                                <li>드라마</li>
-                                <li>로맨스</li>
-                                <li>코미디</li>
-                                <li>스릴러</li>
-                                <li>호러</li>
-                                <li>SF / 판타지</li>
-                            </ul>
+                                    <li aria-label="비밀의 숲">
+                                        <img src="img/main/top10_02.jpg" alt="비밀의 숲">
+                                    </li>
 
-                            <ul>
-                                <li>키즈</li>
-                                <li>청춘 / 하이틴</li>
-                                <li>애니메이션</li>
-                                <li>다큐시리즈</li>
-                                <li>자연 과학</li>
-                                <li>역사</li>
-                            </ul>
+                                    <li aria-label="슬기로운 의사생활">
+                                        <img src="img/main/top10_03.jpg" alt="슬기로운 의사생활">
+                                    </li>
+
+                                    <li aria-label="응답하라 1988">
+                                        <img src="img/main/top10_04.jpg" alt="응답하라 1988">
+                                    </li>
+                                </ul>
+
+                                <ul class="top-slide">
+                                    <li aria-label="킹덤">
+                                        <img src="img/main/hot_01.jpg" alt="킹덤">
+                                    </li>
+
+                                    <li aria-label="멜로가 체질">
+                                        <img src="img/main/hot_02.jpg" alt="멜로가 체질">
+                                    </li>
+
+                                    <li aria-label="부부의 세계">
+                                        <img src="img/main/hot_03.jpg" alt="부부의 세계">
+                                    </li>
+
+                                    <li aria-label="사랑의 불시착">
+                                        <img src="img/main/hot_04.jpg" alt="사랑의 불시착">
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <span class="tv_list"></span>
+
+                            <a class="top-10_prev"></a>
+                            <a class="top-10_next"></a>
                         </div>
                     </div>
-
-                    <span class="option">
-                        <span>TV프로그램</span>
-                        <span>영화</span>
-                    </span>
-                </div>
-
-                <!---------------------백상예술대상 수상작------------------->
-                <article class="award">
-                    <h3>백상예술대상 수상작</h3>
-                    <div>
-                        <ul>
-                            <li>
-                                <img src="img/main/award_01.jpg" alt="슬기로운 감빵생활">
-                            </li>
-
-                            <li>
-                                <img src="img/main/award_02.jpg" alt="시그널">
-                            </li>
-
-                            <li>
-                                <img src="img/main/award_03.jpg" alt="미생">
-                            </li>
-
-                            <li>
-                                <img src="img/main/award_04.jpg" alt="나의 아저씨">
-                            </li>
-                        </ul>
-
-                        <span class="tv_list">
-                            <span class="active"></span>
-                            <span></span>
-                            <span></span>
-                        </span>
-
-                        <a class="tv_prev"></a>
-                        <a class="tv_next"></a>
-                    </div>
-
-                    <div class="content-open">
-                        <ul>
-
-                        </ul>
-                    </div>
                 </article>
 
 
-                <!---------------------지금 뜨는 콘텐츠------------------->
-                <article class="hot">
-                    <h3>지금 뜨는 콘텐츠</h3>
-                    <div>
-                        <ul>
-                            <li>
-                                <img src="img/main/hot_01.jpg" alt="킹덤">
-                            </li>
 
-                            <li>
-                                <img src="img/main/hot_02.jpg" alt="멜로가 체질">
-                            </li>
+                <!---------------------TV프로그램------------------->
+                <article class="tv-program" id="tv-program">
+                    <div id="movie">
+                        <div class="tv-title">
+                            <h2>TV프로그램</h2>
+                            <div class="genre">
+                                <span>장르<img src="img/common/select_option_02.png"></span>
+                                <div>
+                                    <ul>
+                                        <li>한국 드라마</li>
+                                        <li>미국 드라마</li>
+                                        <li>영국 드라마</li>
+                                        <li>아시아 드라마</li>
+                                        <li>버라이어티 / 예능</li>
+                                        <li>액션</li>
+                                    </ul>
 
-                            <li>
-                                <img src="img/main/hot_03.jpg" alt="부부의 세계">
-                            </li>
+                                    <ul>
+                                        <li>드라마</li>
+                                        <li>로맨스</li>
+                                        <li>코미디</li>
+                                        <li>스릴러</li>
+                                        <li>호러</li>
+                                        <li>SF / 판타지</li>
+                                    </ul>
 
-                            <li>
-                                <img src="img/main/hot_04.jpg" alt="사랑의 불시착">
-                            </li>
-                        </ul>
+                                    <ul>
+                                        <li>키즈</li>
+                                        <li>청춘 / 하이틴</li>
+                                        <li>애니메이션</li>
+                                        <li>다큐시리즈</li>
+                                        <li>자연 과학</li>
+                                        <li>역사</li>
+                                    </ul>
+                                </div>
+                            </div>
 
-                        <span class="tv_list">
-                            <span class="active"></span>
-                            <span></span>
-                            <span></span>
-                        </span>
+                            <span class="option">
+                                <span class="active">TV프로그램</span>
+                                <span>영화</span>
+                            </span>
+                        </div>
 
-                        <a class="tv_prev"></a>
-                        <a class="tv_next"></a>
-                    </div>
+                        <!---------------------백상예술대상 수상작------------------->
+                        <article class="award">
+                            <div class="cont-box">
+                                <h3>백상예술대상 수상작</h3>
+                                <div class="cont_slide">
+                                    <div class="slide-box2">
+                                        <ul>
+                                            <li aria-label="슬기로운 감빵생활">
+                                                <img src="img/main/award_01.jpg" alt="슬기로운 감빵생활">
+                                            </li>
 
-                    <div class="content-open">
-                        <ul>
+                                            <li aria-label="시그널">
+                                                <img src="img/main/award_02.jpg" alt="시그널">
+                                            </li>
 
-                        </ul>
+                                            <li aria-label="미생">
+                                                <img src="img/main/award_03.jpg" alt="미생">
+                                            </li>
+
+                                            <li aria-label="나의 아저씨">
+                                                <img src="img/main/award_04.jpg" alt="나의 아저씨">
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                    <span class="tv_list"></span>
+
+                                    <a class="tv_prev"></a>
+                                    <a class="tv_next"></a>
+                                </div>
+
+                                <div class="content-open">
+                                    <ul>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </article>
+
+
+                        <!---------------------지금 뜨는 콘텐츠------------------->
+                        <article class="hot">
+                            <div class="cont-box">
+                                <h3>지금 뜨는 콘텐츠</h3>
+                                <div class="cont_slide">
+                                    <div class="slide-box2">
+                                        <ul>
+                                            <li aria-label="킹덤">
+                                                <img src="img/main/hot_01.jpg" alt="킹덤">
+                                            </li>
+
+                                            <li aria-label="멜로가 체질">
+                                                <img src="img/main/hot_02.jpg" alt="멜로가 체질">
+                                            </li>
+
+                                            <li aria-label="부부의 세계">
+                                                <img src="img/main/hot_03.jpg" alt="부부의 세계">
+                                            </li>
+
+                                            <li aria-label="사랑의 불시착">
+                                                <img src="img/main/hot_04.jpg" alt="사랑의 불시착">
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                    <span class="tv_list"></span>
+
+                                    <a class="tv_prev"></a>
+                                    <a class="tv_next"></a>
+                                </div>
+
+                                <div class="content-open">
+                                    <ul>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!---------------------드라마 & 버라이어티------------------->
+                        <article class="drama">
+                            <div class="cont-box">
+                                <h3>드라마 & 버라이어티</h3>
+                                <div class="cont_slide">
+                                    <div class="slide-box2">
+                                        <ul>
+                                            <li aria-label="미스터 션샤인">
+                                                <img src="img/main/drama_01.jpg" alt="미스터 션샤인">
+                                            </li>
+
+                                            <li aria-label="스카이 캐슬">
+                                                <img src="img/main/drama_02.jpg" alt="스카이캐슬">
+                                            </li>
+
+                                            <li aria-label="동백꽃 필 무렵">
+                                                <img src="img/main/drama_03.jpg" alt="동백꽃 필 무렵">
+                                            </li>
+
+                                            <li aria-label="쌍갑포차">
+                                                <img src="img/main/drama_04.jpg" alt="쌍갑포차">
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                    <span class="tv_list"></span>
+
+                                    <a class="tv_prev"></a>
+                                    <a class="tv_next"></a>
+                                </div>
+
+                                <div class="content-open">
+                                    <ul>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </article>
+
+                        <!---------------------Netflix 오리지널------------------->
+                        <article class="netflix-ori">
+                            <div class="cont-box">
+                                <h3>Netflix 오리지널</h3>
+                                <div class="cont_slide">
+                                    <div class="slide-box2">
+                                        <ul>
+                                            <li aria-label="인간수업">
+                                                <img src="img/main/netflix-orignal_01.jpg" alt="인간수업">
+                                            </li>
+
+                                            <li aria-label="킹덤">
+                                                <img src="img/main/netflix-orignal_02.jpg" alt="킹덤">
+                                            </li>
+
+                                            <li aria-label="좋아하면 울리는">
+                                                <img src="img/main/netflix-orignal_03.jpg" alt="좋아하면 울리는">
+                                            </li>
+
+                                            <li aria-label="나홀로 그대">
+                                                <img src="img/main/netflix-orignal_04.jpg" alt="나홀로 그대">
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                    <span class="tv_list"></span>
+
+                                    <a class="tv_prev"></a>
+                                    <a class="tv_next"></a>
+                                </div>
+
+                                <div class="content-open">
+                                    <ul>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </article>
                     </div>
                 </article>
+            </main>
 
-                <!---------------------드라마 & 버라이어티------------------->
-                <article class="drama">
-                    <h3>드라마 & 버라이어티</h3>
-                    <div>
-                        <ul>
-                            <li>
-                                <img src="img/main/drama_01.jpg" alt="미스터 션샤인">
-                            </li>
-
-                            <li>
-                                <img src="img/main/drama_02.jpg" alt="스카이캐슬">
-                            </li>
-
-                            <li>
-                                <img src="img/main/drama_03.jpg" alt="동백꽃 필 무렵">
-                            </li>
-
-                            <li>
-                                <img src="img/main/drama_04.jpg" alt="쌍갑포차">
-                            </li>
-                        </ul>
-
-                        <span class="tv_list">
-                            <span class="active"></span>
-                            <span></span>
-                            <span></span>
-                        </span>
-
-                        <a class="tv_prev"></a>
-                        <a class="tv_next"></a>
-                    </div>
-
-                    <div class="content-open">
-                        <ul>
-
-                        </ul>
-                    </div>
-                </article>
-
-                <!---------------------Netflix 오리지널------------------->
-                <article class="netflix-ori">
-                    <h3>Netflix 오리지널</h3>
-                    <div>
-                        <ul>
-                            <li>
-                                <img src="img/main/netflix-orignal_01.jpg" alt="인간수업">
-                            </li>
-
-                            <li>
-                                <img src="img/main/netflix-orignal_02.jpg" alt="킹덤">
-                            </li>
-
-                            <li>
-                                <img src="img/main/netflix-orignal_03.jpg" alt="좋아하면 울리는">
-                            </li>
-
-                            <li>
-                                <img src="img/main/netflix-orignal_04.jpg" alt="나홀로 그대">
-                            </li>
-                        </ul>
-
-                        <span class="tv_list">
-                            <span class="active"></span>
-                            <span></span>
-                            <span></span>
-                        </span>
-
-                        <a class="tv_prev"></a>
-                        <a class="tv_next"></a>
-                    </div>
-
-                    <div class="content-open">
-                        <ul>
-
-                        </ul>
-                    </div>
-                </article>
-            </div>
-        </article>
-    </main>
-
-    <footer>
-        <div class="inner">
-            <span>
-                <a href="#"><img src="img/common/facebook.png"></a>
-                <a href="#"><img src="img/common/instagram.png"></a>
-                <a href="#"><img src="img/common/twitter.png"></a>
-                <a href="#"><img src="img/common/youtube.png"></a>
-            </span>
-            <p>대표 : 레지널드 숀 톰프슨 | 이메일 주소 : korea@netflix.com
-                주소: 대한민국 서울특별시 종로구 우정국로 26, 센트럴폴리스 A동 20층 우편번호 03161
-                클라우드 호스팅 : Amazon Web Service Inc.
-            </p>
+            <footer></footer>
         </div>
-    </footer>
-
+    </div>
 </body>
 
 </html>

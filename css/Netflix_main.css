@@ -4,75 +4,83 @@
 .slide {
   width: 100%;
   border-bottom: 1px solid #222;
-}
-
-.slide > div {
   padding: 2rem 0 10rem 0;
-}
-
-.slide > div div {
-  padding: 0 1rem;
   position: relative;
 }
 
-.slide > div div ul {
-  width: 100%;
+.slide .change-slide {
   height: 480px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  position: relative;
+  padding-left: 10px;
 }
 
-.slide > div div ul li {
-  width: 32.5%;
+.slide .change-slide li {
   height: 100%;
   position: relative;
+  /* position: absolute;
+            left: 0%; */
+  /* &:nth-of-type(2){
+                left: 50%;
+                transform: translateX(-50%);
+            }
+
+            &:nth-of-type(3){
+                left: 100%;
+                transform: translateX(-100%);
+            }
+
+            &:nth-of-type(4){
+                left: 150%;
+                transform: translateX(-150%);
+            }
+
+            &:nth-of-type(5){
+                left: 200%;
+                transform: translateX(-200%);
+            } */
 }
 
-.slide > div div ul li iframe {
+.slide .change-slide li:hover .function-box {
+  opacity: 1;
+}
+
+.slide .change-slide li > img {
   width: 100%;
   height: 100%;
-  display: none;
 }
 
-.slide > div div ul li .function-box {
+.slide .change-slide li .function-box {
   width: 100%;
   height: 30%;
   bottom: 0;
   position: absolute;
+  z-index: 0;
   background: rgba(0, 0, 0, 0.7);
-  padding: 2rem 3rem;
+  padding: 2rem 2.5rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  opacity: 0;
+  -webkit-transition: .5s;
+  transition: .5s;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
 
+.slide .change-slide li .function-box.active {
+  opacity: 1;
+}
+
 /*----------슬라이드 콘텐츠_배경이미지----------*/
-.slide > div ul li:nth-of-type(1) {
-  background: url("../img/main/silde_01.jpg") center center no-repeat;
-}
-
-.slide > div ul li:nth-of-type(2) {
-  background: url("../img/main/silde_02.jpg") center center no-repeat;
-}
-
-.slide > div ul li:nth-of-type(3) {
-  background: url("../img/main/silde_03.jpg") center center no-repeat;
-}
-
-.slide > div ul li:nth-of-type(4) {
-  background: url("../img/main/silde_04.jpg") center center no-repeat;
-}
-
+/*----------슬라이드 콘텐츠 간격----------*/
 /*----------슬라이드 콘텐츠_내용----------*/
 .function-box .set-box {
   width: 40%;
+}
+
+.function-box .set-box img {
+  display: inline-block;
 }
 
 .function-box .set-box > span {
@@ -105,29 +113,36 @@
 
 .function-box .set-box > span span {
   display: inline-block;
-  border: 1px solid #fff;
+  border: 2px solid #aaa;
   padding: 1.8rem;
   vertical-align: middle;
   border-radius: 100%;
-  -webkit-transition: .5s;
-  transition: .5s;
+  -webkit-transition: .3s;
+  transition: .3s;
   cursor: pointer;
 }
 
 .function-box .set-box > span span:hover {
-  -webkit-transform: scale(1.1);
-          transform: scale(1.1);
+  border: 2px solid #fff;
 }
 
 .function-box .set-box > span span:nth-of-type(1) {
   margin: 0 0.5rem;
-  background: url("../img/common/thumbs_up.png") center center no-repeat;
-  background-size: 50%;
+  background: url("../img/common/thumbs_up.png") no-repeat center/50%;
+}
+
+.function-box .set-box > span span:nth-of-type(1).active {
+  background: url("../img/common/thumbs_up_fill.png") no-repeat center/50%;
+  border: 2px solid #fff;
 }
 
 .function-box .set-box > span span:nth-of-type(2) {
-  background: url("../img/common/thumbs_down.png") center center no-repeat;
-  background-size: 50%;
+  background: url("../img/common/thumbs_down.png") no-repeat center/50%;
+}
+
+.function-box .set-box > span span:nth-of-type(2).active {
+  background: url("../img/common/thumbs_down_fill.png") no-repeat center/50%;
+  border: 2px solid #fff;
 }
 
 .function-box .set-box button {
@@ -153,6 +168,7 @@
 
 .function-box .info {
   width: 60%;
+  padding-left: 1rem;
 }
 
 .function-box .info strong {
@@ -168,71 +184,108 @@
 }
 
 /*----------슬라이드 전환 인디게이터----------*/
-.ig {
+.ig2 {
   text-align: center;
   padding-top: 3rem;
+  /* span {
+        display: inline-block;
+        width: 8px;
+        height: 8px;
+        background: #666;
+        margin-left: 1.6rem;
+        position: relative;
+        transition: .5s;
+
+        &.active {
+            width: 80px;
+            background: #3a0306;
+
+            span {
+                background: #c2151c;
+            }
+        }
+
+        &:first-child {
+            margin: 0;
+        }
+
+        span {
+            display: block;
+            position: absolute;
+            width: 0;
+            height: 100%;
+            background: #980f15;
+            transition: .5s;
+        }
+    } */
 }
 
-.ig span {
+.ig2 .btn {
   display: inline-block;
-  width: 8px;
-  height: 8px;
-  background: #666;
-  margin-left: 1.6rem;
-  position: relative;
-  -webkit-transition: .5s;
-  transition: .5s;
-}
-
-.ig span.active {
-  width: 80px;
-  background: #3a0306;
-}
-
-.ig span.active span {
-  background: #c2151c;
-}
-
-.ig span:first-child {
-  margin: 0;
-}
-
-.ig span span {
-  display: block;
-  position: absolute;
-  width: 0;
-  height: 100%;
-  background: #980f15;
-  -webkit-transition: .5s;
-  transition: .5s;
-}
-
-.ig .btn {
-  display: inline-block;
+  margin-left: 1rem;
+  vertical-align: .4rem;
   background: none;
 }
 
-.ig .btn .btn-play,
-.ig .btn .btn-pause {
+.ig2 .btn .btn-play,
+.ig2 .btn .btn-pause {
   display: inline-block;
   width: 24px;
   height: 24px;
 }
 
-.ig .btn .btn-play img,
-.ig .btn .btn-pause img {
+.ig2 .btn .btn-play img,
+.ig2 .btn .btn-pause img {
   width: 100%;
   height: 100%;
   vertical-align: middle;
 }
 
-.ig .btn .btn-play {
-  display: none;
+.ig2 .slick-dots li.slick-active {
+  width: 80px;
+  background: #5c2d2f;
 }
 
+.ig2 .slick-dots li {
+  position: relative;
+}
+
+.ig2 .slick-dots li span {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0%;
+  height: 100%;
+}
+
+.ig2 .slick-dots li.slick-active span {
+  width: 100%;
+  -webkit-transition: 3.3s;
+  transition: 3.3s;
+}
+
+/* .ig2 .btn .btn-play {
+    display: none;
+} */
 /*----------슬라이드 전환 버튼----------*/
-.slide_prev,
+/* .slide_prev,
 .slide_next {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: .5s;
+    cursor: pointer;
+
+    &:hover {
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+} */
+.slide .slick-prev,
+.slide .slick-next {
   display: inline-block;
   width: 60px;
   height: 60px;
@@ -243,10 +296,12 @@
   -webkit-transition: .5s;
   transition: .5s;
   cursor: pointer;
+  font-size: 0;
+  outline: none;
 }
 
-.slide_prev:hover,
-.slide_next:hover {
+.slide .slick-prev:hover,
+.slide .slick-next:hover {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
@@ -262,12 +317,26 @@
   right: 0;
 }
 
+.slide .slick-prev {
+  background: url("../img/common/slide_left.png") center center no-repeat;
+  background-color: rgba(80, 80, 80, 0.5);
+  left: 0;
+  z-index: 700;
+}
+
+.slide .slick-next {
+  background: url("../img/common/slide_right.png") center center no-repeat;
+  background-color: rgba(80, 80, 80, 0.5);
+  right: 0;
+}
+
 /*----------TOP10_프로그램----------*/
 .top-10 > div {
   width: 1200px;
   margin: 0 auto;
   padding: 4rem 0;
   border-bottom: 2px solid #555;
+  overflow: hidden;
 }
 
 .top-10 > div h2 {
@@ -275,31 +344,61 @@
   margin-bottom: 2rem;
 }
 
-.top-10 > div div {
+.top-10 > div > div {
   position: relative;
 }
 
-.top-10 > div div ul {
-  width: 100%;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+.top-10 .slide-box {
+  position: relative;
+  left: 0;
+  height: 300px;
+  -webkit-transition: .7s;
+  transition: .7s;
 }
 
-.top-10 > div div ul li {
+.top-slide {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  /* display: flex;
+    justify-content: space-between; */
+}
+
+.top-slide:after {
+  content: '';
+  display: block;
+  clear: left;
+}
+
+.top-slide li {
   font-size: 0;
-  width: 23.3%;
+  float: left;
+  width: 277.5px;
+  height: 100%;
+  margin-right: 30px;
+  overflow: hidden;
+  cursor: pointer;
 }
 
-.top-10 > div div ul li img {
+.top-slide li:last-child {
+  margin: 0;
+}
+
+.top-slide li:hover img {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.top-slide li img {
   width: 100%;
+  height: 100%;
+  -webkit-transition: .5s;
+  transition: .5s;
 }
 
 /*----------TOP10_프로그램 리스트----------*/
-.top-10_list {
+.tv_list {
   position: absolute;
   right: 0;
   top: -7%;
@@ -309,14 +408,17 @@
   transition: .5s;
 }
 
-.top-10_list span {
+.tv_list span {
   display: inline-block;
   width: 20px;
   height: 2px;
+  margin-left: 3px;
   background: #666;
+  -webkit-transition: .3s;
+  transition: .3s;
 }
 
-.top-10_list span.active {
+.tv_list span.active {
   background: #fff;
 }
 
@@ -347,7 +449,7 @@
   background-color: rgba(0, 0, 0, 0.5);
 }
 
-.top-10 > div div:hover .top-10_list,
+.top-10 > div div:hover .tv_list,
 .top-10 > div div:hover .top-10_prev,
 .top-10 > div div:hover .top-10_next {
   opacity: 1;
@@ -373,15 +475,24 @@
   margin-right: 2rem;
 }
 
-.tv-title > span {
-  font-size: 1.6rem;
+.tv-title .option {
   margin-left: 3rem;
+}
+
+.tv-title .option span {
+  font-size: 1.6rem;
+  color: #555;
+  -webkit-transition: .3s;
+  transition: .3s;
   cursor: pointer;
 }
 
-.tv-title > span span:last-child {
+.tv-title .option span:last-child {
   margin-left: 20px;
-  color: #555;
+}
+
+.tv-title .option span.active {
+  color: #fff;
 }
 
 /*----------장르 버튼----------*/
@@ -400,6 +511,7 @@
   border: 1px solid #fff;
   padding: 0.8rem 1.5rem;
   font-size: 1.4rem;
+  cursor: pointer;
 }
 
 .genre span img {
@@ -417,12 +529,13 @@
       -ms-flex-pack: justify;
           justify-content: space-between;
   font-size: 1.4rem;
-  width: 350%;
+  width: 350px;
   background: rgba(80, 80, 80, 0.8);
   visibility: hidden;
   opacity: 0;
   -webkit-transition: .5s;
   transition: .5s;
+  z-index: 99;
 }
 
 .genre > div ul li {
@@ -434,55 +547,102 @@
   cursor: pointer;
 }
 
+.genre > div.active {
+  visibility: visible;
+  opacity: 1;
+}
+
 /*----------프로그램 목록----------*/
 .tv-program div article h3 {
   font-size: 2rem;
   margin: 4rem 0 2rem 0;
 }
 
-.tv-program div article div {
-  position: relative;
-}
+/* .tv-program div article div {
+    position: relative;
 
-.tv-program div article div ul {
+    ul {
+        width: 100%;
+
+        li {
+            font-size: 0;
+            width: 23.3%;
+            overflow: hidden;
+            cursor: pointer;
+
+            &:hover {
+                img {
+                    transform: scale(1.03);
+                }
+            }
+
+            img {
+                width: 100%;
+                transition: .5s;
+            }
+        }
+    }
+} */
+.slide-box2 ul {
   width: 100%;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-}
-
-.tv-program div article div ul li {
-  font-size: 0;
-  width: 23.3%;
-}
-
-.tv-program div article div ul li img {
-  width: 100%;
-}
-
-/*----------TOP10_프로그램 리스트----------*/
-.tv_list {
+  height: 100%;
+  overflow: hidden;
   position: absolute;
-  right: 0;
-  top: -7%;
-  visibility: hidden;
-  opacity: 0;
+  /* display: flex;
+    justify-content: space-between; */
+}
+
+.slide-box2 ul:after {
+  content: '';
+  display: block;
+  clear: left;
+}
+
+.slide-box2 ul li {
+  font-size: 0;
+  float: left;
+  width: 277.5px;
+  height: 100%;
+  margin-right: 30px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.slide-box2 ul li:last-child {
+  margin: 0;
+}
+
+.slide-box2 ul li:hover img {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+}
+
+.slide-box2 ul li img {
+  width: 100%;
+  height: 100%;
   -webkit-transition: .5s;
   transition: .5s;
 }
 
-.tv_list span {
-  display: inline-block;
-  width: 20px;
-  height: 2px;
-  background: #666;
+/*----------TV프로그램 슬라이드----------*/
+.slide-box2 {
+  position: relative;
+  left: 0%;
+  height: 300px;
+  -webkit-transition: .7s;
+  transition: .7s;
 }
 
-.tv_list span.active {
-  background: #fff;
+.netflix-ori .slide-box2 {
+  height: 360px;
+}
+
+.cont_slide {
+  position: relative;
+}
+
+.cont-box {
+  overflow: hidden;
 }
 
 /*----------TOP10_프로그램 슬라이드 버튼----------*/
@@ -512,9 +672,9 @@
   background-color: rgba(0, 0, 0, 0.5);
 }
 
-.tv-program article div:hover .tv_list,
-.tv-program article div:hover .tv_prev,
-.tv-program article div:hover .tv_next {
+.tv-program article .cont_slide:hover .tv_list,
+.tv-program article .cont_slide:hover .tv_prev,
+.tv-program article .cont_slide:hover .tv_next {
   opacity: 1;
   visibility: visible;
 }

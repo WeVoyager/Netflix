@@ -34,7 +34,7 @@
     padding-top: 4rem;
     float: left;
 
-    input[type=text] {
+    input[type=text],input[type=password] {
         width: 350px;
         height: 50px;
         border: 1px solid #ccc;
@@ -83,7 +83,7 @@
 .step {
     display: flex;
     transition: .5s;
-    // transform: translateX(-200%)
+    // transform: translateX(-100%) 트랜스폼으로 단계 조정
 }
 
 //회원가입 단계
@@ -105,29 +105,37 @@
 }
 
 //1단계
-.one p {
-    span:last-child {
-        font-size: 1.6rem;
-        line-height: 1.3;
-        margin-bottom: 2rem;
-    }
+.one {
+    opacity: 0;
+    transition: .5s;
 
-    strong {
-        display: inline-block;
-        margin-bottom: 0.5rem;
-        font-size: 2rem;
+    input[type=submit]{
+        margin-top: 2rem;
     }
+    
+    p {
+        span:last-child {
+            font-size: 1.6rem;
+            line-height: 1.3;
+            margin-bottom: 2rem;
+        }
+
+        strong {
+            display: inline-block;
+            margin-bottom: 0.5rem;
+            font-size: 2rem;
+        }
+    }
+}
+
+.one.active{
+    opacity: 1;
 }
 
 //2단계
 .two {
-    input[type=text] {
-        display: none;
-    }
-
-    .save-id {
-        display: none;
-    }
+    opacity: 0;
+    transition: .5s;
 
     p {
         .benefit {
@@ -145,8 +153,14 @@
     }
 }
 
+.two.active{
+    opacity: 1;
+}
+
 //3단계
 .three {
+    opacity: 0;
+    transition: .5s;
 
     >p {
         .benefit {
@@ -164,14 +178,18 @@
     }
 }
 
+.three.active{
+    opacity: 1;
+}
+
 .three div {
     width: 100%;
     background: #fff;
     padding: 1.5rem;
     border-radius: .5rem;
     margin-bottom: 2rem;
-    
-    &::after{
+
+    &::after {
         content: '';
         display: block;
         clear: left;
@@ -197,12 +215,13 @@
             }
         }
 
-        &:nth-of-type(2), &:nth-of-type(3){
+        &:nth-of-type(2),
+        &:nth-of-type(3) {
             color: #999;
             float: left;
             width: 50%;
 
-            span{
+            span {
                 display: block;
             }
         }
@@ -243,10 +262,10 @@
 
 .ig {
     position: absolute;
-    right: 5%;
+    right: 0;
     top: -10%;
 
-    span {
+    /* span {
         display: inline-block;
         width: 8px;
         height: 8px;
@@ -275,12 +294,11 @@
             background: #980f15;
             transition: .5s;
         }
-    }
+    } */
 }
 
 .change-ads {
     width: 300px;
-    overflow: hidden;
 
     //오른쪽 배너광고 움직임효과
     /*  
@@ -288,16 +306,12 @@
             transform: translateX(-100%)
         }
     */
-
-    ul {
-        display: flex;
-        color: #fff;
-        transition: .5s;
-    }
 }
 
 .ig .btn {
     display: inline-block;
+    margin-left: 1rem;
+    vertical-align: -.5rem;
     background: none;
 
     .btn-play,
@@ -309,7 +323,6 @@
         img {
             width: 100%;
             height: 100%;
-            vertical-align: middle;
         }
     }
 }
