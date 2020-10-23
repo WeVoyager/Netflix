@@ -6,7 +6,7 @@ $(function(){
         }
 
         $.ajax({
-            url: '../preview.json',
+            url: 'preview.json',
             type: 'GET',
             success: function (data) {
                 var subList = '', title = '', listEl = '', arLabel = '';
