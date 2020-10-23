@@ -51,6 +51,7 @@ body {
 
 .tv-program div article > div p {
   position: absolute;
+  display: none;
   left: 49%;
   top: 20%;
   -webkit-transform: translateX(-50%);
