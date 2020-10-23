@@ -35,13 +35,6 @@ $(function () {
 
         $('nav').on('mouseleave', barMove2);
 
-        /* $(window).on('wheel',function(e){
-            if($('.burger-menu span').eq(1).attr('class') == 'active'){
-                $(this).scrollTop(nowY);
-            };
-            console.log(nowY)
-        }) */
-
         $(window).on('scroll', function (e) {
             e.preventDefault();
         })
@@ -151,7 +144,7 @@ $(function () {
         /* -------------------콘텐츠 상세정보------------------- */
 
         $.ajax({
-            url: '../preview.json',
+            url: 'preview.json',
             type: 'GET',
             success: function (data) {
                 var imgUrl = '',
