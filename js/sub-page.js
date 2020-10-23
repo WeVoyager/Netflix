@@ -1,10 +1,4 @@
 $(function(){
-        if($('.sub-list li').length == 0){
-            $('.sub-scroll p').fadeIn();
-        }else{
-            $('.sub-scroll p').fadeOut();
-        }
-
         $.ajax({
             url: 'preview.json',
             type: 'GET',
@@ -22,11 +16,18 @@ $(function(){
                     }
                 });
                 $('.sub-list').html(listEl);
-                console.log(arLabel)
                 $('.sub-list li').each(function(idx){
                     $(this).attr('aria-label',arLabel.split(',')[idx])
                     $(this).find('img').attr('alt',arLabel.split(',')[idx])
                 })
+
+                if($('.sub-list li').length > 0){
+                    $('.sub-scroll p').fadeOut();
+                }else{
+                    $('.sub-scroll p').fadeIn();
+                }
+        
+                console.log($('.sub-list li').length)
             }
         })
 })
